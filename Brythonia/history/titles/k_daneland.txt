@@ -1,0 +1,53 @@
+k_daneland = {
+	867.1.1 = {
+		change_development_level = 10
+	}
+	1066.1.1 = {
+		change_development_level = 14
+	}
+	1178.1.1 = {
+		change_development_level = 28
+	}
+}
+
+d_york = {
+	867.1.1 = {
+		change_development_level = 12
+	}
+	1066.1.1 = {
+		change_development_level = 20
+	}
+	1178.1.1 = {
+		change_development_level = 32
+	}
+}
+
+c_north_riding = {
+	867.1.1 = {
+		change_development_level = 18
+	}
+	1066.1.1 = {
+		change_development_level = 25
+	}
+	1178.1.1 = {
+		change_development_level = 48
+	}
+}
+
+d_lancaster = {
+}
+
+c_lancashire = {
+    867.1.1 = {
+		change_development_level = 15
+	}
+}
+
+d_northumberland = {
+}
+
+c_northumberland = {
+    867.1.1 = {
+		change_development_level = 15
+	}
+}

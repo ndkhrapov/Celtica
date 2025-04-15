@@ -1,0 +1,23 @@
+iberic = {
+	color = iberic
+	created = 43.1.1
+	parents = { celtic }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_iberic
+	language = language_iberic
+	martial_custom = martial_custom_equal
+	traditions = {
+	}
+	
+	name_list = name_list_iberic
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	
+	ethnicities = {
+		100 = caucasian_dark_hair
+	}
+}

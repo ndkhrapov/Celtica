@@ -1,0 +1,69 @@
+﻿name_list_loegric = {
+    dynasty_names = {
+	}
+
+    cadet_dynasty_names = {
+	}
+
+	male_names = {
+	}
+
+	female_names = {
+	}
+}
+
+name_list_cumbrian = {
+	cadet_dynasty_names = {
+	}
+
+	dynasty_names = {
+	}
+
+	male_names = {
+	}
+
+	female_names = {
+	}
+}
+
+name_list_cornish = {
+	cadet_dynasty_names = {
+	}
+
+	dynasty_names = {
+	}
+
+	male_names = {
+	}
+
+	female_names = {
+	}
+}
+
+name_list_welsh = {
+	cadet_dynasty_names = {
+	}
+
+	dynasty_names = {
+	}
+
+	male_names = {
+	}
+
+	female_names = {
+	}
+}
+
+name_list_pictish = {
+	cadet_dynasty_names = {
+	}
+
+	dynasty_names = {
+	}
+
+	male_names = {
+	}
+
+	female_names = {
+	}
+}

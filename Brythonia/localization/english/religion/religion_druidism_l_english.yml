@@ -1,0 +1,116 @@
+﻿l_english:
+
+ #Generic Druidic/Common Druidic Localization
+ druidism_religion:0 "Druidism"
+ druidism_religion_adj:0 "Druidic"
+ druidism_religion_adherent:0 "Druid"
+ druidism_religion_adherent_plural:0 "Druids"
+ druidism_religion_desc:0 "Commonly defined by a reverence for nature, ancestor worship, and a belief in spirits, many native faiths are considered to be various forms of druidism."
+
+ druidism_high_god_name:0 "Mother Earth"
+ druidism_high_god_name_2:0 "$druidism_high_god_name$" # Optional translation alt
+ druidism_high_god_name_possessive:0 "Mother Earth's"
+ druidism_high_god_name_alternate:0 "Gaia"
+ druidism_high_god_name_alternate_possessive:0 "Gaia's"
+ druidism_good_god_father_sky:0 "$druidism_trickster_god_name$"
+ druidism_good_god_ancestors:0 "the ancestors"
+ druidism_devil_name:0 "corruption"
+ druidism_devil_name_possessive:0 "corruption's"
+ druidism_devil_shehe:0 "it"
+ druidism_devil_herselfhimself:0 "itself"
+ druidism_devil_herhis:0 "its"
+ druidism_evil_god_decay:0 "blight"
+ druidism_evil_god_decay_possessive:0 "blight's"
+ druidism_evil_god_drought:0 "drought"
+ druidism_death_deity_name:0 "death"
+ druidism_death_deity_name_possessive:0 "death's"
+ druidism_death_deity_herhis:0 "its"
+ druidism_mother_earth_father_sky:0 "Mother Earth and Father Sky"
+ druidism_mother_earth_father_sky_2:0 "$druidism_mother_earth_father_sky$" # Optional translation alt
+ druidism_mother_earth_father_sky_3:0 "$druidism_mother_earth_father_sky$" # Optional translation alt
+ 
+
+ druidism_creator_god_name:0 "$druidism_high_god_name$"
+ druidism_creator_god_name_possessive:0 "$druidism_high_god_name_possessive$"
+ druidism_health_god_name:0 "$druidism_high_god_name$"
+ druidism_health_god_name_possessive:0 "$druidism_high_god_name_possessive$"
+ druidism_fertility_god_name:0 "$druidism_high_god_name$"
+ druidism_fertility_god_name_possessive:0 "$druidism_high_god_name_possessive$"
+ druidism_wealth_god_name:0 "$druidism_high_god_name$"
+ druidism_wealth_god_name_possessive:0 "$druidism_high_god_name_possessive$"
+ druidism_household_god_name:0 "$druidism_high_god_name$"
+ druidism_household_god_name_possessive:0 "$druidism_high_god_name_possessive$"
+ druidism_fate_god_name:0 "fate"
+ druidism_fate_god_name_possessive:0 "fate's"
+ druidism_knowledge_god_name:0 "$druidism_high_god_name$"
+ druidism_knowledge_god_name_possessive:0 "$druidism_high_god_name_possessive$"
+ druidism_war_god_name:0 "$druidism_high_god_name$"
+ druidism_war_god_name_possessive:0 "$druidism_high_god_name_possessive$"
+ druidism_trickster_god_name:0 "Father Sky"
+ druidism_trickster_god_name_possessive:0 "Father Sky"
+ druidism_night_god_name:0 "$druidism_trickster_god_name$"
+ druidism_night_god_name_possessive:0 "$druidism_trickster_god_name_possessive$"
+ druidism_water_god_name:0 "$druidism_high_god_name$"
+ druidism_water_god_name_possessive:0 "$druidism_high_god_name_possessive$"
+
+ druidism_house_of_worship:0 "temple"
+ druidism_house_of_worship_2:0 "$druidism_house_of_worship$" # Optional translation alt
+ druidism_house_of_worship_3:0 "$druidism_house_of_worship$" # Optional translation alt
+ druidism_house_of_worship_plural:0 "temples"
+ druidism_religious_symbol:0 "triquetra"
+ druidism_religious_symbol_2:0 "$druidism_religious_symbol$" # Optional translation alt
+ druidism_religious_symbol_3:0 "$druidism_religious_symbol$" # Optional translation alt
+ druidism_religious_text:0 "sacred stories"
+ druidism_religious_text_2:0 "$druidism_religious_text$" # Optional translation alt
+ druidism_religious_text_3:0 "$druidism_religious_text$" # Optional translation alt
+ druidism_religious_head_title:0 "High Shaman"
+ druidism_religious_head_title_name:0 "High Council"
+ druidism_devotee:0 "devotee"
+ druidism_devoteeplural:0 "devotees"
+ druidism_priest:0 "shaman"
+ druidism_priest_plural:0 "shamans"
+ druidism_priest_alternate_plural:1 "elders"
+ druidism_divine_realm:0 "the Heavens"
+ druidism_divine_realm_2:0 "$druidism_divine_realm$" # Optional translation alt
+ druidism_divine_realm_3:0 "$druidism_divine_realm$" # Optional translation alt
+ druidism_afterlife:0 "the underworld"
+ druidism_afterlife_2:0 "$druidism_afterlife$" # Optional translation alt
+ druidism_afterlife_3:0 "$druidism_afterlife$" # Optional translation alt
+ witchgodname_druidism_the_shadow:0 "the Shadow"
+ witchgodname_druidism_the_shadow_possessive:0 "the Shadow's"
+
+ celtic:0 "Celticism"
+ celtic_adj:0 "Celtic"
+ celtic_adherent:0 "Celt"
+ celtic_adherent_plural:0 "Celts"
+
+ brythonic:0 "Brythonism"
+ brythonic_adj:0 "Brythonic"
+ brythonic_adherent:0 "Brython"
+ brythonic_adherent_plural:0 "Brythons"
+
+ goidelic:0 "Goidelism"
+ goidelic_adj:0 "Goidelic"
+ goidelic_adherent:0 "Goidelic"
+ goidelic_adherent_plural:0 "Goidels"
+
+ gaulic:0 "Gaulism"
+ gaulic_adj:0 "Gaulic"
+ gaulic_adherent:0 "Gaulic"
+ gaulic_adherent_plural:0 "Gaulics"
+
+ iberic:0 "Iberism"
+ iberic_adj:0 "Iberic"
+ iberic_adherent:0 "Iberic"
+ iberic_adherent_plural:0 "Iberics"
+
+ alemanic:0 "Alemanism"
+ alemanic_adj:0 "Alemanic"
+ alemanic_adherent:0 "Alemanic"
+ alemanic_adherent_plural:0 "Alemanics"
+
+ italic:0 "Italism"
+ italic_adj:0 "Italic"
+ italic_adherent:0 "Italic"
+ italic_adherent_plural:0 "Italics"
+ 

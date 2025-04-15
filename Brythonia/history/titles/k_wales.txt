@@ -1,0 +1,53 @@
+k_wales = {
+	867.1.1 = {
+		change_development_level = 8
+	}
+	1066.1.1 = {
+		change_development_level = 11
+	}
+	1178.1.1 = {
+		change_development_level = 32
+	}
+}
+
+d_gwynedd = {
+	867.1.1 = {
+		change_development_level = 10
+	}
+	1066.1.1 = {
+		change_development_level = 18
+	}
+	1178.1.1 = {
+		change_development_level = 36
+	}
+}
+
+c_cardiganshire = {
+	867.1.1 = {
+		change_development_level = 15
+	}
+	1066.1.1 = {
+		change_development_level = 20
+	}
+	1178.1.1 = {
+		change_development_level = 39
+	}
+}
+
+d_deheubarth = {
+}
+
+c_carmarthenshire = {
+    867.1.1 = {
+		change_development_level = 12
+	}
+}
+
+d_powys = {
+}
+
+c_maldwyn = {
+    867.1.1 = {
+		change_development_level = 12
+	}
+}

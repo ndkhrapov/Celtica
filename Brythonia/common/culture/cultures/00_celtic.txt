@@ -1,0 +1,93 @@
+celtic = {
+	color = celtic
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_celtic
+	language = language_celtic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_agrarian
+		tradition_collective_lands
+		tradition_tribe_unity
+		tradition_equal_inheritance
+		tradition_pacifism
+		tradition_xenophilic
+		tradition_religion_blending
+		tradition_culture_blending
+	}
+	
+	name_list = name_list_celtic
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+		100 = caucasian_ginger
+	}
+}
+
+brythonic = {
+	color = brythonic
+	created = 64.1.1
+	parents = { celtic }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_celtic
+	language = language_celtic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_agrarian
+		tradition_collective_lands
+		tradition_tribe_unity
+		tradition_equal_inheritance
+		tradition_pacifism
+		tradition_xenophilic
+		tradition_religion_blending
+		tradition_culture_blending
+	}
+	
+	name_list = name_list_brythonic
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+		100 = caucasian_ginger
+	}
+}
+
+goidelic = {
+	color = goidelic
+	created = 64.1.1
+	parents = { celtic }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_celtic
+	language = language_celtic
+	martial_custom = martial_custom_equal
+	traditions = {
+		tradition_agrarian
+		tradition_collective_lands
+		tradition_tribe_unity
+		tradition_equal_inheritance
+		tradition_pacifism
+		tradition_xenophilic
+		tradition_religion_blending
+		tradition_culture_blending
+	}
+	
+	name_list = name_list_goidelic
+	
+	coa_gfx = { western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+		100 = caucasian_ginger
+	}
+}

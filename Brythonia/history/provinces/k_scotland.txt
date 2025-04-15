@@ -1,0 +1,714 @@
+#k_scotland
+##d_albany ###################################
+###c_gowrie
+1741 = {	#Perth / b_st_johnston
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	867.1.1 = {
+		special_building = holy_site_pagan_grand_temple_01
+		duchy_capital_building = royal_forest_01
+	}
+	900.1.1 = {
+		holding = castle_holding
+	}
+	1178.1.1 = {
+		holding = city_holding
+	}
+}
+1742 = {	#Coupar Angus
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1745 = {	#Crieff
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_fife
+1724 = {	#Dunfermline
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1725 = {	#Kircaldy / Kirckaldy
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1726 = {	#St Andrews
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_strathearn
+1734 = {	#Stirling
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1735 = {	#Callander
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1736 = {	#Clackmannan
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_atholl
+1743 = {	#Dunkeld
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1744 = {	#Aberfeldy
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_angus
+1720 = {	#Dundee
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1721 = {	#Kirriemuir
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1723 = {	#Mar
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_mearns
+1718 = {	#Aberdeen
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1719 = {	#Kincardine
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1722 = {	#Ballater
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+##d_lothian ###################################
+###c_lothian
+1727 = {	#Edinburgh
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	769.1.1 = {
+		special_building_slot = generic_university
+	}
+	867.1.1 = {
+		duchy_capital_building = royal_forest_01
+	}
+	900.1.1 = {
+		holding = castle_holding
+	}
+	1066.1.1 = {
+		special_building = generic_university
+	}
+	1178.1.1 = {
+		holding = city_holding
+	}
+}
+1728 = {	#Haddington
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1729 = {	#Galashiels
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1730 = {	#Penicuick
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_dunbar
+1676 = {	#Dunbar
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1675 = {	#Berwick
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_teviotdale
+1677 = {	#Kelso
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1678 = {	#Jedburgh
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1740 = {	#Selkirk
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_linlithgowshire
+1731 = {	#Linlithgow
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1732 = {	#Queensferry
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1733 = {	#Falkirk
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_lanarkshire
+1737 = {	#Lanark
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1738 = {	#Cadyou
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1739 = {	#Biggar
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+##d_galloway ###################################
+###c_lennox
+1695 = {	#Dumbarton
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	769.1.1 = {
+		special_building_slot = generic_university
+	}
+	867.1.1 = {
+		duchy_capital_building = royal_forest_01
+	}
+	900.1.1 = {
+		holding = castle_holding
+	}
+	1066.1.1 = {
+		special_building = generic_university
+	}
+	1178.1.1 = {
+		holding = city_holding
+	}
+}
+1696 = {	#Glasgow
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1697 = {	#Meneith / Menteith
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_galloway
+1682 = {	#Kilcudbrite
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1683 = {	#Sanquhar
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1684 = {	#Wigtown
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_carrick
+1680 = {	#Maybole
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1685 = {	#Girvan
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_ayrshire
+1686 = {	#Kyle
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1687 = {	#Strathgrythe
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1688 = {	#Cunningham
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_annandale
+1679 = {	#Annan
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1681 = {	#Dumfries
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+##d_moray ###################################
+###c_inverness
+1709 = {	#Inverness
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	769.1.1 = {
+		special_building_slot = generic_university
+	}
+	867.1.1 = {
+		duchy_capital_building = royal_forest_01
+	}
+	900.1.1 = {
+		holding = castle_holding
+	}
+	1066.1.1 = {
+		special_building = generic_university
+	}
+	1178.1.1 = {
+		holding = city_holding
+	}
+}
+1710 = {	#Badenoch
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1711 = {	#Glenfinnan
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+8775 = {	#Urquhart
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+8776 = {	#Glenelg
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_moray
+1715 = {	#Elgin
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1716 = {	#Keith
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1717 = {	#Garioch
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_ross
+1703 = {	#Dingwall
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1704 = {	#Gairloch
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+8777 = {	#Tain
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+8778 = {	#Applecross
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_buchan
+1712 = {	#Banff
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1713 = {	#Mortlach
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1714 = {	#Peterhead
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_sutherland
+1705 = {	#Dornoch
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1706 = {	#Durness
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+8779 = {	#Assynt
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_caithness
+1707 = {	#Thurso
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1708 = {	#Wick
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_argyll
+1700 = {	#Kilmarten
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = pictish
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1701 = {	#Glencoe
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1702 = {	#Lomond
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+35 = {		#ARDNAMURCHON
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}

@@ -1,0 +1,166 @@
+#k_mann_the_isles
+##d_the_isles ###################################
+###c_isle_of_man
+1698 = {	#Castletown
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding
+	64.1.1 = {
+		culture = goidelic
+		religion = goidelic
+	}
+	96.1.1 = {
+		culture = gaelic
+	}
+	867.1.1 = {
+		special_building = holy_site_pagan_grand_temple_01
+		duchy_capital_building = royal_forest_01
+	}
+	900.1.1 = {
+		holding = castle_holding
+	}
+	1178.1.1 = {
+		holding = city_holding
+	}
+}
+1699 = {	#Ramsey
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+##d_western_isles ###################################
+###c_inner_hebrides
+1689 = {	#Islay
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = goidelic
+		religion = goidelic
+	}
+	96.1.1 = {
+		culture = gaelic
+	}
+	769.1.1 = {
+	}
+	867.1.1 = {
+		special_building = holy_site_pagan_grand_temple_01
+		duchy_capital_building = royal_forest_01
+	}
+	1066.1.1 = {
+		special_building = generic_university
+	}
+	900.1.1 = {
+		holding = castle_holding
+	}
+	1178.1.1 = {
+		holding = city_holding
+	}
+}
+1690 = {	#Arran
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1691 = {	#Mull
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_outer_hebrides
+1692 = {	#Skye
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = goidelic
+		religion = goidelic
+	}
+	96.1.1 = {
+		culture = gaelic
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1693 = {	#Lewis
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1694 = {	#The Uists
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+##d_northern_isles ###################################
+###c_orkney
+8 = {	#KIRKWALL
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding
+	64.1.1 = {
+		culture = goidelic
+		religion = goidelic
+	}
+	96.1.1 = {
+		culture = gaelic
+	}
+	769.1.1 = {
+	}
+	867.1.1 = {
+		special_building = holy_site_pagan_grand_temple_01
+		duchy_capital_building = royal_forest_01
+	}
+	1066.1.1 = {
+		special_building = generic_university
+	}
+	900.1.1 = {
+		holding = castle_holding
+	}
+	1178.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_faereyar
+6 = {	#TORSHAVN
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding
+	64.1.1 = {
+		culture = goidelic
+		religion = goidelic
+	}
+	96.1.1 = {
+		culture = gaelic
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_shetland
+7 = {	#SCALLOWAY
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding
+	64.1.1 = {
+		culture = goidelic
+		religion = goidelic
+	}
+	96.1.1 = {
+		culture = gaelic
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}

@@ -1,0 +1,328 @@
+name_list_celtic = {
+	dynasty_names = {
+			{ dynnp_a dynn_Celt }
+			{ dynnp_a dynn_Prydain }
+			{ dynnp_a dynn_Lloegr }
+			{ dynnp_a dynn_Trinovantii }
+			{ dynnp_a dynn_Icenii }
+			{ dynnp_a dynn_Cantiacii }
+			{ dynnp_a dynn_Durotrigii }
+			{ dynnp_a dynn_Dobunnii }
+			{ dynnp_a dynn_Coritanii }
+
+			{ dynnp_a dynn_Ogledd }
+			{ dynnp_a dynn_Parisii }
+			{ dynnp_a dynn_Cornovii }
+			{ dynnp_a dynn_Brigantii }
+
+			{ dynnp_a dynn_Kernow }
+			{ dynnp_a dynn_Dumnonii }
+
+			{ dynnp_a dynn_Cymru }
+			{ dynnp_a dynn_Ordovicii }
+			{ dynnp_a dynn_Demetii }
+			{ dynnp_a dynn_Silurii }
+
+			{ dynnp_a dynn_Fortriu }
+			{ dynnp_a dynn_Taexalii }
+			{ dynnp_a dynn_Votadinii }
+			{ dynnp_a dynn_Damnonii }
+			{ dynnp_a dynn_Caledonii }
+
+			{ dynnp_a dynn_Eislean }
+			{ dynnp_a dynn_Eire }
+			{ dynnp_a dynn_Eblanii }
+			{ dynnp_a dynn_Voluntii }
+			{ dynnp_a dynn_Coriondii }
+			{ dynnp_a dynn_Ivernii }
+			{ dynnp_a dynn_Auteinii }
+
+			{ dynnp_a dynn_Gael }
+			{ dynnp_a dynn_Monapii }
+			{ dynnp_a dynn_Carnonacii }
+			{ dynnp_a dynn_Cornavii }
+
+			{ dynnp_a dynn_Isiltir }
+			{ dynnp_a dynn_Carvetii }
+	}
+
+	cadet_dynasty_names = {
+	}
+
+	male_names = {
+		100 = {
+			Aedan
+			Aeron
+			Alaunus
+			Alerix
+			Ambiorix
+			Amorgen
+			Angusel
+			Anluan
+			Antobrogios
+			Aralt
+			Artagnan
+			Artagan
+			Artgal
+			Artorix
+			Asterix
+			Aurelius
+			Balar
+			Belenos
+			Bercorix
+			Blaen
+			Bodicatos
+			Bolgios
+			Branoc
+			Bregos
+			Brennus
+			Brictius
+			Cadeyrn
+			Cadfael
+			Caius
+			Calgacus
+			Camulos
+			Caractacus
+			Cassivellaunus
+			Catugnatus
+			Celatus
+			Cerdic
+			Cingetorix
+			Cintugnatus
+			Clydno
+			Coinneach
+			Commius
+			Conall
+			Conomor
+			Conri
+			Coroticus
+			Crydon
+			Cunobelinus
+			Cynbel
+			Cynfarch
+			Dagos
+			Daire
+			Dumnorix
+			Eborius
+			Eochaid
+			Epidios
+			Esus
+			Ferdiad
+			Fiacc
+			Findabair
+			Flann
+			Gall
+			Garwan
+			Gavrinis
+			Gildas
+			Glas
+			Govan
+			Grannus
+			Guidgen
+			Gurgustius
+			Gwawl
+			Gwydion
+			Idomeneus
+			Idwal
+			Iltud
+			Iorwerth
+			Iovantucarus
+			Isarnogenos
+			Ituin
+			Kaen
+			Kelanus
+			Lachtna
+			Lernos
+			Llywarch
+			Lugotorix
+			Mac Cecht
+			Maelgwn
+			Maglocunus
+			Mandubracius
+			Mannanan
+			Maros
+			Medrod
+			Morcant
+			Moritasgus
+			Muirgen
+			Nantosuelta
+			Nemnetes
+			Nertomarus
+			Nuadu
+			Ogamnos
+			Orgetorix
+			Rhiwallon
+			Riomharos
+			Segovax
+			Senaculus
+			Tancorix
+			Togodumnus
+			Vercingetorix
+			Vindonnus
+		}
+	}
+
+	female_names = {
+		100 = {
+			Aeronwen
+			Aife
+			Alauna
+			Almedha
+			Alys
+			Andarta
+			Anu
+			Arianell
+			Arianrhod
+			Arthes
+			Artio
+			Banu
+			Bebhinn
+			Belenis
+			Belisama
+			Bercora
+			Blathnat
+			Boann
+			Bodicca
+			Branwen
+			Bricta
+			Brigantia
+			Brigid
+			Cadwyn
+			Caer
+			Cait
+			Camilla
+			Cantissa
+			Carmun
+			Cartimandua
+			Cassia
+			Catia
+			Cessair
+			Clíodhna
+			Conwenna
+			Corra
+			Creirwy
+			Cunebild
+			Damona
+			Dechtire
+			Deirdre
+			Druantia
+			Dwywei
+			Eithne
+			Eluned
+			Epona
+			Etain
+			Fainche
+			Fand
+			Feidelm
+			Fionnabhair
+			Flidais
+			Gaine
+			Ginevra
+			Glain
+			Grainne
+			Gwen
+			Gwendolen
+			Gwenfrewi
+			Gwladys
+			Henwen
+			Icauna
+			Ida
+			Idunn
+			Iona
+			Iseult
+			Isolde
+			Iverna
+			Kaen
+			Keela
+			Kennocha
+			Latis
+			Letitia
+			Llywela
+			Llyweth
+			Lugaid
+			Macha
+			Maeve
+			Magia
+			Mairwen
+			Mallaidh
+			Mannessa
+			Marzanna
+			Medb
+			Melangell
+			Mererid
+			Mona
+			Morag
+			Morgaine
+			Morgana
+			Morrigan
+			Nantosuelta
+			Nemain
+			Nessa
+			Niamh
+			Olwen
+			Orlaith
+			Rhiain
+			Rhiannon
+			Rigani
+			Senara
+			Sinead
+			Sorcha
+			Sulwen
+			Tlachtga
+			Tuathflaith
+			Vindonnis
+		}
+	}
+	
+	patronym_prefix_male = "dynnpat_pre_ap"
+	patronym_prefix_male_vowel = "dynnpat_pre_vow_ab"
+	patronym_prefix_female = "dynnpat_pre_ferch"
+	patronym_prefix_female_vowel = "dynnpat_pre_vow_verch"
+	
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+
+	always_use_patronym = yes
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = "dynnp_gwrth"
+
+	pat_grf_name_chance = 20
+	mat_grf_name_chance = 5
+	father_name_chance = 75
+	
+	pat_grm_name_chance = 5
+	mat_grm_name_chance = 20
+	mother_name_chance = 75
+
+	mercenary_names = {
+	}
+}
+
+name_list_brythonic = {
+    dynasty_names = {
+	}
+
+    cadet_dynasty_names = {
+	}
+
+	male_names = {
+	}
+
+	female_names = {
+	}
+}
+
+name_list_goidelic = {
+    dynasty_names = {
+	}
+
+	cadet_dynasty_names = {
+	}
+
+	male_names = {
+	}
+
+	female_names = {
+	}
+}

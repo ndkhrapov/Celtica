@@ -1,0 +1,329 @@
+#k_wales
+##d_gwynedd ###################################
+###c_cardiganshire / Ceredigion
+1657 = {	#Cardigan / Aberteifi
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = welsh
+	}
+	867.1.1 = {
+		special_building = holy_site_pagan_grand_temple_01
+		duchy_capital_building = royal_forest_01
+	}
+	900.1.1 = {
+		holding = castle_holding
+	}
+	1178.1.1 = {
+		holding = city_holding
+	}
+}
+1658 = {	#Aberswyth
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_merioneth / Merionnydd
+1665 = {	#Dolgellau / Harlech
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = welsh
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1666 = {	#Corwen
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_caernarfonshire / Eryri
+1667 = {	#Caernarfon
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = welsh
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1668 = {	#Llyn
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1669 = {	#Llandudno
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_anglesey / Ynys Mon
+1673 = {	#Yns Mons
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = welsh
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1674 = {	#Holyhead / Caer Gybi
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_denbighshire / Perfeddwlad
+1670 = {	#Denbigh / Dinbych
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = welsh
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1671 = {	#Wrexham / Tegeingl
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1672 = {	#Ruthin / Rhuthun
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+##d_deheubarth ###################################
+###c_carmarthenshire / Sir Gaerfyrddin
+1652 = {	#Carmarthen / Caerfyrddin
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = welsh
+	}
+	769.1.1 = {
+		special_building_slot = generic_university
+	}
+	867.1.1 = {
+		duchy_capital_building = royal_forest_01
+	}
+	900.1.1 = {
+		holding = castle_holding
+	}
+	1066.1.1 = {
+		special_building = generic_university
+	}
+	1178.1.1 = {
+		holding = city_holding
+	}
+}
+1653 = {	#Llandovery / Llanymddyfri
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_pembrokeshire / Dyfed
+1654 = {	#Pembroke / Penfro
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = welsh
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1655 = {	#Saint Davids / Tyddewi
+	holding = city_holding
+}
+1656 = {	#Fishguard / Abergwaun
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_glamorgan / Morgannwg
+1649 = {	#Cardiff
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = welsh
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1650 = {	#Swansea / Abertawe
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1651 = {	#Caerphilly / Caerffili
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_monmouthshire / Gwent
+1630 = {	#Newport / Caerllion / b_casnewydd
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = welsh
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1631 = {	# Monmouth / Trefynwy
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+###c_brecknockshire / Brycheiniog
+1659 = {	#Brecon / Aberhonddu
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = welsh
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1660 = {	#Talgerth
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+##d_powys ###################################
+###c_maldwyn Penllyn (Cantrefi, not the peninsula)
+1663 = {	#celticpool / Mathrafal
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = welsh
+	}
+	769.1.1 = {
+		special_building_slot = generic_university
+	}
+	867.1.1 = {
+		duchy_capital_building = royal_forest_01
+	}
+	900.1.1 = {
+		holding = castle_holding
+	}
+	1066.1.1 = {
+		special_building = generic_university
+	}
+	1178.1.1 = {
+		holding = city_holding
+	}
+}
+1664 = {	#Newtown / Machynlleth
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+###c_sir_faesyfed
+1661 = {	#Llandrindod
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding	
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = welsh
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1662 = {	#Rhayader / Rhaeadr Gwy
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}

@@ -1,0 +1,62 @@
+k_scotland = {
+	867.1.1 = {
+		change_development_level = 8
+	}
+	1066.1.1 = {
+		change_development_level = 11
+	}
+	1178.1.1 = {
+		change_development_level = 32
+	}
+}
+
+d_albany = {
+	867.1.1 = {
+		change_development_level = 10
+	}
+	1066.1.1 = {
+		change_development_level = 18
+	}
+	1178.1.1 = {
+		change_development_level = 36
+	}
+}
+
+c_gowrie = {
+	867.1.1 = {
+		change_development_level = 15
+	}
+	1066.1.1 = {
+		change_development_level = 20
+	}
+	1178.1.1 = {
+		change_development_level = 39
+	}
+}
+
+d_lothian = {
+}
+
+c_lothian = {
+	867.1.1 = {
+		change_development_level = 12
+	}
+}
+
+d_galloway = {
+}
+
+c_lennox = {
+	867.1.1 = {
+		change_development_level = 12
+	}
+}
+
+d_moray = {
+}
+
+c_inverness = {
+	867.1.1 = {
+		change_development_level = 12
+	}
+}

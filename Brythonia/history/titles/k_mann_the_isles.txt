@@ -1,0 +1,53 @@
+k_mann_the_isles = {
+	867.1.1 = {
+		change_development_level = 5
+	}
+	1066.1.1 = {
+		change_development_level = 8
+	}
+	1178.1.1 = {
+		change_development_level = 24
+	}
+}
+
+d_the_isles = {
+	867.1.1 = {
+		change_development_level = 8
+	}
+	1066.1.1 = {
+		change_development_level = 12
+	}
+	1178.1.1 = {
+		change_development_level = 29
+	}
+}
+
+c_isle_of_man = {
+	867.1.1 = {
+		change_development_level = 10
+	}
+	1066.1.1 = {
+		change_development_level = 15
+	}
+	1178.1.1 = {
+		change_development_level = 31
+	}
+}
+
+d_western_isles = {
+}
+
+c_inner_hebrides = {
+	867.1.1 = {
+		change_development_level = 6
+	}
+}
+
+d_northern_isles = {
+}
+
+c_orkney = {
+	867.1.1 = {
+		change_development_level = 6
+	}
+}

@@ -1,0 +1,106 @@
+#k_iceland
+##d_iceland ###################################
+###c_vestisland
+2 = {	#REYKJAVIK
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding
+	64.1.1 = {
+		culture = goidelic
+		religion = goidelic
+	}
+	96.1.1 = {
+		culture = icelandic
+	}
+	867.1.1 = {
+		special_building = holy_site_pagan_grand_temple_01
+		duchy_capital_building = royal_forest_01
+	}
+	900.1.1 = {
+		holding = castle_holding
+	}
+	1178.1.1 = {
+		holding = city_holding
+	}
+}
+1 = {	#VESTFIRDIR
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+8771 = {	#OLAFSVIK
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_nordrland
+5 = {	#HUSAVIK
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding
+	64.1.1 = {
+		culture = goidelic
+		religion = goidelic
+	}
+	96.1.1 = {
+		culture = icelandic
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+8773 = {	#VOPNAFJORDUR
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_austisland
+4 = {	#REYDARFJALL
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding
+	64.1.1 = {
+		culture = goidelic
+		religion = goidelic
+	}
+	96.1.1 = {
+		culture = icelandic
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+8772 = {	#HOFN
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_sudurland
+3 = {	#STOKKSEYRI
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding
+	64.1.1 = {
+		culture = goidelic
+		religion = goidelic
+	}
+	96.1.1 = {
+		culture = icelandic
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+8774 = {	#KLAUSTUR
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}

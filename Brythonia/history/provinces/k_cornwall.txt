@@ -1,0 +1,72 @@
+#k_cornwall
+##d_cornwall ###################################
+###c_devon
+1569 = {	#Exeter
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = cornish
+	}
+	867.1.1 = {
+		special_building = holy_site_pagan_grand_temple_01
+		duchy_capital_building = royal_forest_01
+	}
+	900.1.1 = {
+		holding = castle_holding
+	}
+	1178.1.1 = {
+		holding = city_holding
+	}
+}
+1570 = {	#Totnes
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1571 = {	#Okehampton
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1572 = {	#Barnstaple
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_cornwall
+1573 = {	#Launceston
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = cornish
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1574 = {	#Tintagel
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1575 = {	#Helston
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}

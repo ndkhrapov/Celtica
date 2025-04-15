@@ -1,0 +1,41 @@
+﻿name_list_irish = {
+	cadet_dynasty_names = {
+	}
+
+	dynasty_names = {
+	}
+
+	male_names = {
+	}
+
+	female_names = {
+	}
+}
+
+name_list_gaelic = {
+	cadet_dynasty_names = {
+	}
+
+	dynasty_names = {
+	}
+
+	male_names = {
+	}
+
+	female_names = {
+	}
+}
+
+name_list_icelandic = {
+	cadet_dynasty_names = {
+	}
+
+	dynasty_names = {
+	}
+
+	male_names = {
+	}
+
+	female_names = {
+	}
+}

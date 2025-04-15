@@ -1,0 +1,107 @@
+k_ireland = {
+	867.1.1 = {
+		change_development_level = 5
+	}
+	1066.1.1 = {
+		change_development_level = 8
+	}
+	1178.1.1 = {
+		change_development_level = 24
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+	}
+}
+
+d_meath = {
+	867.1.1 = {
+		change_development_level = 8
+	}
+	1066.1.1 = {
+		change_development_level = 12
+	}
+	1178.1.1 = {
+		change_development_level = 29
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+	}
+}
+
+c_dublin = {
+	867.1.1 = {
+		change_development_level = 12
+	}
+	1066.1.1 = {
+		change_development_level = 18
+	}
+	1178.1.1 = {
+		change_development_level = 35
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+	}
+}
+
+d_ulster = {
+}
+
+c_ulster = {
+	867.1.1 = {
+		change_development_level = 6
+	}
+}
+
+d_leinster = {
+}
+
+c_leinster = {
+	867.1.1 = {
+		change_development_level = 6
+	}
+}
+
+d_munster = {
+}
+
+c_thomond = {
+	867.1.1 = {
+		change_development_level = 6
+	}
+}
+
+d_connacht = {
+}
+
+c_connacht = {
+	867.1.1 = {
+		change_development_level = 6
+	}
+}

@@ -1,0 +1,2550 @@
+k_england = {
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = lloegr
+	}
+	112.1.1 = {
+		holder = 0
+	}
+	867.1.1 = {
+		change_development_level = 12
+	}
+	1066.1.1 = {
+		change_development_level = 18
+		holder = c_middlesex-992.1.1
+	}
+	1072.1.1 = {
+		holder = c_middlesex-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_middlesex-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_middlesex-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_middlesex-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_middlesex-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_middlesex-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_middlesex-1104.1.1
+	}
+	1178.1.1 = {
+		change_development_level = 35
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+    }
+	1184.1.1 = {
+		holder = c_middlesex-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_middlesex-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_middlesex-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_middlesex-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_middlesex-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_middlesex-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_middlesex-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_middlesex-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_middlesex-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_middlesex-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_middlesex-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_middlesex-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_middlesex-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_middlesex-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_middlesex-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_middlesex-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_middlesex-1376.1.1
+	}
+}
+
+d_bedford = {
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = lloegr
+	}
+	112.1.1 = {
+		holder = trinovant
+	}
+	144.1.1 = {
+		holder = 0
+	}
+	864.1.1 = {
+		holder = c_middlesex-800.1.1
+	}
+	867.1.1 = {
+		change_development_level = 18
+	}
+	880.1.1 = {
+		holder = c_middlesex-816.1.1
+	}
+	896.1.1 = {
+		holder = c_middlesex-832.1.1
+	}
+	912.1.1 = {
+		holder = c_middlesex-848.1.1
+	}
+	928.1.1 = {
+		holder = c_middlesex-864.1.1
+	}
+	944.1.1 = {
+		holder = c_middlesex-880.1.1
+	}
+	960.1.1 = {
+		holder = c_middlesex-896.1.1
+	}
+	976.1.1 = {
+		holder = c_middlesex-912.1.1
+	}
+	992.1.1 = {
+		holder = c_middlesex-928.1.1
+	}
+	1008.1.1 = {
+		holder = c_middlesex-944.1.1
+	}
+	1024.1.1 = {
+		holder = c_middlesex-960.1.1
+	}
+	1040.1.1 = {
+		holder = c_middlesex-976.1.1
+	}
+	1056.1.1 = {
+		holder = c_middlesex-992.1.1
+	}
+	1066.1.1 = {
+		change_development_level = 25
+	}
+	1072.1.1 = {
+		holder = c_middlesex-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_middlesex-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_middlesex-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_middlesex-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_middlesex-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_middlesex-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_middlesex-1104.1.1
+	}
+	1178.1.1 = {
+		change_development_level = 44
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+    }
+	1184.1.1 = {
+		holder = c_middlesex-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_middlesex-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_middlesex-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_middlesex-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_middlesex-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_middlesex-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_middlesex-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_middlesex-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_middlesex-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_middlesex-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_middlesex-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_middlesex-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_middlesex-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_middlesex-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_middlesex-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_middlesex-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_middlesex-1376.1.1
+	}
+}
+
+c_middlesex = {
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = lloegr
+	}
+	112.1.1 = {
+		holder = trinovant
+	}
+	144.1.1 = {
+		holder = c_middlesex-80.1.1
+	}
+	160.1.1 = {
+		holder = c_middlesex-96.1.1
+	}
+	176.1.1 = {
+		holder = c_middlesex-112.1.1
+	}
+	192.1.1 = {
+		holder = c_middlesex-128.1.1
+	}
+	208.1.1 = {
+		holder = c_middlesex-144.1.1
+	}
+	224.1.1 = {
+		holder = c_middlesex-160.1.1
+	}
+	240.1.1 = {
+		holder = c_middlesex-176.1.1
+	}
+	256.1.1 = {
+		holder = c_middlesex-192.1.1
+	}
+	272.1.1 = {
+		holder = c_middlesex-208.1.1
+	}
+	288.1.1 = {
+		holder = c_middlesex-224.1.1
+	}
+	304.1.1 = {
+		holder = c_middlesex-240.1.1
+	}
+	320.1.1 = {
+		holder = c_middlesex-256.1.1
+	}
+	336.1.1 = {
+		holder = c_middlesex-272.1.1
+	}
+	352.1.1 = {
+		holder = c_middlesex-288.1.1
+	}
+	368.1.1 = {
+		holder = c_middlesex-304.1.1
+	}
+	384.1.1 = {
+		holder = c_middlesex-320.1.1
+	}
+	400.1.1 = {
+		holder = c_middlesex-336.1.1
+	}
+	416.1.1 = {
+		holder = c_middlesex-352.1.1
+	}
+	432.1.1 = {
+		holder = c_middlesex-368.1.1
+	}
+	448.1.1 = {
+		holder = c_middlesex-384.1.1
+	}
+	464.1.1 = {
+		holder = c_middlesex-400.1.1
+	}
+	480.1.1 = {
+		holder = c_middlesex-416.1.1
+	}
+	496.1.1 = {
+		holder = c_middlesex-432.1.1
+	}
+	512.1.1 = {
+		holder = c_middlesex-448.1.1
+	}
+	528.1.1 = {
+		holder = c_middlesex-464.1.1
+	}
+	544.1.1 = {
+		holder = c_middlesex-480.1.1
+	}
+	560.1.1 = {
+		holder = c_middlesex-496.1.1
+	}
+	576.1.1 = {
+		holder = c_middlesex-512.1.1
+	}
+	592.1.1 = {
+		holder = c_middlesex-528.1.1
+	}
+	608.1.1 = {
+		holder = c_middlesex-544.1.1
+	}
+	624.1.1 = {
+		holder = c_middlesex-560.1.1
+	}
+	640.1.1 = {
+		holder = c_middlesex-576.1.1
+	}
+	656.1.1 = {
+		holder = c_middlesex-592.1.1
+	}
+	672.1.1 = {
+		holder = c_middlesex-608.1.1
+	}
+	688.1.1 = {
+		holder = c_middlesex-624.1.1
+	}
+	704.1.1 = {
+		holder = c_middlesex-640.1.1
+	}
+	720.1.1 = {
+		holder = c_middlesex-656.1.1
+	}
+	736.1.1 = {
+		holder = c_middlesex-672.1.1
+	}
+	752.1.1 = {
+		holder = c_middlesex-688.1.1
+	}
+	768.1.1 = {
+		holder = c_middlesex-704.1.1
+	}
+	784.1.1 = {
+		holder = c_middlesex-720.1.1
+	}
+	800.1.1 = {
+		holder = c_middlesex-736.1.1
+	}
+	816.1.1 = {
+		holder = c_middlesex-752.1.1
+	}
+	832.1.1 = {
+		holder = c_middlesex-768.1.1
+	}
+	848.1.1 = {
+		holder = c_middlesex-784.1.1
+	}
+	864.1.1 = {
+		holder = c_middlesex-800.1.1
+	}
+	867.1.1 = {
+		change_development_level = 25
+	}
+	880.1.1 = {
+		holder = c_middlesex-816.1.1
+	}
+	896.1.1 = {
+		holder = c_middlesex-832.1.1
+	}
+	912.1.1 = {
+		holder = c_middlesex-848.1.1
+	}
+	928.1.1 = {
+		holder = c_middlesex-864.1.1
+	}
+	944.1.1 = {
+		holder = c_middlesex-880.1.1
+	}
+	960.1.1 = {
+		holder = c_middlesex-896.1.1
+	}
+	976.1.1 = {
+		holder = c_middlesex-912.1.1
+	}
+	992.1.1 = {
+		holder = c_middlesex-928.1.1
+	}
+	1008.1.1 = {
+		holder = c_middlesex-944.1.1
+	}
+	1024.1.1 = {
+		holder = c_middlesex-960.1.1
+	}
+	1040.1.1 = {
+		holder = c_middlesex-976.1.1
+	}
+	1056.1.1 = {
+		holder = c_middlesex-992.1.1
+	}
+	1066.1.1 = {
+		change_development_level = 44
+	}
+	1072.1.1 = {
+		holder = c_middlesex-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_middlesex-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_middlesex-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_middlesex-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_middlesex-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_middlesex-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_middlesex-1104.1.1
+	}
+	1178.1.1 = {
+		change_development_level = 76
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+    }
+	1184.1.1 = {
+		holder = c_middlesex-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_middlesex-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_middlesex-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_middlesex-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_middlesex-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_middlesex-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_middlesex-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_middlesex-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_middlesex-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_middlesex-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_middlesex-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_middlesex-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_middlesex-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_middlesex-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_middlesex-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_middlesex-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_middlesex-1376.1.1
+	}
+}
+
+d_norfolk = {
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = lloegr
+	}
+	112.1.1 = {
+		holder = icen
+	}
+	144.1.1 = {
+		holder = 0
+	}
+	864.1.1 = {
+		holder = c_norfolk-800.1.1
+	}
+	880.1.1 = {
+		holder = c_norfolk-816.1.1
+	}
+	896.1.1 = {
+		holder = c_norfolk-832.1.1
+	}
+	912.1.1 = {
+		holder = c_norfolk-848.1.1
+	}
+	928.1.1 = {
+		holder = c_norfolk-864.1.1
+	}
+	944.1.1 = {
+		holder = c_norfolk-880.1.1
+	}
+	960.1.1 = {
+		holder = c_norfolk-896.1.1
+	}
+	976.1.1 = {
+		holder = c_norfolk-912.1.1
+	}
+	992.1.1 = {
+		holder = c_norfolk-928.1.1
+	}
+	1008.1.1 = {
+		holder = c_norfolk-944.1.1
+	}
+	1024.1.1 = {
+		holder = c_norfolk-960.1.1
+	}
+	1040.1.1 = {
+		holder = c_norfolk-976.1.1
+	}
+	1056.1.1 = {
+		holder = c_norfolk-992.1.1
+	}
+	1072.1.1 = {
+		holder = c_norfolk-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_norfolk-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_norfolk-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_norfolk-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_norfolk-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_norfolk-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_norfolk-1104.1.1
+	}
+	1184.1.1 = {
+		holder = c_norfolk-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_norfolk-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_norfolk-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_norfolk-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_norfolk-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_norfolk-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_norfolk-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_norfolk-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_norfolk-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_norfolk-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_norfolk-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_norfolk-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_norfolk-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_norfolk-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_norfolk-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_norfolk-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_norfolk-1376.1.1
+	}
+	1066.1.1 = {
+		liege = k_england
+	}
+}
+
+c_norfolk = {
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = lloegr
+	}
+	112.1.1 = {
+		holder = icen
+	}
+	144.1.1 = {
+		holder = c_norfolk-80.1.1
+	}
+	160.1.1 = {
+		holder = c_norfolk-96.1.1
+	}
+	176.1.1 = {
+		holder = c_norfolk-112.1.1
+	}
+	192.1.1 = {
+		holder = c_norfolk-128.1.1
+	}
+	208.1.1 = {
+		holder = c_norfolk-144.1.1
+	}
+	224.1.1 = {
+		holder = c_norfolk-160.1.1
+	}
+	240.1.1 = {
+		holder = c_norfolk-176.1.1
+	}
+	256.1.1 = {
+		holder = c_norfolk-192.1.1
+	}
+	272.1.1 = {
+		holder = c_norfolk-208.1.1
+	}
+	288.1.1 = {
+		holder = c_norfolk-224.1.1
+	}
+	304.1.1 = {
+		holder = c_norfolk-240.1.1
+	}
+	320.1.1 = {
+		holder = c_norfolk-256.1.1
+	}
+	336.1.1 = {
+		holder = c_norfolk-272.1.1
+	}
+	352.1.1 = {
+		holder = c_norfolk-288.1.1
+	}
+	368.1.1 = {
+		holder = c_norfolk-304.1.1
+	}
+	384.1.1 = {
+		holder = c_norfolk-320.1.1
+	}
+	400.1.1 = {
+		holder = c_norfolk-336.1.1
+	}
+	416.1.1 = {
+		holder = c_norfolk-352.1.1
+	}
+	432.1.1 = {
+		holder = c_norfolk-368.1.1
+	}
+	448.1.1 = {
+		holder = c_norfolk-384.1.1
+	}
+	464.1.1 = {
+		holder = c_norfolk-400.1.1
+	}
+	480.1.1 = {
+		holder = c_norfolk-416.1.1
+	}
+	496.1.1 = {
+		holder = c_norfolk-432.1.1
+	}
+	512.1.1 = {
+		holder = c_norfolk-448.1.1
+	}
+	528.1.1 = {
+		holder = c_norfolk-464.1.1
+	}
+	544.1.1 = {
+		holder = c_norfolk-480.1.1
+	}
+	560.1.1 = {
+		holder = c_norfolk-496.1.1
+	}
+	576.1.1 = {
+		holder = c_norfolk-512.1.1
+	}
+	592.1.1 = {
+		holder = c_norfolk-528.1.1
+	}
+	608.1.1 = {
+		holder = c_norfolk-544.1.1
+	}
+	624.1.1 = {
+		holder = c_norfolk-560.1.1
+	}
+	640.1.1 = {
+		holder = c_norfolk-576.1.1
+	}
+	656.1.1 = {
+		holder = c_norfolk-592.1.1
+	}
+	672.1.1 = {
+		holder = c_norfolk-608.1.1
+	}
+	688.1.1 = {
+		holder = c_norfolk-624.1.1
+	}
+	704.1.1 = {
+		holder = c_norfolk-640.1.1
+	}
+	720.1.1 = {
+		holder = c_norfolk-656.1.1
+	}
+	736.1.1 = {
+		holder = c_norfolk-672.1.1
+	}
+	752.1.1 = {
+		holder = c_norfolk-688.1.1
+	}
+	768.1.1 = {
+		holder = c_norfolk-704.1.1
+	}
+	784.1.1 = {
+		holder = c_norfolk-720.1.1
+	}
+	800.1.1 = {
+		holder = c_norfolk-736.1.1
+	}
+	816.1.1 = {
+		holder = c_norfolk-752.1.1
+	}
+	832.1.1 = {
+		holder = c_norfolk-768.1.1
+	}
+	848.1.1 = {
+		holder = c_norfolk-784.1.1
+	}
+	864.1.1 = {
+		holder = c_norfolk-800.1.1
+	}
+	880.1.1 = {
+		holder = c_norfolk-816.1.1
+	}
+	896.1.1 = {
+		holder = c_norfolk-832.1.1
+	}
+	912.1.1 = {
+		holder = c_norfolk-848.1.1
+	}
+	928.1.1 = {
+		holder = c_norfolk-864.1.1
+	}
+	944.1.1 = {
+		holder = c_norfolk-880.1.1
+	}
+	960.1.1 = {
+		holder = c_norfolk-896.1.1
+	}
+	976.1.1 = {
+		holder = c_norfolk-912.1.1
+	}
+	992.1.1 = {
+		holder = c_norfolk-928.1.1
+	}
+	1008.1.1 = {
+		holder = c_norfolk-944.1.1
+	}
+	1024.1.1 = {
+		holder = c_norfolk-960.1.1
+	}
+	1040.1.1 = {
+		holder = c_norfolk-976.1.1
+	}
+	1056.1.1 = {
+		holder = c_norfolk-992.1.1
+	}
+	1072.1.1 = {
+		holder = c_norfolk-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_norfolk-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_norfolk-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_norfolk-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_norfolk-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_norfolk-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_norfolk-1104.1.1
+	}
+	1184.1.1 = {
+		holder = c_norfolk-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_norfolk-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_norfolk-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_norfolk-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_norfolk-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_norfolk-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_norfolk-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_norfolk-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_norfolk-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_norfolk-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_norfolk-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_norfolk-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_norfolk-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_norfolk-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_norfolk-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_norfolk-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_norfolk-1376.1.1
+	}
+	867.1.1 = {
+		change_development_level = 20
+	}
+	1066.1.1 = {
+		change_development_level = 30
+	}
+	1178.1.1 = {
+		change_development_level = 53
+	}
+}
+
+d_canterbury = {
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = lloegr
+	}
+	112.1.1 = {
+		holder = cantiac
+	}
+	144.1.1 = {
+		holder = 0
+	}
+	864.1.1 = {
+		holder = c_kent-800.1.1
+	}
+	880.1.1 = {
+		holder = c_kent-816.1.1
+	}
+	896.1.1 = {
+		holder = c_kent-832.1.1
+	}
+	912.1.1 = {
+		holder = c_kent-848.1.1
+	}
+	928.1.1 = {
+		holder = c_kent-864.1.1
+	}
+	944.1.1 = {
+		holder = c_kent-880.1.1
+	}
+	960.1.1 = {
+		holder = c_kent-896.1.1
+	}
+	976.1.1 = {
+		holder = c_kent-912.1.1
+	}
+	992.1.1 = {
+		holder = c_kent-928.1.1
+	}
+	1008.1.1 = {
+		holder = c_kent-944.1.1
+	}
+	1024.1.1 = {
+		holder = c_kent-960.1.1
+	}
+	1040.1.1 = {
+		holder = c_kent-976.1.1
+	}
+	1056.1.1 = {
+		holder = c_kent-992.1.1
+	}
+	1072.1.1 = {
+		holder = c_kent-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_kent-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_kent-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_kent-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_kent-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_kent-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_kent-1104.1.1
+	}
+	1184.1.1 = {
+		holder = c_kent-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_kent-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_kent-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_kent-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_kent-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_kent-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_kent-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_kent-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_kent-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_kent-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_kent-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_kent-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_kent-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_kent-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_kent-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_kent-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_kent-1376.1.1
+	}
+	1066.1.1 = {
+		liege = k_england
+	}
+}
+
+c_kent = {
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = lloegr
+	}
+	112.1.1 = {
+		holder = cantiac
+	}
+	144.1.1 = {
+		holder = c_kent-80.1.1
+	}
+	160.1.1 = {
+		holder = c_kent-96.1.1
+	}
+	176.1.1 = {
+		holder = c_kent-112.1.1
+	}
+	192.1.1 = {
+		holder = c_kent-128.1.1
+	}
+	208.1.1 = {
+		holder = c_kent-144.1.1
+	}
+	224.1.1 = {
+		holder = c_kent-160.1.1
+	}
+	240.1.1 = {
+		holder = c_kent-176.1.1
+	}
+	256.1.1 = {
+		holder = c_kent-192.1.1
+	}
+	272.1.1 = {
+		holder = c_kent-208.1.1
+	}
+	288.1.1 = {
+		holder = c_kent-224.1.1
+	}
+	304.1.1 = {
+		holder = c_kent-240.1.1
+	}
+	320.1.1 = {
+		holder = c_kent-256.1.1
+	}
+	336.1.1 = {
+		holder = c_kent-272.1.1
+	}
+	352.1.1 = {
+		holder = c_kent-288.1.1
+	}
+	368.1.1 = {
+		holder = c_kent-304.1.1
+	}
+	384.1.1 = {
+		holder = c_kent-320.1.1
+	}
+	400.1.1 = {
+		holder = c_kent-336.1.1
+	}
+	416.1.1 = {
+		holder = c_kent-352.1.1
+	}
+	432.1.1 = {
+		holder = c_kent-368.1.1
+	}
+	448.1.1 = {
+		holder = c_kent-384.1.1
+	}
+	464.1.1 = {
+		holder = c_kent-400.1.1
+	}
+	480.1.1 = {
+		holder = c_kent-416.1.1
+	}
+	496.1.1 = {
+		holder = c_kent-432.1.1
+	}
+	512.1.1 = {
+		holder = c_kent-448.1.1
+	}
+	528.1.1 = {
+		holder = c_kent-464.1.1
+	}
+	544.1.1 = {
+		holder = c_kent-480.1.1
+	}
+	560.1.1 = {
+		holder = c_kent-496.1.1
+	}
+	576.1.1 = {
+		holder = c_kent-512.1.1
+	}
+	592.1.1 = {
+		holder = c_kent-528.1.1
+	}
+	608.1.1 = {
+		holder = c_kent-544.1.1
+	}
+	624.1.1 = {
+		holder = c_kent-560.1.1
+	}
+	640.1.1 = {
+		holder = c_kent-576.1.1
+	}
+	656.1.1 = {
+		holder = c_kent-592.1.1
+	}
+	672.1.1 = {
+		holder = c_kent-608.1.1
+	}
+	688.1.1 = {
+		holder = c_kent-624.1.1
+	}
+	704.1.1 = {
+		holder = c_kent-640.1.1
+	}
+	720.1.1 = {
+		holder = c_kent-656.1.1
+	}
+	736.1.1 = {
+		holder = c_kent-672.1.1
+	}
+	752.1.1 = {
+		holder = c_kent-688.1.1
+	}
+	768.1.1 = {
+		holder = c_kent-704.1.1
+	}
+	784.1.1 = {
+		holder = c_kent-720.1.1
+	}
+	800.1.1 = {
+		holder = c_kent-736.1.1
+	}
+	816.1.1 = {
+		holder = c_kent-752.1.1
+	}
+	832.1.1 = {
+		holder = c_kent-768.1.1
+	}
+	848.1.1 = {
+		holder = c_kent-784.1.1
+	}
+	864.1.1 = {
+		holder = c_kent-800.1.1
+	}
+	880.1.1 = {
+		holder = c_kent-816.1.1
+	}
+	896.1.1 = {
+		holder = c_kent-832.1.1
+	}
+	912.1.1 = {
+		holder = c_kent-848.1.1
+	}
+	928.1.1 = {
+		holder = c_kent-864.1.1
+	}
+	944.1.1 = {
+		holder = c_kent-880.1.1
+	}
+	960.1.1 = {
+		holder = c_kent-896.1.1
+	}
+	976.1.1 = {
+		holder = c_kent-912.1.1
+	}
+	992.1.1 = {
+		holder = c_kent-928.1.1
+	}
+	1008.1.1 = {
+		holder = c_kent-944.1.1
+	}
+	1024.1.1 = {
+		holder = c_kent-960.1.1
+	}
+	1040.1.1 = {
+		holder = c_kent-976.1.1
+	}
+	1056.1.1 = {
+		holder = c_kent-992.1.1
+	}
+	1072.1.1 = {
+		holder = c_kent-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_kent-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_kent-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_kent-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_kent-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_kent-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_kent-1104.1.1
+	}
+	1184.1.1 = {
+		holder = c_kent-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_kent-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_kent-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_kent-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_kent-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_kent-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_kent-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_kent-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_kent-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_kent-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_kent-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_kent-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_kent-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_kent-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_kent-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_kent-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_kent-1376.1.1
+	}
+	867.1.1 = {
+		change_development_level = 20
+	}
+	1066.1.1 = {
+		change_development_level = 30
+	}
+	1178.1.1 = {
+		change_development_level = 53
+	}
+}
+
+d_somerset = {
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = lloegr
+	}
+	112.1.1 = {
+		holder = durotrig
+	}
+	144.1.1 = {
+		holder = 0
+	}
+	864.1.1 = {
+		holder = c_hampton-800.1.1
+	}
+	880.1.1 = {
+		holder = c_hampton-816.1.1
+	}
+	896.1.1 = {
+		holder = c_hampton-832.1.1
+	}
+	912.1.1 = {
+		holder = c_hampton-848.1.1
+	}
+	928.1.1 = {
+		holder = c_hampton-864.1.1
+	}
+	944.1.1 = {
+		holder = c_hampton-880.1.1
+	}
+	960.1.1 = {
+		holder = c_hampton-896.1.1
+	}
+	976.1.1 = {
+		holder = c_hampton-912.1.1
+	}
+	992.1.1 = {
+		holder = c_hampton-928.1.1
+	}
+	1008.1.1 = {
+		holder = c_hampton-944.1.1
+	}
+	1024.1.1 = {
+		holder = c_hampton-960.1.1
+	}
+	1040.1.1 = {
+		holder = c_hampton-976.1.1
+	}
+	1056.1.1 = {
+		holder = c_hampton-992.1.1
+	}
+	1072.1.1 = {
+		holder = c_hampton-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_hampton-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_hampton-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_hampton-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_hampton-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_hampton-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_hampton-1104.1.1
+	}
+	1184.1.1 = {
+		holder = c_hampton-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_hampton-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_hampton-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_hampton-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_hampton-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_hampton-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_hampton-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_hampton-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_hampton-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_hampton-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_hampton-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_hampton-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_hampton-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_hampton-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_hampton-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_hampton-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_hampton-1376.1.1
+	}
+	1066.1.1 = {
+		liege = k_england
+	}
+}
+
+c_hampton = {
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = lloegr
+	}
+	112.1.1 = {
+		holder = durotrig
+	}
+	144.1.1 = {
+		holder = c_hampton-80.1.1
+	}
+	160.1.1 = {
+		holder = c_hampton-96.1.1
+	}
+	176.1.1 = {
+		holder = c_hampton-112.1.1
+	}
+	192.1.1 = {
+		holder = c_hampton-128.1.1
+	}
+	208.1.1 = {
+		holder = c_hampton-144.1.1
+	}
+	224.1.1 = {
+		holder = c_hampton-160.1.1
+	}
+	240.1.1 = {
+		holder = c_hampton-176.1.1
+	}
+	256.1.1 = {
+		holder = c_hampton-192.1.1
+	}
+	272.1.1 = {
+		holder = c_hampton-208.1.1
+	}
+	288.1.1 = {
+		holder = c_hampton-224.1.1
+	}
+	304.1.1 = {
+		holder = c_hampton-240.1.1
+	}
+	320.1.1 = {
+		holder = c_hampton-256.1.1
+	}
+	336.1.1 = {
+		holder = c_hampton-272.1.1
+	}
+	352.1.1 = {
+		holder = c_hampton-288.1.1
+	}
+	368.1.1 = {
+		holder = c_hampton-304.1.1
+	}
+	384.1.1 = {
+		holder = c_hampton-320.1.1
+	}
+	400.1.1 = {
+		holder = c_hampton-336.1.1
+	}
+	416.1.1 = {
+		holder = c_hampton-352.1.1
+	}
+	432.1.1 = {
+		holder = c_hampton-368.1.1
+	}
+	448.1.1 = {
+		holder = c_hampton-384.1.1
+	}
+	464.1.1 = {
+		holder = c_hampton-400.1.1
+	}
+	480.1.1 = {
+		holder = c_hampton-416.1.1
+	}
+	496.1.1 = {
+		holder = c_hampton-432.1.1
+	}
+	512.1.1 = {
+		holder = c_hampton-448.1.1
+	}
+	528.1.1 = {
+		holder = c_hampton-464.1.1
+	}
+	544.1.1 = {
+		holder = c_hampton-480.1.1
+	}
+	560.1.1 = {
+		holder = c_hampton-496.1.1
+	}
+	576.1.1 = {
+		holder = c_hampton-512.1.1
+	}
+	592.1.1 = {
+		holder = c_hampton-528.1.1
+	}
+	608.1.1 = {
+		holder = c_hampton-544.1.1
+	}
+	624.1.1 = {
+		holder = c_hampton-560.1.1
+	}
+	640.1.1 = {
+		holder = c_hampton-576.1.1
+	}
+	656.1.1 = {
+		holder = c_hampton-592.1.1
+	}
+	672.1.1 = {
+		holder = c_hampton-608.1.1
+	}
+	688.1.1 = {
+		holder = c_hampton-624.1.1
+	}
+	704.1.1 = {
+		holder = c_hampton-640.1.1
+	}
+	720.1.1 = {
+		holder = c_hampton-656.1.1
+	}
+	736.1.1 = {
+		holder = c_hampton-672.1.1
+	}
+	752.1.1 = {
+		holder = c_hampton-688.1.1
+	}
+	768.1.1 = {
+		holder = c_hampton-704.1.1
+	}
+	784.1.1 = {
+		holder = c_hampton-720.1.1
+	}
+	800.1.1 = {
+		holder = c_hampton-736.1.1
+	}
+	816.1.1 = {
+		holder = c_hampton-752.1.1
+	}
+	832.1.1 = {
+		holder = c_hampton-768.1.1
+	}
+	848.1.1 = {
+		holder = c_hampton-784.1.1
+	}
+	864.1.1 = {
+		holder = c_hampton-800.1.1
+	}
+	880.1.1 = {
+		holder = c_hampton-816.1.1
+	}
+	896.1.1 = {
+		holder = c_hampton-832.1.1
+	}
+	912.1.1 = {
+		holder = c_hampton-848.1.1
+	}
+	928.1.1 = {
+		holder = c_hampton-864.1.1
+	}
+	944.1.1 = {
+		holder = c_hampton-880.1.1
+	}
+	960.1.1 = {
+		holder = c_hampton-896.1.1
+	}
+	976.1.1 = {
+		holder = c_hampton-912.1.1
+	}
+	992.1.1 = {
+		holder = c_hampton-928.1.1
+	}
+	1008.1.1 = {
+		holder = c_hampton-944.1.1
+	}
+	1024.1.1 = {
+		holder = c_hampton-960.1.1
+	}
+	1040.1.1 = {
+		holder = c_hampton-976.1.1
+	}
+	1056.1.1 = {
+		holder = c_hampton-992.1.1
+	}
+	1072.1.1 = {
+		holder = c_hampton-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_hampton-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_hampton-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_hampton-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_hampton-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_hampton-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_hampton-1104.1.1
+	}
+	1184.1.1 = {
+		holder = c_hampton-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_hampton-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_hampton-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_hampton-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_hampton-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_hampton-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_hampton-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_hampton-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_hampton-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_hampton-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_hampton-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_hampton-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_hampton-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_hampton-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_hampton-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_hampton-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_hampton-1376.1.1
+	}
+	867.1.1 = {
+		change_development_level = 20
+	}
+	1066.1.1 = {
+		change_development_level = 30
+	}
+	1178.1.1 = {
+		change_development_level = 53
+	}
+}
+
+d_gloucester = {
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = lloegr
+	}
+	112.1.1 = {
+		holder = dobunn
+	}
+	144.1.1 = {
+		holder = 0
+	}
+	864.1.1 = {
+		holder = c_gloucestershire-800.1.1
+	}
+	880.1.1 = {
+		holder = c_gloucestershire-816.1.1
+	}
+	896.1.1 = {
+		holder = c_gloucestershire-832.1.1
+	}
+	912.1.1 = {
+		holder = c_gloucestershire-848.1.1
+	}
+	928.1.1 = {
+		holder = c_gloucestershire-864.1.1
+	}
+	944.1.1 = {
+		holder = c_gloucestershire-880.1.1
+	}
+	960.1.1 = {
+		holder = c_gloucestershire-896.1.1
+	}
+	976.1.1 = {
+		holder = c_gloucestershire-912.1.1
+	}
+	992.1.1 = {
+		holder = c_gloucestershire-928.1.1
+	}
+	1008.1.1 = {
+		holder = c_gloucestershire-944.1.1
+	}
+	1024.1.1 = {
+		holder = c_gloucestershire-960.1.1
+	}
+	1040.1.1 = {
+		holder = c_gloucestershire-976.1.1
+	}
+	1056.1.1 = {
+		holder = c_gloucestershire-992.1.1
+	}
+	1072.1.1 = {
+		holder = c_gloucestershire-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_gloucestershire-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_gloucestershire-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_gloucestershire-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_gloucestershire-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_gloucestershire-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_gloucestershire-1104.1.1
+	}
+	1184.1.1 = {
+		holder = c_gloucestershire-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_gloucestershire-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_gloucestershire-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_gloucestershire-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_gloucestershire-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_gloucestershire-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_gloucestershire-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_gloucestershire-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_gloucestershire-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_gloucestershire-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_gloucestershire-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_gloucestershire-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_gloucestershire-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_gloucestershire-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_gloucestershire-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_gloucestershire-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_gloucestershire-1376.1.1
+	}
+	1066.1.1 = {
+		liege = k_england
+	}
+}
+
+c_gloucestershire = {
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = lloegr
+	}
+	112.1.1 = {
+		holder = dobunn
+	}
+	144.1.1 = {
+		holder = c_gloucestershire-80.1.1
+	}
+	160.1.1 = {
+		holder = c_gloucestershire-96.1.1
+	}
+	176.1.1 = {
+		holder = c_gloucestershire-112.1.1
+	}
+	192.1.1 = {
+		holder = c_gloucestershire-128.1.1
+	}
+	208.1.1 = {
+		holder = c_gloucestershire-144.1.1
+	}
+	224.1.1 = {
+		holder = c_gloucestershire-160.1.1
+	}
+	240.1.1 = {
+		holder = c_gloucestershire-176.1.1
+	}
+	256.1.1 = {
+		holder = c_gloucestershire-192.1.1
+	}
+	272.1.1 = {
+		holder = c_gloucestershire-208.1.1
+	}
+	288.1.1 = {
+		holder = c_gloucestershire-224.1.1
+	}
+	304.1.1 = {
+		holder = c_gloucestershire-240.1.1
+	}
+	320.1.1 = {
+		holder = c_gloucestershire-256.1.1
+	}
+	336.1.1 = {
+		holder = c_gloucestershire-272.1.1
+	}
+	352.1.1 = {
+		holder = c_gloucestershire-288.1.1
+	}
+	368.1.1 = {
+		holder = c_gloucestershire-304.1.1
+	}
+	384.1.1 = {
+		holder = c_gloucestershire-320.1.1
+	}
+	400.1.1 = {
+		holder = c_gloucestershire-336.1.1
+	}
+	416.1.1 = {
+		holder = c_gloucestershire-352.1.1
+	}
+	432.1.1 = {
+		holder = c_gloucestershire-368.1.1
+	}
+	448.1.1 = {
+		holder = c_gloucestershire-384.1.1
+	}
+	464.1.1 = {
+		holder = c_gloucestershire-400.1.1
+	}
+	480.1.1 = {
+		holder = c_gloucestershire-416.1.1
+	}
+	496.1.1 = {
+		holder = c_gloucestershire-432.1.1
+	}
+	512.1.1 = {
+		holder = c_gloucestershire-448.1.1
+	}
+	528.1.1 = {
+		holder = c_gloucestershire-464.1.1
+	}
+	544.1.1 = {
+		holder = c_gloucestershire-480.1.1
+	}
+	560.1.1 = {
+		holder = c_gloucestershire-496.1.1
+	}
+	576.1.1 = {
+		holder = c_gloucestershire-512.1.1
+	}
+	592.1.1 = {
+		holder = c_gloucestershire-528.1.1
+	}
+	608.1.1 = {
+		holder = c_gloucestershire-544.1.1
+	}
+	624.1.1 = {
+		holder = c_gloucestershire-560.1.1
+	}
+	640.1.1 = {
+		holder = c_gloucestershire-576.1.1
+	}
+	656.1.1 = {
+		holder = c_gloucestershire-592.1.1
+	}
+	672.1.1 = {
+		holder = c_gloucestershire-608.1.1
+	}
+	688.1.1 = {
+		holder = c_gloucestershire-624.1.1
+	}
+	704.1.1 = {
+		holder = c_gloucestershire-640.1.1
+	}
+	720.1.1 = {
+		holder = c_gloucestershire-656.1.1
+	}
+	736.1.1 = {
+		holder = c_gloucestershire-672.1.1
+	}
+	752.1.1 = {
+		holder = c_gloucestershire-688.1.1
+	}
+	768.1.1 = {
+		holder = c_gloucestershire-704.1.1
+	}
+	784.1.1 = {
+		holder = c_gloucestershire-720.1.1
+	}
+	800.1.1 = {
+		holder = c_gloucestershire-736.1.1
+	}
+	816.1.1 = {
+		holder = c_gloucestershire-752.1.1
+	}
+	832.1.1 = {
+		holder = c_gloucestershire-768.1.1
+	}
+	848.1.1 = {
+		holder = c_gloucestershire-784.1.1
+	}
+	864.1.1 = {
+		holder = c_gloucestershire-800.1.1
+	}
+	880.1.1 = {
+		holder = c_gloucestershire-816.1.1
+	}
+	896.1.1 = {
+		holder = c_gloucestershire-832.1.1
+	}
+	912.1.1 = {
+		holder = c_gloucestershire-848.1.1
+	}
+	928.1.1 = {
+		holder = c_gloucestershire-864.1.1
+	}
+	944.1.1 = {
+		holder = c_gloucestershire-880.1.1
+	}
+	960.1.1 = {
+		holder = c_gloucestershire-896.1.1
+	}
+	976.1.1 = {
+		holder = c_gloucestershire-912.1.1
+	}
+	992.1.1 = {
+		holder = c_gloucestershire-928.1.1
+	}
+	1008.1.1 = {
+		holder = c_gloucestershire-944.1.1
+	}
+	1024.1.1 = {
+		holder = c_gloucestershire-960.1.1
+	}
+	1040.1.1 = {
+		holder = c_gloucestershire-976.1.1
+	}
+	1056.1.1 = {
+		holder = c_gloucestershire-992.1.1
+	}
+	1072.1.1 = {
+		holder = c_gloucestershire-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_gloucestershire-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_gloucestershire-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_gloucestershire-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_gloucestershire-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_gloucestershire-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_gloucestershire-1104.1.1
+	}
+	1184.1.1 = {
+		holder = c_gloucestershire-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_gloucestershire-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_gloucestershire-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_gloucestershire-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_gloucestershire-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_gloucestershire-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_gloucestershire-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_gloucestershire-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_gloucestershire-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_gloucestershire-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_gloucestershire-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_gloucestershire-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_gloucestershire-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_gloucestershire-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_gloucestershire-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_gloucestershire-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_gloucestershire-1376.1.1
+	}
+	867.1.1 = {
+		change_development_level = 20
+	}
+	1066.1.1 = {
+		change_development_level = 30
+	}
+	1178.1.1 = {
+		change_development_level = 53
+	}
+}
+
+d_hereford = {
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = lloegr
+	}
+	112.1.1 = {
+		holder = coritan
+	}
+	144.1.1 = {
+		holder = 0
+	}
+	864.1.1 = {
+		holder = c_warwickshire-800.1.1
+	}
+	880.1.1 = {
+		holder = c_warwickshire-816.1.1
+	}
+	896.1.1 = {
+		holder = c_warwickshire-832.1.1
+	}
+	912.1.1 = {
+		holder = c_warwickshire-848.1.1
+	}
+	928.1.1 = {
+		holder = c_warwickshire-864.1.1
+	}
+	944.1.1 = {
+		holder = c_warwickshire-880.1.1
+	}
+	960.1.1 = {
+		holder = c_warwickshire-896.1.1
+	}
+	976.1.1 = {
+		holder = c_warwickshire-912.1.1
+	}
+	992.1.1 = {
+		holder = c_warwickshire-928.1.1
+	}
+	1008.1.1 = {
+		holder = c_warwickshire-944.1.1
+	}
+	1024.1.1 = {
+		holder = c_warwickshire-960.1.1
+	}
+	1040.1.1 = {
+		holder = c_warwickshire-976.1.1
+	}
+	1056.1.1 = {
+		holder = c_warwickshire-992.1.1
+	}
+	1072.1.1 = {
+		holder = c_warwickshire-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_warwickshire-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_warwickshire-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_warwickshire-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_warwickshire-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_warwickshire-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_warwickshire-1104.1.1
+	}
+	1184.1.1 = {
+		holder = c_warwickshire-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_warwickshire-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_warwickshire-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_warwickshire-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_warwickshire-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_warwickshire-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_warwickshire-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_warwickshire-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_warwickshire-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_warwickshire-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_warwickshire-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_warwickshire-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_warwickshire-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_warwickshire-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_warwickshire-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_warwickshire-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_warwickshire-1376.1.1
+	}
+	1066.1.1 = {
+		liege = k_england
+	}
+}
+
+c_warwickshire = {
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = lloegr
+	}
+	112.1.1 = {
+		holder = coritan
+	}
+	144.1.1 = {
+		holder = c_warwickshire-80.1.1
+	}
+	160.1.1 = {
+		holder = c_warwickshire-96.1.1
+	}
+	176.1.1 = {
+		holder = c_warwickshire-112.1.1
+	}
+	192.1.1 = {
+		holder = c_warwickshire-128.1.1
+	}
+	208.1.1 = {
+		holder = c_warwickshire-144.1.1
+	}
+	224.1.1 = {
+		holder = c_warwickshire-160.1.1
+	}
+	240.1.1 = {
+		holder = c_warwickshire-176.1.1
+	}
+	256.1.1 = {
+		holder = c_warwickshire-192.1.1
+	}
+	272.1.1 = {
+		holder = c_warwickshire-208.1.1
+	}
+	288.1.1 = {
+		holder = c_warwickshire-224.1.1
+	}
+	304.1.1 = {
+		holder = c_warwickshire-240.1.1
+	}
+	320.1.1 = {
+		holder = c_warwickshire-256.1.1
+	}
+	336.1.1 = {
+		holder = c_warwickshire-272.1.1
+	}
+	352.1.1 = {
+		holder = c_warwickshire-288.1.1
+	}
+	368.1.1 = {
+		holder = c_warwickshire-304.1.1
+	}
+	384.1.1 = {
+		holder = c_warwickshire-320.1.1
+	}
+	400.1.1 = {
+		holder = c_warwickshire-336.1.1
+	}
+	416.1.1 = {
+		holder = c_warwickshire-352.1.1
+	}
+	432.1.1 = {
+		holder = c_warwickshire-368.1.1
+	}
+	448.1.1 = {
+		holder = c_warwickshire-384.1.1
+	}
+	464.1.1 = {
+		holder = c_warwickshire-400.1.1
+	}
+	480.1.1 = {
+		holder = c_warwickshire-416.1.1
+	}
+	496.1.1 = {
+		holder = c_warwickshire-432.1.1
+	}
+	512.1.1 = {
+		holder = c_warwickshire-448.1.1
+	}
+	528.1.1 = {
+		holder = c_warwickshire-464.1.1
+	}
+	544.1.1 = {
+		holder = c_warwickshire-480.1.1
+	}
+	560.1.1 = {
+		holder = c_warwickshire-496.1.1
+	}
+	576.1.1 = {
+		holder = c_warwickshire-512.1.1
+	}
+	592.1.1 = {
+		holder = c_warwickshire-528.1.1
+	}
+	608.1.1 = {
+		holder = c_warwickshire-544.1.1
+	}
+	624.1.1 = {
+		holder = c_warwickshire-560.1.1
+	}
+	640.1.1 = {
+		holder = c_warwickshire-576.1.1
+	}
+	656.1.1 = {
+		holder = c_warwickshire-592.1.1
+	}
+	672.1.1 = {
+		holder = c_warwickshire-608.1.1
+	}
+	688.1.1 = {
+		holder = c_warwickshire-624.1.1
+	}
+	704.1.1 = {
+		holder = c_warwickshire-640.1.1
+	}
+	720.1.1 = {
+		holder = c_warwickshire-656.1.1
+	}
+	736.1.1 = {
+		holder = c_warwickshire-672.1.1
+	}
+	752.1.1 = {
+		holder = c_warwickshire-688.1.1
+	}
+	768.1.1 = {
+		holder = c_warwickshire-704.1.1
+	}
+	784.1.1 = {
+		holder = c_warwickshire-720.1.1
+	}
+	800.1.1 = {
+		holder = c_warwickshire-736.1.1
+	}
+	816.1.1 = {
+		holder = c_warwickshire-752.1.1
+	}
+	832.1.1 = {
+		holder = c_warwickshire-768.1.1
+	}
+	848.1.1 = {
+		holder = c_warwickshire-784.1.1
+	}
+	864.1.1 = {
+		holder = c_warwickshire-800.1.1
+	}
+	880.1.1 = {
+		holder = c_warwickshire-816.1.1
+	}
+	896.1.1 = {
+		holder = c_warwickshire-832.1.1
+	}
+	912.1.1 = {
+		holder = c_warwickshire-848.1.1
+	}
+	928.1.1 = {
+		holder = c_warwickshire-864.1.1
+	}
+	944.1.1 = {
+		holder = c_warwickshire-880.1.1
+	}
+	960.1.1 = {
+		holder = c_warwickshire-896.1.1
+	}
+	976.1.1 = {
+		holder = c_warwickshire-912.1.1
+	}
+	992.1.1 = {
+		holder = c_warwickshire-928.1.1
+	}
+	1008.1.1 = {
+		holder = c_warwickshire-944.1.1
+	}
+	1024.1.1 = {
+		holder = c_warwickshire-960.1.1
+	}
+	1040.1.1 = {
+		holder = c_warwickshire-976.1.1
+	}
+	1056.1.1 = {
+		holder = c_warwickshire-992.1.1
+	}
+	1072.1.1 = {
+		holder = c_warwickshire-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_warwickshire-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_warwickshire-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_warwickshire-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_warwickshire-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_warwickshire-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_warwickshire-1104.1.1
+	}
+	1184.1.1 = {
+		holder = c_warwickshire-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_warwickshire-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_warwickshire-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_warwickshire-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_warwickshire-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_warwickshire-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_warwickshire-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_warwickshire-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_warwickshire-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_warwickshire-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_warwickshire-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_warwickshire-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_warwickshire-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_warwickshire-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_warwickshire-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_warwickshire-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_warwickshire-1376.1.1
+	}
+	867.1.1 = {
+		change_development_level = 20
+	}
+	1066.1.1 = {
+		change_development_level = 30
+	}
+	1178.1.1 = {
+		change_development_level = 53
+	}
+}

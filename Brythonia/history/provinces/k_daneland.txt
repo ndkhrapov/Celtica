@@ -1,0 +1,332 @@
+#k_daneland
+##d_york ###################################
+###c_north_riding
+1595 = {	# York
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding 
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = cumbrian
+	}
+	867.1.1 = {
+		special_building = holy_site_pagan_grand_temple_01
+		duchy_capital_building = royal_forest_01
+	}
+	900.1.1 = {
+		holding = castle_holding
+	}
+	1178.1.1 = {
+		holding = city_holding
+	}
+}
+1596 = {	#Scarborough
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1597 = {	#Whitby
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1598 = {	#Richmond
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+	#1071
+}
+1500 = {	#Yarlestre
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_east_riding
+1588 = {	#Pocklington
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = cumbrian
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1589 = {	#Cottingham
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1590 = {	#Bridlington
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_west_riding
+1591 = {	#Leeds
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = cumbrian
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1592 = {	#Doncaster
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1593 = {	#Halifax
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1594 = {	#Sheffield
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1499 = {	#York
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1599 = {	#Ripon
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+##d_lancaster ###################################
+###c_lancashire
+1639 = {	#Lancaster
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = cumbrian
+	}
+	769.1.1 = {
+		special_building_slot = generic_university
+	}
+	867.1.1 = {
+		duchy_capital_building = royal_forest_01
+	}
+	900.1.1 = {
+		holding = castle_holding
+	}
+	1066.1.1 = {
+		special_building = generic_university
+	}
+	1178.1.1 = {
+		holding = city_holding
+	}
+}
+1640 = {	#Salford
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1641 = {	#West Derby
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_westmorland
+1637 = {	#Kendal
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = cumbrian
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1638 = {	#Appleby
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_cheshire
+1643 = {	#Chester
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = cumbrian
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1644 = {	#Northwich
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1645 = {	#Macclesfield
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+##d_northumberland ###################################
+###c_northumberland
+1609 = {	#Bamburgh
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = cumbrian
+	}
+	769.1.1 = {
+		special_building_slot = generic_university
+	}
+	867.1.1 = {
+		duchy_capital_building = royal_forest_01
+	}
+	900.1.1 = {
+		holding = castle_holding
+	}
+	1066.1.1 = {
+		special_building = generic_university
+	}
+	1178.1.1 = {
+		holding = city_holding
+	}
+}
+1612 = {	#Rothbury
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1610 = {	#Lindisfarne
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1611 = {	#Hexham
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_durham
+1606 = {	# 1606 - Durham
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = cumbrian
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1607 = {	#Hartlepool
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1608 = {	#Darlington
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+
+###c_cumberland
+1635 = {	#Carlisle
+	culture = celtic
+	religion = druidic
+	holding = tribal_holding
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = cumbrian
+	}
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1636 = {	#Whitehaven
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1642 = {	#Furness
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+8780 = {	#Wigton
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}

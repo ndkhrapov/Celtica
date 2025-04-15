@@ -1,0 +1,35 @@
+k_cornwall = {
+	867.1.1 = {
+		change_development_level = 10
+	}
+	1066.1.1 = {
+		change_development_level = 14
+	}
+	1178.1.1 = {
+		change_development_level = 28
+	}
+}
+
+d_cornwall = {
+	867.1.1 = {
+		change_development_level = 12
+	}
+	1066.1.1 = {
+		change_development_level = 20
+	}
+	1178.1.1 = {
+		change_development_level = 32
+	}
+}
+
+c_devon = {
+	867.1.1 = {
+		change_development_level = 18
+	}
+	1066.1.1 = {
+		change_development_level = 25
+	}
+	1178.1.1 = {
+		change_development_level = 48
+	}
+}
