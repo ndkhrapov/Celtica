@@ -1,13 +1,70 @@
 ﻿l_english:
  FOUNDER_BASED_NAME_POSTFIX:0 "id"
  ############################################################
- # Prefixes
+ # Modded 
  ############################################################
+
+ dynnpat_pre_ap:0 "ap "
+ dynnpat_pre_vow_ab:0 "ab "
+ dynnpat_pre_ferch:0 "ferch "
+ dynnpat_pre_vow_verch:0 "verch "
+
+ dynnpat_suf_s:0 "s"
+
+ dynn_Celt:0 "Celt"
+ dynn_Prydain:0 "Prydain"
+ dynn_Lloegr:0 "Lloegr"
+ dynn_Trinovantii:0 "Trinovantii"
+ dynn_Icenii:0 "Icenii"
+ dynn_Cantiacii:0 "Cantiacii"
+ dynn_Durotrigii:0 "Durotrigii"
+ dynn_Dobunnii:0 "Dobunnii"
+ dynn_Coritanii:0 "Coritanii"
+
+ dynn_Ogledd:0 "Ogledd"
+ dynn_Parisii:0 "Parisii"
+ dynn_Cornovii:0 "Cornovii"
+ dynn_Brigantii:0 "Brigantii"
+
+ dynn_Kernow:0 "Kernow"
+ dynn_Dumnonii:0 "Dumnonii"
+
+ dynn_Cymru:0 "Cymru"
+ dynn_Ordovicii:0 "Ordovicii"
+ dynn_Demetii:0 "Demetii"
+ dynn_Silurii:0 "Silurii"
  
+ dynn_Fortriu:0 "Fortriu"
+ dynn_Taexalii:0 "Taexalii"
+ dynn_Votadinii:0 "Votadinii"
+ dynn_Damnonii:0 "Damnonii"
+ dynn_Caledonii:0 "Caledonii"
+ 
+ dynn_Eislean:0 "Eislean"
+ dynn_Eire:0 "Eire"
+ dynn_Eblanii:0 "Eblanii"
+ dynn_Voluntii:0 "Voluntii"
+ dynn_Coriondii:0 "Coriondii"
+ dynn_Ivernii:0 "Ivernii"
+ dynn_Auteinii:0 "Auteinii"
+
+ dynn_Gael:0 "Gael"
+ dynn_Monapii:0 "Monapii"
+ dynn_Carnonacii:0 "Carnonacii"
+ dynn_Cornavii:0 "Cornavii"
+
+ dynn_Isiltir:0 "Isiltir"
+ dynn_Carvetii:0 "Carvetii"
+
+ dynnp_a:0 "a "
+
  dynnp_gwrth:0 "Gwrth"
 
+ ############################################################
+ # Prefixes
+ ############################################################
+
  dynnp__:0 "'"
- dynnp_a:0 "a "
  dynnp_a_:0 "a' "
  dynn_Arvidsson_Radestig:0 "Arvidsdōttir Ráðestig"
  dynnp_ad-:0 "ad-"
@@ -68,53 +125,6 @@
  ############################################################
  # Names
  ############################################################
-
- dynn_Spirit:0 "Spirit"
- 
- dynn_Celt:0 "Celt"
- dynn_Prydain:0 "Prydain"
- dynn_Lloegr:0 "Lloegr"
- dynn_Trinovantii:0 "Trinovantii"
- dynn_Icenii:0 "Icenii"
- dynn_Cantiacii:0 "Cantiacii"
- dynn_Durotrigii:0 "Durotrigii"
- dynn_Dobunnii:0 "Dobunnii"
- dynn_Coritanii:0 "Coritanii"
-
- dynn_Ogledd:0 "Ogledd"
- dynn_Parisii:0 "Parisii"
- dynn_Cornovii:0 "Cornovii"
- dynn_Brigantii:0 "Brigantii"
-
- dynn_Kernow:0 "Kernow"
- dynn_Dumnonii:0 "Dumnonii"
-
- dynn_Cymru:0 "Cymru"
- dynn_Ordovicii:0 "Ordovicii"
- dynn_Demetii:0 "Demetii"
- dynn_Silurii:0 "Silurii"
- 
- dynn_Fortriu:0 "Fortriu"
- dynn_Taexalii:0 "Taexalii"
- dynn_Votadinii:0 "Votadinii"
- dynn_Damnonii:0 "Damnonii"
- dynn_Caledonii:0 "Caledonii"
- 
- dynn_Eislean:0 "Eislean"
- dynn_Eire:0 "Eire"
- dynn_Eblanii:0 "Eblanii"
- dynn_Voluntii:0 "Voluntii"
- dynn_Coriondii:0 "Coriondii"
- dynn_Ivernii:0 "Ivernii"
- dynn_Auteinii:0 "Auteinii"
-
- dynn_Gael:0 "Gael"
- dynn_Monapii:0 "Monapii"
- dynn_Carnonacii:0 "Carnonacii"
- dynn_Cornavii:0 "Cornavii"
-
- dynn_Isiltir:0 "Isiltir"
- dynn_Carvetii:0 "Carvetii"
 
  dynn_a__Chruiteir:0 "a' Chruiteir"
  dynn_A__Mhaoirne:0 "A' Mhaoirne"
@@ -7032,15 +7042,12 @@
 
  # PATRONYMS — PREFIXES AND SUFFIXES
 
- dynnpat_pre_ab:0 "ab "
  dynnpat_pre_ach:0 "ach "
- dynnpat_pre_ap:0 "ap "
  dynnpat_pre_Bar:0 "Bar "
  dynnpat_pre_Barta:0 "Barta "
  dynnpat_pre_bint:0 "bint "
  dynnpat_pre_di:0 "di "
  dynnpat_pre_duda:0 "duda "
- dynnpat_pre_ferch:0 "ferch "
  dynnpat_pre_filius:0 "filius "
  dynnpat_pre_fils:0 "fils "
  dynnpat_pre_fitz:0 "fitz "
@@ -7063,7 +7070,6 @@
  dynnpat_pre_tkacer:0 "tkacer "
  dynnpat_pre_uab:0 "uab "
  dynnpat_pre_vch:0 "vch "
- dynnpat_pre_verch:0 "verch "
  dynnpat_pre_zk:0 "zk "
  
  dynnpat_suf_az:0 "az"
@@ -7084,7 +7090,6 @@
  dynnpat_suf_ovna:0 "ovna"
  dynnpat_suf_owska:0 "owska"
  dynnpat_suf_owski:0 "owski"
- dynnpat_suf_s:0 "s"
  dynnpat_suf_s_dze:0 "s dze"
  dynnpat_suf_sdatter:0 "sdatter"
  dynnpat_suf_sdaughter:0 "sdaughter"
@@ -7107,7 +7112,6 @@
  dynnpat_suf_dukht:0 "dukht"
  dynnpat_suf_zk:0 "zk"
  
- dynnpat_pre_vow_ab:0 "ab "
  dynnpat_pre_vow_mab:0 "mab "
  dynnpat_pre_vow_mag:0 "mag "
  dynnpat_pre_vow_nig:0 "nig "

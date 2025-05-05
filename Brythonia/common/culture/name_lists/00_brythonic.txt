@@ -1,69 +1,1599 @@
 ﻿name_list_loegric = {
     dynasty_names = {
+			{ dynnp_a dynn_Celt }
+			{ dynnp_a dynn_Prydain }
+			{ dynnp_a dynn_Lloegr }
+			{ dynnp_a dynn_Trinovantii }
+			{ dynnp_a dynn_Icenii }
+			{ dynnp_a dynn_Cantiacii }
+			{ dynnp_a dynn_Durotrigii }
+			{ dynnp_a dynn_Dobunnii }
+			{ dynnp_a dynn_Coritanii }
+
+			{ dynnp_a dynn_Ogledd }
+			{ dynnp_a dynn_Parisii }
+			{ dynnp_a dynn_Cornovii }
+			{ dynnp_a dynn_Brigantii }
+
+			{ dynnp_a dynn_Kernow }
+			{ dynnp_a dynn_Dumnonii }
+
+			{ dynnp_a dynn_Cymru }
+			{ dynnp_a dynn_Ordovicii }
+			{ dynnp_a dynn_Demetii }
+			{ dynnp_a dynn_Silurii }
+
+			{ dynnp_a dynn_Fortriu }
+			{ dynnp_a dynn_Taexalii }
+			{ dynnp_a dynn_Votadinii }
+			{ dynnp_a dynn_Damnonii }
+			{ dynnp_a dynn_Caledonii }
+
+			{ dynnp_a dynn_Eislean }
+			{ dynnp_a dynn_Eire }
+			{ dynnp_a dynn_Eblanii }
+			{ dynnp_a dynn_Voluntii }
+			{ dynnp_a dynn_Coriondii }
+			{ dynnp_a dynn_Ivernii }
+			{ dynnp_a dynn_Auteinii }
+
+			{ dynnp_a dynn_Gael }
+			{ dynnp_a dynn_Monapii }
+			{ dynnp_a dynn_Carnonacii }
+			{ dynnp_a dynn_Cornavii }
+
+			{ dynnp_a dynn_Isiltir }
+			{ dynnp_a dynn_Carvetii }
 	}
 
     cadet_dynasty_names = {
+			{ dynnp_a dynn_Celt }
+			{ dynnp_a dynn_Prydain }
+			{ dynnp_a dynn_Lloegr }
+			{ dynnp_a dynn_Trinovantii }
+			{ dynnp_a dynn_Icenii }
+			{ dynnp_a dynn_Cantiacii }
+			{ dynnp_a dynn_Durotrigii }
+			{ dynnp_a dynn_Dobunnii }
+			{ dynnp_a dynn_Coritanii }
+
+			{ dynnp_a dynn_Ogledd }
+			{ dynnp_a dynn_Parisii }
+			{ dynnp_a dynn_Cornovii }
+			{ dynnp_a dynn_Brigantii }
+
+			{ dynnp_a dynn_Kernow }
+			{ dynnp_a dynn_Dumnonii }
+
+			{ dynnp_a dynn_Cymru }
+			{ dynnp_a dynn_Ordovicii }
+			{ dynnp_a dynn_Demetii }
+			{ dynnp_a dynn_Silurii }
+
+			{ dynnp_a dynn_Fortriu }
+			{ dynnp_a dynn_Taexalii }
+			{ dynnp_a dynn_Votadinii }
+			{ dynnp_a dynn_Damnonii }
+			{ dynnp_a dynn_Caledonii }
+
+			{ dynnp_a dynn_Eislean }
+			{ dynnp_a dynn_Eire }
+			{ dynnp_a dynn_Eblanii }
+			{ dynnp_a dynn_Voluntii }
+			{ dynnp_a dynn_Coriondii }
+			{ dynnp_a dynn_Ivernii }
+			{ dynnp_a dynn_Auteinii }
+
+			{ dynnp_a dynn_Gael }
+			{ dynnp_a dynn_Monapii }
+			{ dynnp_a dynn_Carnonacii }
+			{ dynnp_a dynn_Cornavii }
+
+			{ dynnp_a dynn_Isiltir }
+			{ dynnp_a dynn_Carvetii }
 	}
 
 	male_names = {
+		Celt
+		Prydain
+		Eislean
+		Lloegr
+		Ogledd
+		Kernow
+		Cymru
+		Fortriu
+		Eire
+		Gael
+		Isiltir
+		Trinovant
+		Icen
+		Cantiac
+		Durotrig
+		Dobunn
+		Coritan
+		Paris
+		Cornov
+		Brigant
+		Dumnon
+		Ordovic
+		Demet
+		Silur
+		Taexal
+		Votadin
+		Damnon
+		Caledon
+		Eblan
+		Volunt
+		Coriond
+		Ivern
+		Autein
+		Monap
+		Carnonac
+		Cornav
+		Carvet
+		Selgoven
+		Lagin
+		Menap
+		Ancalon
+		Nagnat
+		Segont
+		Brannov
+		Vennic
+		Brocav
+		Trevan
+		Meldon
+		Dinet
+		Lugad
+		Catav
+		Dovrain
+		Eburon
+		Trever
+		Bodvogen
+		Rigon
+		Moridun
+		Vindon
+		Cadoric
+		Maros
+		Duron
+		Galan
+		Aeron
+		Dumnat
+		Camulod
+		Alclud
+		Belatuc
+		Arduen
+		Druidan
+		Cantion
+		Vericon
+		Caradron
+		Brigomag
+		Iscador
+		Trinamag
+		Durover
+		Moricon
+		Vendon
+		Selicon
+		Epidon
+		Brigon
+		Trevigon
+		Camuron
+		Venicor
+		Aeronon
+		Vedric
+		Tavor
+		Durodan
+		Maricon
+		Cadvon
+		Carnodon
+		Ogdon
+		Fortrigon
+		Isildon
+		Corvan
+		Durocor
+		Brenic
 	}
 
 	female_names = {
+		Celta
+		Prydana
+		Eislea
+		Lloegra
+		Ogleda
+		Kernowa
+		Cymra
+		Fortria
+		Eira
+		Gaela
+		Isiltira
+		Trinovanta
+		Icina
+		Cantiaca
+		Durotrica
+		Dobunna
+		Coritana
+		Parisa
+		Cornova
+		Briganta
+		Dumnona
+		Ordovica
+		Demeta
+		Silura
+		Taexala
+		Votadina
+		Damona
+		Caledona
+		Eblana
+		Volunta
+		Corionda
+		Iverna
+		Auteina
+		Monapa
+		Carnona
+		Cornava
+		Carveta
+		Selgovena
+		Lagina
+		Menapa
+		Ancalona
+		Nagnata
+		Segonta
+		Brannova
+		Vennica
+		Brocava
+		Trevana
+		Meldona
+		Dineta
+		Lugada
+		Catava
+		Dovrana
+		Eburona
+		Trevera
+		Bodvogena
+		Rigona
+		Moriduna
+		Vindona
+		Cadorica
+		Marosa
+		Durona
+		Galana
+		Aerona
+		Dumnata
+		Camuloda
+		Alcluda
+		Belatuca
+		Arduena
+		Druidana
+		Cantiona
+		Vericona
+		Caradrona
+		Brigomaga
+		Iscadora
+		Trinamaga
+		Durovera
+		Moricona
+		Vendona
+		Selicona
+		Epidona
+		Brigona
+		Trevigona
+		Camurona
+		Venicora
+		Aeronona
+		Vedrica
+		Tavora
+		Durodana
+		Maricona
+		Cadvena
+		Carnodona
+		Ogdona
+		Fortrigona
+		Isildona
+		Corvana
+		Durocora
+		Brenica
+	}
+	
+	patronym_prefix_male = "dynnpat_pre_ap"
+	patronym_prefix_male_vowel = "dynnpat_pre_vow_ab"
+	patronym_prefix_female = "dynnpat_pre_ferch"
+	patronym_prefix_female_vowel = "dynnpat_pre_vow_verch"
+	
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+
+	always_use_patronym = yes
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = "dynnp_gwrth"
+
+	pat_grf_name_chance = 20
+	mat_grf_name_chance = 5
+	father_name_chance = 75
+	
+	pat_grm_name_chance = 5
+	mat_grm_name_chance = 20
+	mother_name_chance = 75
+
+	mercenary_names = {
 	}
 }
 
 name_list_cumbrian = {
-	cadet_dynasty_names = {
+    dynasty_names = {
+			{ dynnp_a dynn_Celt }
+			{ dynnp_a dynn_Prydain }
+			{ dynnp_a dynn_Lloegr }
+			{ dynnp_a dynn_Trinovantii }
+			{ dynnp_a dynn_Icenii }
+			{ dynnp_a dynn_Cantiacii }
+			{ dynnp_a dynn_Durotrigii }
+			{ dynnp_a dynn_Dobunnii }
+			{ dynnp_a dynn_Coritanii }
+
+			{ dynnp_a dynn_Ogledd }
+			{ dynnp_a dynn_Parisii }
+			{ dynnp_a dynn_Cornovii }
+			{ dynnp_a dynn_Brigantii }
+
+			{ dynnp_a dynn_Kernow }
+			{ dynnp_a dynn_Dumnonii }
+
+			{ dynnp_a dynn_Cymru }
+			{ dynnp_a dynn_Ordovicii }
+			{ dynnp_a dynn_Demetii }
+			{ dynnp_a dynn_Silurii }
+
+			{ dynnp_a dynn_Fortriu }
+			{ dynnp_a dynn_Taexalii }
+			{ dynnp_a dynn_Votadinii }
+			{ dynnp_a dynn_Damnonii }
+			{ dynnp_a dynn_Caledonii }
+
+			{ dynnp_a dynn_Eislean }
+			{ dynnp_a dynn_Eire }
+			{ dynnp_a dynn_Eblanii }
+			{ dynnp_a dynn_Voluntii }
+			{ dynnp_a dynn_Coriondii }
+			{ dynnp_a dynn_Ivernii }
+			{ dynnp_a dynn_Auteinii }
+
+			{ dynnp_a dynn_Gael }
+			{ dynnp_a dynn_Monapii }
+			{ dynnp_a dynn_Carnonacii }
+			{ dynnp_a dynn_Cornavii }
+
+			{ dynnp_a dynn_Isiltir }
+			{ dynnp_a dynn_Carvetii }
 	}
 
-	dynasty_names = {
+    cadet_dynasty_names = {
+			{ dynnp_a dynn_Celt }
+			{ dynnp_a dynn_Prydain }
+			{ dynnp_a dynn_Lloegr }
+			{ dynnp_a dynn_Trinovantii }
+			{ dynnp_a dynn_Icenii }
+			{ dynnp_a dynn_Cantiacii }
+			{ dynnp_a dynn_Durotrigii }
+			{ dynnp_a dynn_Dobunnii }
+			{ dynnp_a dynn_Coritanii }
+
+			{ dynnp_a dynn_Ogledd }
+			{ dynnp_a dynn_Parisii }
+			{ dynnp_a dynn_Cornovii }
+			{ dynnp_a dynn_Brigantii }
+
+			{ dynnp_a dynn_Kernow }
+			{ dynnp_a dynn_Dumnonii }
+
+			{ dynnp_a dynn_Cymru }
+			{ dynnp_a dynn_Ordovicii }
+			{ dynnp_a dynn_Demetii }
+			{ dynnp_a dynn_Silurii }
+
+			{ dynnp_a dynn_Fortriu }
+			{ dynnp_a dynn_Taexalii }
+			{ dynnp_a dynn_Votadinii }
+			{ dynnp_a dynn_Damnonii }
+			{ dynnp_a dynn_Caledonii }
+
+			{ dynnp_a dynn_Eislean }
+			{ dynnp_a dynn_Eire }
+			{ dynnp_a dynn_Eblanii }
+			{ dynnp_a dynn_Voluntii }
+			{ dynnp_a dynn_Coriondii }
+			{ dynnp_a dynn_Ivernii }
+			{ dynnp_a dynn_Auteinii }
+
+			{ dynnp_a dynn_Gael }
+			{ dynnp_a dynn_Monapii }
+			{ dynnp_a dynn_Carnonacii }
+			{ dynnp_a dynn_Cornavii }
+
+			{ dynnp_a dynn_Isiltir }
+			{ dynnp_a dynn_Carvetii }
 	}
 
 	male_names = {
+		Celt
+		Prydain
+		Eislean
+		Lloegr
+		Ogledd
+		Kernow
+		Cymru
+		Fortriu
+		Eire
+		Gael
+		Isiltir
+		Trinovant
+		Icen
+		Cantiac
+		Durotrig
+		Dobunn
+		Coritan
+		Paris
+		Cornov
+		Brigant
+		Dumnon
+		Ordovic
+		Demet
+		Silur
+		Taexal
+		Votadin
+		Damnon
+		Caledon
+		Eblan
+		Volunt
+		Coriond
+		Ivern
+		Autein
+		Monap
+		Carnonac
+		Cornav
+		Carvet
+		Selgoven
+		Lagin
+		Menap
+		Ancalon
+		Nagnat
+		Segont
+		Brannov
+		Vennic
+		Brocav
+		Trevan
+		Meldon
+		Dinet
+		Lugad
+		Catav
+		Dovrain
+		Eburon
+		Trever
+		Bodvogen
+		Rigon
+		Moridun
+		Vindon
+		Cadoric
+		Maros
+		Duron
+		Galan
+		Aeron
+		Dumnat
+		Camulod
+		Alclud
+		Belatuc
+		Arduen
+		Druidan
+		Cantion
+		Vericon
+		Caradron
+		Brigomag
+		Iscador
+		Trinamag
+		Durover
+		Moricon
+		Vendon
+		Selicon
+		Epidon
+		Brigon
+		Trevigon
+		Camuron
+		Venicor
+		Aeronon
+		Vedric
+		Tavor
+		Durodan
+		Maricon
+		Cadvon
+		Carnodon
+		Ogdon
+		Fortrigon
+		Isildon
+		Corvan
+		Durocor
+		Brenic
 	}
 
 	female_names = {
+		Celta
+		Prydana
+		Eislea
+		Lloegra
+		Ogleda
+		Kernowa
+		Cymra
+		Fortria
+		Eira
+		Gaela
+		Isiltira
+		Trinovanta
+		Icina
+		Cantiaca
+		Durotrica
+		Dobunna
+		Coritana
+		Parisa
+		Cornova
+		Briganta
+		Dumnona
+		Ordovica
+		Demeta
+		Silura
+		Taexala
+		Votadina
+		Damona
+		Caledona
+		Eblana
+		Volunta
+		Corionda
+		Iverna
+		Auteina
+		Monapa
+		Carnona
+		Cornava
+		Carveta
+		Selgovena
+		Lagina
+		Menapa
+		Ancalona
+		Nagnata
+		Segonta
+		Brannova
+		Vennica
+		Brocava
+		Trevana
+		Meldona
+		Dineta
+		Lugada
+		Catava
+		Dovrana
+		Eburona
+		Trevera
+		Bodvogena
+		Rigona
+		Moriduna
+		Vindona
+		Cadorica
+		Marosa
+		Durona
+		Galana
+		Aerona
+		Dumnata
+		Camuloda
+		Alcluda
+		Belatuca
+		Arduena
+		Druidana
+		Cantiona
+		Vericona
+		Caradrona
+		Brigomaga
+		Iscadora
+		Trinamaga
+		Durovera
+		Moricona
+		Vendona
+		Selicona
+		Epidona
+		Brigona
+		Trevigona
+		Camurona
+		Venicora
+		Aeronona
+		Vedrica
+		Tavora
+		Durodana
+		Maricona
+		Cadvena
+		Carnodona
+		Ogdona
+		Fortrigona
+		Isildona
+		Corvana
+		Durocora
+		Brenica
+	}
+	
+	patronym_prefix_male = "dynnpat_pre_ap"
+	patronym_prefix_male_vowel = "dynnpat_pre_vow_ab"
+	patronym_prefix_female = "dynnpat_pre_ferch"
+	patronym_prefix_female_vowel = "dynnpat_pre_vow_verch"
+	
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+
+	always_use_patronym = yes
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = "dynnp_gwrth"
+
+	pat_grf_name_chance = 20
+	mat_grf_name_chance = 5
+	father_name_chance = 75
+	
+	pat_grm_name_chance = 5
+	mat_grm_name_chance = 20
+	mother_name_chance = 75
+
+	mercenary_names = {
 	}
 }
 
 name_list_cornish = {
-	cadet_dynasty_names = {
+    dynasty_names = {
+			{ dynnp_a dynn_Celt }
+			{ dynnp_a dynn_Prydain }
+			{ dynnp_a dynn_Lloegr }
+			{ dynnp_a dynn_Trinovantii }
+			{ dynnp_a dynn_Icenii }
+			{ dynnp_a dynn_Cantiacii }
+			{ dynnp_a dynn_Durotrigii }
+			{ dynnp_a dynn_Dobunnii }
+			{ dynnp_a dynn_Coritanii }
+
+			{ dynnp_a dynn_Ogledd }
+			{ dynnp_a dynn_Parisii }
+			{ dynnp_a dynn_Cornovii }
+			{ dynnp_a dynn_Brigantii }
+
+			{ dynnp_a dynn_Kernow }
+			{ dynnp_a dynn_Dumnonii }
+
+			{ dynnp_a dynn_Cymru }
+			{ dynnp_a dynn_Ordovicii }
+			{ dynnp_a dynn_Demetii }
+			{ dynnp_a dynn_Silurii }
+
+			{ dynnp_a dynn_Fortriu }
+			{ dynnp_a dynn_Taexalii }
+			{ dynnp_a dynn_Votadinii }
+			{ dynnp_a dynn_Damnonii }
+			{ dynnp_a dynn_Caledonii }
+
+			{ dynnp_a dynn_Eislean }
+			{ dynnp_a dynn_Eire }
+			{ dynnp_a dynn_Eblanii }
+			{ dynnp_a dynn_Voluntii }
+			{ dynnp_a dynn_Coriondii }
+			{ dynnp_a dynn_Ivernii }
+			{ dynnp_a dynn_Auteinii }
+
+			{ dynnp_a dynn_Gael }
+			{ dynnp_a dynn_Monapii }
+			{ dynnp_a dynn_Carnonacii }
+			{ dynnp_a dynn_Cornavii }
+
+			{ dynnp_a dynn_Isiltir }
+			{ dynnp_a dynn_Carvetii }
 	}
 
-	dynasty_names = {
+    cadet_dynasty_names = {
+			{ dynnp_a dynn_Celt }
+			{ dynnp_a dynn_Prydain }
+			{ dynnp_a dynn_Lloegr }
+			{ dynnp_a dynn_Trinovantii }
+			{ dynnp_a dynn_Icenii }
+			{ dynnp_a dynn_Cantiacii }
+			{ dynnp_a dynn_Durotrigii }
+			{ dynnp_a dynn_Dobunnii }
+			{ dynnp_a dynn_Coritanii }
+
+			{ dynnp_a dynn_Ogledd }
+			{ dynnp_a dynn_Parisii }
+			{ dynnp_a dynn_Cornovii }
+			{ dynnp_a dynn_Brigantii }
+
+			{ dynnp_a dynn_Kernow }
+			{ dynnp_a dynn_Dumnonii }
+
+			{ dynnp_a dynn_Cymru }
+			{ dynnp_a dynn_Ordovicii }
+			{ dynnp_a dynn_Demetii }
+			{ dynnp_a dynn_Silurii }
+
+			{ dynnp_a dynn_Fortriu }
+			{ dynnp_a dynn_Taexalii }
+			{ dynnp_a dynn_Votadinii }
+			{ dynnp_a dynn_Damnonii }
+			{ dynnp_a dynn_Caledonii }
+
+			{ dynnp_a dynn_Eislean }
+			{ dynnp_a dynn_Eire }
+			{ dynnp_a dynn_Eblanii }
+			{ dynnp_a dynn_Voluntii }
+			{ dynnp_a dynn_Coriondii }
+			{ dynnp_a dynn_Ivernii }
+			{ dynnp_a dynn_Auteinii }
+
+			{ dynnp_a dynn_Gael }
+			{ dynnp_a dynn_Monapii }
+			{ dynnp_a dynn_Carnonacii }
+			{ dynnp_a dynn_Cornavii }
+
+			{ dynnp_a dynn_Isiltir }
+			{ dynnp_a dynn_Carvetii }
 	}
 
 	male_names = {
+		Celt
+		Prydain
+		Eislean
+		Lloegr
+		Ogledd
+		Kernow
+		Cymru
+		Fortriu
+		Eire
+		Gael
+		Isiltir
+		Trinovant
+		Icen
+		Cantiac
+		Durotrig
+		Dobunn
+		Coritan
+		Paris
+		Cornov
+		Brigant
+		Dumnon
+		Ordovic
+		Demet
+		Silur
+		Taexal
+		Votadin
+		Damnon
+		Caledon
+		Eblan
+		Volunt
+		Coriond
+		Ivern
+		Autein
+		Monap
+		Carnonac
+		Cornav
+		Carvet
+		Selgoven
+		Lagin
+		Menap
+		Ancalon
+		Nagnat
+		Segont
+		Brannov
+		Vennic
+		Brocav
+		Trevan
+		Meldon
+		Dinet
+		Lugad
+		Catav
+		Dovrain
+		Eburon
+		Trever
+		Bodvogen
+		Rigon
+		Moridun
+		Vindon
+		Cadoric
+		Maros
+		Duron
+		Galan
+		Aeron
+		Dumnat
+		Camulod
+		Alclud
+		Belatuc
+		Arduen
+		Druidan
+		Cantion
+		Vericon
+		Caradron
+		Brigomag
+		Iscador
+		Trinamag
+		Durover
+		Moricon
+		Vendon
+		Selicon
+		Epidon
+		Brigon
+		Trevigon
+		Camuron
+		Venicor
+		Aeronon
+		Vedric
+		Tavor
+		Durodan
+		Maricon
+		Cadvon
+		Carnodon
+		Ogdon
+		Fortrigon
+		Isildon
+		Corvan
+		Durocor
+		Brenic
 	}
 
 	female_names = {
+		Celta
+		Prydana
+		Eislea
+		Lloegra
+		Ogleda
+		Kernowa
+		Cymra
+		Fortria
+		Eira
+		Gaela
+		Isiltira
+		Trinovanta
+		Icina
+		Cantiaca
+		Durotrica
+		Dobunna
+		Coritana
+		Parisa
+		Cornova
+		Briganta
+		Dumnona
+		Ordovica
+		Demeta
+		Silura
+		Taexala
+		Votadina
+		Damona
+		Caledona
+		Eblana
+		Volunta
+		Corionda
+		Iverna
+		Auteina
+		Monapa
+		Carnona
+		Cornava
+		Carveta
+		Selgovena
+		Lagina
+		Menapa
+		Ancalona
+		Nagnata
+		Segonta
+		Brannova
+		Vennica
+		Brocava
+		Trevana
+		Meldona
+		Dineta
+		Lugada
+		Catava
+		Dovrana
+		Eburona
+		Trevera
+		Bodvogena
+		Rigona
+		Moriduna
+		Vindona
+		Cadorica
+		Marosa
+		Durona
+		Galana
+		Aerona
+		Dumnata
+		Camuloda
+		Alcluda
+		Belatuca
+		Arduena
+		Druidana
+		Cantiona
+		Vericona
+		Caradrona
+		Brigomaga
+		Iscadora
+		Trinamaga
+		Durovera
+		Moricona
+		Vendona
+		Selicona
+		Epidona
+		Brigona
+		Trevigona
+		Camurona
+		Venicora
+		Aeronona
+		Vedrica
+		Tavora
+		Durodana
+		Maricona
+		Cadvena
+		Carnodona
+		Ogdona
+		Fortrigona
+		Isildona
+		Corvana
+		Durocora
+		Brenica
+	}
+	
+	patronym_prefix_male = "dynnpat_pre_ap"
+	patronym_prefix_male_vowel = "dynnpat_pre_vow_ab"
+	patronym_prefix_female = "dynnpat_pre_ferch"
+	patronym_prefix_female_vowel = "dynnpat_pre_vow_verch"
+	
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+
+	always_use_patronym = yes
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = "dynnp_gwrth"
+
+	pat_grf_name_chance = 20
+	mat_grf_name_chance = 5
+	father_name_chance = 75
+	
+	pat_grm_name_chance = 5
+	mat_grm_name_chance = 20
+	mother_name_chance = 75
+
+	mercenary_names = {
 	}
 }
 
 name_list_welsh = {
-	cadet_dynasty_names = {
+    dynasty_names = {
+			{ dynnp_a dynn_Celt }
+			{ dynnp_a dynn_Prydain }
+			{ dynnp_a dynn_Lloegr }
+			{ dynnp_a dynn_Trinovantii }
+			{ dynnp_a dynn_Icenii }
+			{ dynnp_a dynn_Cantiacii }
+			{ dynnp_a dynn_Durotrigii }
+			{ dynnp_a dynn_Dobunnii }
+			{ dynnp_a dynn_Coritanii }
+
+			{ dynnp_a dynn_Ogledd }
+			{ dynnp_a dynn_Parisii }
+			{ dynnp_a dynn_Cornovii }
+			{ dynnp_a dynn_Brigantii }
+
+			{ dynnp_a dynn_Kernow }
+			{ dynnp_a dynn_Dumnonii }
+
+			{ dynnp_a dynn_Cymru }
+			{ dynnp_a dynn_Ordovicii }
+			{ dynnp_a dynn_Demetii }
+			{ dynnp_a dynn_Silurii }
+
+			{ dynnp_a dynn_Fortriu }
+			{ dynnp_a dynn_Taexalii }
+			{ dynnp_a dynn_Votadinii }
+			{ dynnp_a dynn_Damnonii }
+			{ dynnp_a dynn_Caledonii }
+
+			{ dynnp_a dynn_Eislean }
+			{ dynnp_a dynn_Eire }
+			{ dynnp_a dynn_Eblanii }
+			{ dynnp_a dynn_Voluntii }
+			{ dynnp_a dynn_Coriondii }
+			{ dynnp_a dynn_Ivernii }
+			{ dynnp_a dynn_Auteinii }
+
+			{ dynnp_a dynn_Gael }
+			{ dynnp_a dynn_Monapii }
+			{ dynnp_a dynn_Carnonacii }
+			{ dynnp_a dynn_Cornavii }
+
+			{ dynnp_a dynn_Isiltir }
+			{ dynnp_a dynn_Carvetii }
 	}
 
-	dynasty_names = {
+    cadet_dynasty_names = {
+			{ dynnp_a dynn_Celt }
+			{ dynnp_a dynn_Prydain }
+			{ dynnp_a dynn_Lloegr }
+			{ dynnp_a dynn_Trinovantii }
+			{ dynnp_a dynn_Icenii }
+			{ dynnp_a dynn_Cantiacii }
+			{ dynnp_a dynn_Durotrigii }
+			{ dynnp_a dynn_Dobunnii }
+			{ dynnp_a dynn_Coritanii }
+
+			{ dynnp_a dynn_Ogledd }
+			{ dynnp_a dynn_Parisii }
+			{ dynnp_a dynn_Cornovii }
+			{ dynnp_a dynn_Brigantii }
+
+			{ dynnp_a dynn_Kernow }
+			{ dynnp_a dynn_Dumnonii }
+
+			{ dynnp_a dynn_Cymru }
+			{ dynnp_a dynn_Ordovicii }
+			{ dynnp_a dynn_Demetii }
+			{ dynnp_a dynn_Silurii }
+
+			{ dynnp_a dynn_Fortriu }
+			{ dynnp_a dynn_Taexalii }
+			{ dynnp_a dynn_Votadinii }
+			{ dynnp_a dynn_Damnonii }
+			{ dynnp_a dynn_Caledonii }
+
+			{ dynnp_a dynn_Eislean }
+			{ dynnp_a dynn_Eire }
+			{ dynnp_a dynn_Eblanii }
+			{ dynnp_a dynn_Voluntii }
+			{ dynnp_a dynn_Coriondii }
+			{ dynnp_a dynn_Ivernii }
+			{ dynnp_a dynn_Auteinii }
+
+			{ dynnp_a dynn_Gael }
+			{ dynnp_a dynn_Monapii }
+			{ dynnp_a dynn_Carnonacii }
+			{ dynnp_a dynn_Cornavii }
+
+			{ dynnp_a dynn_Isiltir }
+			{ dynnp_a dynn_Carvetii }
 	}
 
 	male_names = {
+		Celt
+		Prydain
+		Eislean
+		Lloegr
+		Ogledd
+		Kernow
+		Cymru
+		Fortriu
+		Eire
+		Gael
+		Isiltir
+		Trinovant
+		Icen
+		Cantiac
+		Durotrig
+		Dobunn
+		Coritan
+		Paris
+		Cornov
+		Brigant
+		Dumnon
+		Ordovic
+		Demet
+		Silur
+		Taexal
+		Votadin
+		Damnon
+		Caledon
+		Eblan
+		Volunt
+		Coriond
+		Ivern
+		Autein
+		Monap
+		Carnonac
+		Cornav
+		Carvet
+		Selgoven
+		Lagin
+		Menap
+		Ancalon
+		Nagnat
+		Segont
+		Brannov
+		Vennic
+		Brocav
+		Trevan
+		Meldon
+		Dinet
+		Lugad
+		Catav
+		Dovrain
+		Eburon
+		Trever
+		Bodvogen
+		Rigon
+		Moridun
+		Vindon
+		Cadoric
+		Maros
+		Duron
+		Galan
+		Aeron
+		Dumnat
+		Camulod
+		Alclud
+		Belatuc
+		Arduen
+		Druidan
+		Cantion
+		Vericon
+		Caradron
+		Brigomag
+		Iscador
+		Trinamag
+		Durover
+		Moricon
+		Vendon
+		Selicon
+		Epidon
+		Brigon
+		Trevigon
+		Camuron
+		Venicor
+		Aeronon
+		Vedric
+		Tavor
+		Durodan
+		Maricon
+		Cadvon
+		Carnodon
+		Ogdon
+		Fortrigon
+		Isildon
+		Corvan
+		Durocor
+		Brenic
 	}
 
 	female_names = {
+		Celta
+		Prydana
+		Eislea
+		Lloegra
+		Ogleda
+		Kernowa
+		Cymra
+		Fortria
+		Eira
+		Gaela
+		Isiltira
+		Trinovanta
+		Icina
+		Cantiaca
+		Durotrica
+		Dobunna
+		Coritana
+		Parisa
+		Cornova
+		Briganta
+		Dumnona
+		Ordovica
+		Demeta
+		Silura
+		Taexala
+		Votadina
+		Damona
+		Caledona
+		Eblana
+		Volunta
+		Corionda
+		Iverna
+		Auteina
+		Monapa
+		Carnona
+		Cornava
+		Carveta
+		Selgovena
+		Lagina
+		Menapa
+		Ancalona
+		Nagnata
+		Segonta
+		Brannova
+		Vennica
+		Brocava
+		Trevana
+		Meldona
+		Dineta
+		Lugada
+		Catava
+		Dovrana
+		Eburona
+		Trevera
+		Bodvogena
+		Rigona
+		Moriduna
+		Vindona
+		Cadorica
+		Marosa
+		Durona
+		Galana
+		Aerona
+		Dumnata
+		Camuloda
+		Alcluda
+		Belatuca
+		Arduena
+		Druidana
+		Cantiona
+		Vericona
+		Caradrona
+		Brigomaga
+		Iscadora
+		Trinamaga
+		Durovera
+		Moricona
+		Vendona
+		Selicona
+		Epidona
+		Brigona
+		Trevigona
+		Camurona
+		Venicora
+		Aeronona
+		Vedrica
+		Tavora
+		Durodana
+		Maricona
+		Cadvena
+		Carnodona
+		Ogdona
+		Fortrigona
+		Isildona
+		Corvana
+		Durocora
+		Brenica
+	}
+	
+	patronym_prefix_male = "dynnpat_pre_ap"
+	patronym_prefix_male_vowel = "dynnpat_pre_vow_ab"
+	patronym_prefix_female = "dynnpat_pre_ferch"
+	patronym_prefix_female_vowel = "dynnpat_pre_vow_verch"
+	
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+
+	always_use_patronym = yes
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = "dynnp_gwrth"
+
+	pat_grf_name_chance = 20
+	mat_grf_name_chance = 5
+	father_name_chance = 75
+	
+	pat_grm_name_chance = 5
+	mat_grm_name_chance = 20
+	mother_name_chance = 75
+
+	mercenary_names = {
 	}
 }
 
 name_list_pictish = {
-	cadet_dynasty_names = {
+    dynasty_names = {
+			{ dynnp_a dynn_Celt }
+			{ dynnp_a dynn_Prydain }
+			{ dynnp_a dynn_Lloegr }
+			{ dynnp_a dynn_Trinovantii }
+			{ dynnp_a dynn_Icenii }
+			{ dynnp_a dynn_Cantiacii }
+			{ dynnp_a dynn_Durotrigii }
+			{ dynnp_a dynn_Dobunnii }
+			{ dynnp_a dynn_Coritanii }
+
+			{ dynnp_a dynn_Ogledd }
+			{ dynnp_a dynn_Parisii }
+			{ dynnp_a dynn_Cornovii }
+			{ dynnp_a dynn_Brigantii }
+
+			{ dynnp_a dynn_Kernow }
+			{ dynnp_a dynn_Dumnonii }
+
+			{ dynnp_a dynn_Cymru }
+			{ dynnp_a dynn_Ordovicii }
+			{ dynnp_a dynn_Demetii }
+			{ dynnp_a dynn_Silurii }
+
+			{ dynnp_a dynn_Fortriu }
+			{ dynnp_a dynn_Taexalii }
+			{ dynnp_a dynn_Votadinii }
+			{ dynnp_a dynn_Damnonii }
+			{ dynnp_a dynn_Caledonii }
+
+			{ dynnp_a dynn_Eislean }
+			{ dynnp_a dynn_Eire }
+			{ dynnp_a dynn_Eblanii }
+			{ dynnp_a dynn_Voluntii }
+			{ dynnp_a dynn_Coriondii }
+			{ dynnp_a dynn_Ivernii }
+			{ dynnp_a dynn_Auteinii }
+
+			{ dynnp_a dynn_Gael }
+			{ dynnp_a dynn_Monapii }
+			{ dynnp_a dynn_Carnonacii }
+			{ dynnp_a dynn_Cornavii }
+
+			{ dynnp_a dynn_Isiltir }
+			{ dynnp_a dynn_Carvetii }
 	}
 
-	dynasty_names = {
+    cadet_dynasty_names = {
+			{ dynnp_a dynn_Celt }
+			{ dynnp_a dynn_Prydain }
+			{ dynnp_a dynn_Lloegr }
+			{ dynnp_a dynn_Trinovantii }
+			{ dynnp_a dynn_Icenii }
+			{ dynnp_a dynn_Cantiacii }
+			{ dynnp_a dynn_Durotrigii }
+			{ dynnp_a dynn_Dobunnii }
+			{ dynnp_a dynn_Coritanii }
+
+			{ dynnp_a dynn_Ogledd }
+			{ dynnp_a dynn_Parisii }
+			{ dynnp_a dynn_Cornovii }
+			{ dynnp_a dynn_Brigantii }
+
+			{ dynnp_a dynn_Kernow }
+			{ dynnp_a dynn_Dumnonii }
+
+			{ dynnp_a dynn_Cymru }
+			{ dynnp_a dynn_Ordovicii }
+			{ dynnp_a dynn_Demetii }
+			{ dynnp_a dynn_Silurii }
+
+			{ dynnp_a dynn_Fortriu }
+			{ dynnp_a dynn_Taexalii }
+			{ dynnp_a dynn_Votadinii }
+			{ dynnp_a dynn_Damnonii }
+			{ dynnp_a dynn_Caledonii }
+
+			{ dynnp_a dynn_Eislean }
+			{ dynnp_a dynn_Eire }
+			{ dynnp_a dynn_Eblanii }
+			{ dynnp_a dynn_Voluntii }
+			{ dynnp_a dynn_Coriondii }
+			{ dynnp_a dynn_Ivernii }
+			{ dynnp_a dynn_Auteinii }
+
+			{ dynnp_a dynn_Gael }
+			{ dynnp_a dynn_Monapii }
+			{ dynnp_a dynn_Carnonacii }
+			{ dynnp_a dynn_Cornavii }
+
+			{ dynnp_a dynn_Isiltir }
+			{ dynnp_a dynn_Carvetii }
 	}
 
 	male_names = {
+		Celt
+		Prydain
+		Eislean
+		Lloegr
+		Ogledd
+		Kernow
+		Cymru
+		Fortriu
+		Eire
+		Gael
+		Isiltir
+		Trinovant
+		Icen
+		Cantiac
+		Durotrig
+		Dobunn
+		Coritan
+		Paris
+		Cornov
+		Brigant
+		Dumnon
+		Ordovic
+		Demet
+		Silur
+		Taexal
+		Votadin
+		Damnon
+		Caledon
+		Eblan
+		Volunt
+		Coriond
+		Ivern
+		Autein
+		Monap
+		Carnonac
+		Cornav
+		Carvet
+		Selgoven
+		Lagin
+		Menap
+		Ancalon
+		Nagnat
+		Segont
+		Brannov
+		Vennic
+		Brocav
+		Trevan
+		Meldon
+		Dinet
+		Lugad
+		Catav
+		Dovrain
+		Eburon
+		Trever
+		Bodvogen
+		Rigon
+		Moridun
+		Vindon
+		Cadoric
+		Maros
+		Duron
+		Galan
+		Aeron
+		Dumnat
+		Camulod
+		Alclud
+		Belatuc
+		Arduen
+		Druidan
+		Cantion
+		Vericon
+		Caradron
+		Brigomag
+		Iscador
+		Trinamag
+		Durover
+		Moricon
+		Vendon
+		Selicon
+		Epidon
+		Brigon
+		Trevigon
+		Camuron
+		Venicor
+		Aeronon
+		Vedric
+		Tavor
+		Durodan
+		Maricon
+		Cadvon
+		Carnodon
+		Ogdon
+		Fortrigon
+		Isildon
+		Corvan
+		Durocor
+		Brenic
 	}
 
 	female_names = {
+		Celta
+		Prydana
+		Eislea
+		Lloegra
+		Ogleda
+		Kernowa
+		Cymra
+		Fortria
+		Eira
+		Gaela
+		Isiltira
+		Trinovanta
+		Icina
+		Cantiaca
+		Durotrica
+		Dobunna
+		Coritana
+		Parisa
+		Cornova
+		Briganta
+		Dumnona
+		Ordovica
+		Demeta
+		Silura
+		Taexala
+		Votadina
+		Damona
+		Caledona
+		Eblana
+		Volunta
+		Corionda
+		Iverna
+		Auteina
+		Monapa
+		Carnona
+		Cornava
+		Carveta
+		Selgovena
+		Lagina
+		Menapa
+		Ancalona
+		Nagnata
+		Segonta
+		Brannova
+		Vennica
+		Brocava
+		Trevana
+		Meldona
+		Dineta
+		Lugada
+		Catava
+		Dovrana
+		Eburona
+		Trevera
+		Bodvogena
+		Rigona
+		Moriduna
+		Vindona
+		Cadorica
+		Marosa
+		Durona
+		Galana
+		Aerona
+		Dumnata
+		Camuloda
+		Alcluda
+		Belatuca
+		Arduena
+		Druidana
+		Cantiona
+		Vericona
+		Caradrona
+		Brigomaga
+		Iscadora
+		Trinamaga
+		Durovera
+		Moricona
+		Vendona
+		Selicona
+		Epidona
+		Brigona
+		Trevigona
+		Camurona
+		Venicora
+		Aeronona
+		Vedrica
+		Tavora
+		Durodana
+		Maricona
+		Cadvena
+		Carnodona
+		Ogdona
+		Fortrigona
+		Isildona
+		Corvana
+		Durocora
+		Brenica
+	}
+	
+	patronym_prefix_male = "dynnpat_pre_ap"
+	patronym_prefix_male_vowel = "dynnpat_pre_vow_ab"
+	patronym_prefix_female = "dynnpat_pre_ferch"
+	patronym_prefix_female_vowel = "dynnpat_pre_vow_verch"
+	
+	patronym_suffix_male = "dynnpat_suf_s"
+	patronym_suffix_female = "dynnpat_suf_s"
+
+	always_use_patronym = yes
+
+	dynasty_of_location_prefix = "dynnp_a"
+	bastard_dynasty_prefix = "dynnp_gwrth"
+
+	pat_grf_name_chance = 20
+	mat_grf_name_chance = 5
+	father_name_chance = 75
+	
+	pat_grm_name_chance = 5
+	mat_grm_name_chance = 20
+	mother_name_chance = 75
+
+	mercenary_names = {
 	}
 }

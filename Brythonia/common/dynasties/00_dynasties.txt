@@ -1,54 +1,8 @@
 ﻿## These are really not in numeric order... sorry...
 
-spirit = {
-	name = dynn_Spirit
-	culture = celtic
-}
-
 celt = {
 	name = dynn_Celt
 	culture = celtic
-}
-prydain = {
-	name = dynn_Prydain
-	culture = brythonic
-}
-lloegr = {
-	name = dynn_Lloegr
-	culture = loegric
-}
-ogledd = {
-	name = dynn_Ogledd
-	culture = cumbrian
-}
-kernow = {
-	name = dynn_Kernow
-	culture = cornish
-}
-cymru = {
-	name = dynn_Cymru
-	culture = welsh
-}
-fortriu = {
-	name = dynn_Fortriu
-	culture = pictish
-}
-
-eislean = {
-	name = dynn_Eislean
-	culture = goidelic
-}
-eire = {
-	name = dynn_Eire
-	culture = irish
-}
-gael = {
-	name = dynn_Gael
-	culture = gaelic
-}
-isiltir = {
-	name = dynn_Isiltir
-	culture = icelandic
 }
 
 2 = {

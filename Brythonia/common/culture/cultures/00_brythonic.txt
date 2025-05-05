@@ -1,6 +1,6 @@
 ﻿loegric = {
 	color = loegric
-	created = 96.1.1
+	created = 48.1.1
 	parents = { brythonic }
 	
 	ethos = ethos_egalitarian
@@ -32,7 +32,7 @@
 
 cumbrian = {
 	color = cumbrian
-	created = 96.1.1
+	created = 48.1.1
 	parents = { brythonic }
 	
 	ethos = ethos_egalitarian
@@ -64,7 +64,7 @@ cumbrian = {
 
 cornish = {
 	color = cornish
-	created = 96.1.1
+	created = 48.1.1
 	parents = { brythonic }
 	
 	ethos = ethos_egalitarian
@@ -96,7 +96,7 @@ cornish = {
 
 welsh = {
 	color = welsh
-	created = 96.1.1
+	created = 48.1.1
 	parents = { brythonic }
 	
 	ethos = ethos_egalitarian
@@ -128,7 +128,7 @@ welsh = {
 
 pictish = {
 	color = pictish
-	created = 96.1.1
+	created = 48.1.1
 	parents = { brythonic }
 	
 	ethos = ethos_egalitarian

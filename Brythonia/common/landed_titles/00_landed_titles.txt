@@ -31,40 +31,43 @@ e_britannia = {
 		}
 	}
 	
-	k_england = {
+	k_greater_london = {
 		color = { 202 26 26 }
 
 		capital = c_middlesex
 
-			can_create = {
-				trigger_if = {
-					limit = {
-						is_ai = yes
-					}
-					OR = {
-						culture = culture:breton
-					}
+		can_create = {
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				OR = {
+					culture = { has_cultural_pillar = heritage_brythonic }
+					culture = { has_cultural_pillar = heritage_goidelic }
 				}
 			}
-	
-			ai_primary_priority = {
-				if = {
-					limit = {
-						culture = culture:breton
-					}
-					add = @correct_culture_primary_score
-				}
-				if = {
-					limit = {
-						OR = {
-							culture = { has_cultural_pillar = heritage_brythonic }
-						}
-					}
-					add = @better_than_the_alternatives_score
-				}
-			}
+		}
 
-		d_bedford = { # Essex
+		ai_primary_priority = {
+			if = {
+				limit = {
+					culture = { has_cultural_pillar = heritage_brythonic }
+					culture = { has_cultural_pillar = heritage_goidelic }
+				}
+				add = @correct_culture_primary_score
+			}
+			if = {
+				limit = {
+					OR = {
+						culture = { has_cultural_pillar = heritage_brythonic }
+						culture = { has_cultural_pillar = heritage_goidelic }
+					}
+				}
+				add = @better_than_the_alternatives_score
+			}
+		}
+
+		d_greater_london = { # Llundein
 			color = { 241 15 15 }
 
 			capital = c_middlesex
@@ -98,6 +101,50 @@ e_britannia = {
 					color = { 230 5 5 }
 				}
 			}
+		}
+	}
+	
+	k_england = {
+		color = { 202 26 26 }
+
+		capital = c_middlesex
+
+		can_create = {
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				OR = {
+					culture = { has_cultural_pillar = heritage_brythonic }
+					culture = { has_cultural_pillar = heritage_goidelic }
+				}
+			}
+		}
+
+		ai_primary_priority = {
+			if = {
+				limit = {
+					culture = { has_cultural_pillar = heritage_brythonic }
+					culture = { has_cultural_pillar = heritage_goidelic }
+				}
+				add = @correct_culture_primary_score
+			}
+			if = {
+				limit = {
+					OR = {
+						culture = { has_cultural_pillar = heritage_brythonic }
+						culture = { has_cultural_pillar = heritage_goidelic }
+					}
+				}
+				add = @better_than_the_alternatives_score
+			}
+		}
+
+		d_bedford = { # Essex
+			color = { 241 15 15 }
+
+			capital = c_essex
+
 			c_essex = {
 				color = { 220 20 30 }
 
@@ -777,6 +824,274 @@ e_britannia = {
 		}
 	}
 
+	k_daneland = {
+		color = { 200 40 15 }
+
+		capital = c_north_riding
+
+		can_create = {
+			trigger_if = {
+				limit = {
+					is_ai = yes
+				}
+				OR = {
+					culture = { has_cultural_pillar = heritage_brythonic }
+					culture = { has_cultural_pillar = heritage_goidelic }
+				}
+			}
+		}
+
+		ai_primary_priority = {
+			if = {
+				limit = {
+					culture = { has_cultural_pillar = heritage_brythonic }
+					culture = { has_cultural_pillar = heritage_goidelic }
+				}
+				add = @correct_culture_primary_score
+			}
+			if = {
+				limit = {
+					OR = {
+						culture = { has_cultural_pillar = heritage_brythonic }
+						culture = { has_cultural_pillar = heritage_goidelic }
+					}
+				}
+				add = @better_than_the_alternatives_score
+			}
+		}
+
+		d_york = {
+			color = { 255 90 15 }
+
+			capital = c_north_riding # York
+
+			c_north_riding = {
+				color = { 255 95 20 }
+
+				b_york = {
+					province = 1595
+
+					color = { 255 95 20 }
+				}
+				b_scarborough = {
+					province = 1596
+
+					color = { 255 95 20 }
+				}
+				b_whitby = {
+					province = 1597
+
+					color = { 255 95 20 }
+				}
+				b_richmond = {
+					province = 1598
+
+					color = { 255 95 20 }
+				}
+				b_yarlestre = {
+					province = 1500
+
+					color = { 255 95 20 }
+				}
+			}
+			c_east_riding = {
+				color = { 255 139 15 }
+
+				b_pockington = {
+					province = 1588
+
+					color = { 255 160 59 }
+				}
+				b_cottingham = {
+					province = 1589
+
+					color = { 255 139 15 }
+				}
+				b_bridlington = {
+					province = 1590
+
+					color = { 255 139 15 }
+				}
+			}
+			c_west_riding = {
+				color = { 255 120 35 }
+
+				b_leeds = {
+					province = 1591
+
+					color = { 255 120 35 }
+				}
+				b_doncaster = {
+					province = 1592
+
+					color = { 255 120 35 }
+				}
+				b_halifax = {
+					province = 1593
+
+					color = { 255 120 35 }
+				}
+				b_sheffield = {
+					province = 1594
+
+					color = { 255 120 35 }
+				}
+				b_bolton = {
+					province = 1499
+
+					color = { 255 120 35 }
+				}
+				b_ripon = {
+					province = 1599
+
+					color = { 255 120 35 }
+				}
+			}
+		}
+
+		d_lancaster = {
+			color = { 255 48 0 }
+
+			capital = c_lancashire # Lancaster
+
+			c_lancashire = {
+				color = { 250 55 5 }
+
+				b_lancaster = {
+					province = 1639
+
+					color = { 250 55 5 }
+				}
+				b_salford = {
+					province = 1640
+
+					color = { 250 55 5 }
+				}
+				b_west_derby = {
+					province = 1641
+
+					color = { 250 55 5 }
+				}
+			}
+			c_westmorland = {
+				color = { 210 35 10 }
+
+				b_kendal = {
+					province = 1637
+
+					color = { 210 35 10 }
+				}
+				b_appleby = {
+					province = 1638
+
+					color = { 210 35 10 }
+				}
+			}
+			c_cheshire = {
+				color = { 255 127 15 }
+
+				b_chester = {
+					province = 1643
+
+					color = { 255 152 50 }
+				}
+				b_northwich = {
+					province = 1644
+
+					color = { 255 127 15 }
+				}
+				b_macclesfield = {
+					province = 1645
+
+					color = { 255 127 15 }
+				}
+			}
+		}
+
+		d_northumberland = {
+			color = hsv{ 0.98 0.9 0.9 }
+
+			capital = c_northumberland # Bamburgh, Bernicia
+
+			c_northumberland = {
+				color = { 245 0 0 }
+
+				b_bamburgh = {
+					province = 1609
+
+					color = { 245 0 0 }
+				}
+				b_rothbury = {
+					province = 1612
+
+					color = { 245 0 0 }
+				}
+				b_lindisfarne = {
+					province = 1610
+
+					color = { 245 0 0 }
+				}
+				b_hexham = {
+					province = 1611
+
+					color = { 245 0 0 }
+				}
+			}
+			c_durham = {
+				color = { 255 15 15 }
+
+				b_durham = {
+					province = 1606
+
+					color = { 255 15 15 }
+				}
+				b_hartlepool = {
+					province = 1607
+
+					color = { 255 15 15 }
+				}
+				b_darlington = {
+					province = 1608
+
+					color = { 255 15 15 }
+				}
+			}
+			c_cumberland = {
+				color = { 240 25 25 }
+
+				ai_primary_priority = {
+					if = {
+						limit = {
+							culture = culture:cumbrian
+						}
+						add = @correct_culture_primary_score
+					}
+				}
+
+				b_carlisle = {
+					province = 1635
+
+					color = { 240 25 25 }
+				}
+				b_whitehaven = {
+					province = 1636
+
+					color = { 240 25 25 }
+				}
+				b_furness = {
+					province = 1642
+
+					color = { 240 25 25 }
+				}
+				b_wigton = {
+					province = 8780
+
+					color = { 240 25 25 }
+				}
+			}
+		}
+	}
+
 	k_cornwall = {
 		color = { 204 153 10 }
 
@@ -788,7 +1103,8 @@ e_britannia = {
 					is_ai = yes
 				}
 				OR = {
-					culture = culture:cornish
+					culture = { has_cultural_pillar = heritage_brythonic }
+					culture = { has_cultural_pillar = heritage_goidelic }
 				}
 			}
 		}
@@ -796,7 +1112,8 @@ e_britannia = {
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture = culture:cornish
+					culture = { has_cultural_pillar = heritage_brythonic }
+					culture = { has_cultural_pillar = heritage_goidelic }
 				}
 				add = @correct_culture_primary_score
 			}
@@ -804,6 +1121,7 @@ e_britannia = {
 				limit = {
 					OR = {
 						culture = { has_cultural_pillar = heritage_brythonic }
+						culture = { has_cultural_pillar = heritage_goidelic }
 					}
 				}
 				add = @better_than_the_alternatives_score
@@ -815,26 +1133,8 @@ e_britannia = {
 
 			capital = c_devon
 
-			ai_primary_priority = {
-				if = {
-					limit = {
-						culture = culture:cornish
-					}
-					add = @correct_culture_primary_score
-				}
-			}
-
 			c_devon = {
 				color = { 170 60 10 }
-
-				ai_primary_priority = {
-					if = {
-						limit = {
-							culture = culture:cornish
-						}
-						add = @better_than_the_alternatives_score
-					}
-				}
 
 				b_exeter = {
 					province = 1569
@@ -900,7 +1200,8 @@ e_britannia = {
 					is_ai = yes
 				}
 				OR = {
-					culture = culture:welsh
+					culture = { has_cultural_pillar = heritage_brythonic }
+					culture = { has_cultural_pillar = heritage_goidelic }
 				}
 			}
 		}
@@ -908,7 +1209,8 @@ e_britannia = {
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture = culture:welsh
+					culture = { has_cultural_pillar = heritage_brythonic }
+					culture = { has_cultural_pillar = heritage_goidelic }
 				}
 				add = @correct_culture_primary_score
 			}
@@ -916,6 +1218,7 @@ e_britannia = {
 				limit = {
 					OR = {
 						culture = { has_cultural_pillar = heritage_brythonic }
+						culture = { has_cultural_pillar = heritage_goidelic }
 					}
 				}
 				add = @better_than_the_alternatives_score
@@ -1152,289 +1455,6 @@ e_britannia = {
 		}
 	}
 
-	k_daneland = {
-		color = { 200 40 15 }
-
-		capital = c_north_riding
-
-		can_create = {
-			trigger_if = {
-				limit = {
-					is_ai = yes
-				}
-				OR = {
-					culture = culture:cumbrian
-				}
-			}
-		}
-
-		ai_primary_priority = {
-			if = {
-				limit = {
-					culture = culture:cumbrian
-				}
-				add = @correct_culture_primary_score
-			}
-			if = {
-				limit = {
-					OR = {
-						culture = { has_cultural_pillar = heritage_brythonic }
-					}
-				}
-				add = @better_than_the_alternatives_score
-			}
-		}
-
-		d_york = {
-			color = { 255 90 15 }
-
-			capital = c_north_riding # York
-
-			ai_primary_priority = {
-				if = {
-					limit = {
-						culture = culture:norse
-					}
-					add = @better_than_the_alternatives_score
-				}
-			}
-
-			c_north_riding = {
-				color = { 255 95 20 }
-
-				b_york = {
-					province = 1595
-
-					color = { 255 95 20 }
-				}
-				b_scarborough = {
-					province = 1596
-
-					color = { 255 95 20 }
-				}
-				b_whitby = {
-					province = 1597
-
-					color = { 255 95 20 }
-				}
-				b_richmond = {
-					province = 1598
-
-					color = { 255 95 20 }
-				}
-				b_yarlestre = {
-					province = 1500
-
-					color = { 255 95 20 }
-				}
-			}
-			c_east_riding = {
-				color = { 255 139 15 }
-
-				b_pockington = {
-					province = 1588
-
-					color = { 255 160 59 }
-				}
-				b_cottingham = {
-					province = 1589
-
-					color = { 255 139 15 }
-				}
-				b_bridlington = {
-					province = 1590
-
-					color = { 255 139 15 }
-				}
-			}
-			c_west_riding = {
-				color = { 255 120 35 }
-
-				b_leeds = {
-					province = 1591
-
-					color = { 255 120 35 }
-				}
-				b_doncaster = {
-					province = 1592
-
-					color = { 255 120 35 }
-				}
-				b_halifax = {
-					province = 1593
-
-					color = { 255 120 35 }
-				}
-				b_sheffield = {
-					province = 1594
-
-					color = { 255 120 35 }
-				}
-				b_bolton = {
-					province = 1499
-
-					color = { 255 120 35 }
-				}
-				b_ripon = {
-					province = 1599
-
-					color = { 255 120 35 }
-				}
-			}
-		}
-
-		d_lancaster = {
-			color = { 255 48 0 }
-
-			capital = c_lancashire # Lancaster
-
-			c_lancashire = {
-				color = { 250 55 5 }
-
-				b_lancaster = {
-					province = 1639
-
-					color = { 250 55 5 }
-				}
-				b_salford = {
-					province = 1640
-
-					color = { 250 55 5 }
-				}
-				b_west_derby = {
-					province = 1641
-
-					color = { 250 55 5 }
-				}
-			}
-			c_westmorland = {
-				color = { 210 35 10 }
-
-				b_kendal = {
-					province = 1637
-
-					color = { 210 35 10 }
-				}
-				b_appleby = {
-					province = 1638
-
-					color = { 210 35 10 }
-				}
-			}
-			c_cheshire = {
-				color = { 255 127 15 }
-
-				b_chester = {
-					province = 1643
-
-					color = { 255 152 50 }
-				}
-				b_northwich = {
-					province = 1644
-
-					color = { 255 127 15 }
-				}
-				b_macclesfield = {
-					province = 1645
-
-					color = { 255 127 15 }
-				}
-			}
-		}
-
-		d_northumberland = {
-			color = hsv{ 0.98 0.9 0.9 }
-
-			ai_primary_priority = {
-				if = {
-					limit = {
-						culture = culture:anglo_saxon
-					}
-					add = @better_than_the_alternatives_score
-				}
-			}
-
-			capital = c_northumberland # Bamburgh, Bernicia
-
-			c_northumberland = {
-				color = { 245 0 0 }
-
-				b_bamburgh = {
-					province = 1609
-
-					color = { 245 0 0 }
-				}
-				b_rothbury = {
-					province = 1612
-
-					color = { 245 0 0 }
-				}
-				b_lindisfarne = {
-					province = 1610
-
-					color = { 245 0 0 }
-				}
-				b_hexham = {
-					province = 1611
-
-					color = { 245 0 0 }
-				}
-			}
-			c_durham = {
-				color = { 255 15 15 }
-
-				b_durham = {
-					province = 1606
-
-					color = { 255 15 15 }
-				}
-				b_hartlepool = {
-					province = 1607
-
-					color = { 255 15 15 }
-				}
-				b_darlington = {
-					province = 1608
-
-					color = { 255 15 15 }
-				}
-			}
-			c_cumberland = {
-				color = { 240 25 25 }
-
-				ai_primary_priority = {
-					if = {
-						limit = {
-							culture = culture:cumbrian
-						}
-						add = @correct_culture_primary_score
-					}
-				}
-
-				b_carlisle = {
-					province = 1635
-
-					color = { 240 25 25 }
-				}
-				b_whitehaven = {
-					province = 1636
-
-					color = { 240 25 25 }
-				}
-				b_furness = {
-					province = 1642
-
-					color = { 240 25 25 }
-				}
-				b_wigton = {
-					province = 8780
-
-					color = { 240 25 25 }
-				}
-			}
-		}
-	}
-
 	k_scotland = {
 		color = { 230 140 0 }
 
@@ -1446,7 +1466,8 @@ e_britannia = {
 					is_ai = yes
 				}
 				OR = {
-					culture = culture:pictish
+					culture = { has_cultural_pillar = heritage_brythonic }
+					culture = { has_cultural_pillar = heritage_goidelic }
 				}
 			}
 		}
@@ -1454,7 +1475,8 @@ e_britannia = {
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture = culture:pictish
+					culture = { has_cultural_pillar = heritage_brythonic }
+					culture = { has_cultural_pillar = heritage_goidelic }
 				}
 				add = @correct_culture_primary_score
 			}
@@ -1462,6 +1484,7 @@ e_britannia = {
 				limit = {
 					OR = {
 						culture = { has_cultural_pillar = heritage_brythonic }
+						culture = { has_cultural_pillar = heritage_goidelic }
 					}
 				}
 				add = @better_than_the_alternatives_score
@@ -1692,23 +1715,6 @@ e_britannia = {
 			color = { 230 120 65 }
 
 			capital = c_lennox # Lennox
-
-			ai_primary_priority = {
-				if = {
-					limit = {
-						culture = culture:cumbrian
-					}
-					add = @correct_culture_primary_score
-				}
-				if = {
-					limit = {
-						culture = culture:welsh
-						culture = culture:cornish
-						culture = culture:breton
-					}
-					add = @better_than_the_alternatives_score
-				}
-			}
 
 			c_lennox = {
 				color = { 230 150 50 }
@@ -2001,7 +2007,8 @@ e_north_sea = {
 					is_ai = yes
 				}
 				OR = {
-					culture = culture:irish
+					culture = { has_cultural_pillar = heritage_brythonic }
+					culture = { has_cultural_pillar = heritage_goidelic }
 				}
 			}
 		}
@@ -2009,13 +2016,15 @@ e_north_sea = {
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture = culture:irish
+					culture = { has_cultural_pillar = heritage_brythonic }
+					culture = { has_cultural_pillar = heritage_goidelic }
 				}
 				add = @correct_culture_primary_score
 			}
 			if = {
 				limit = {
 					OR = {
+						culture = { has_cultural_pillar = heritage_brythonic }
 						culture = { has_cultural_pillar = heritage_goidelic }
 					}
 				}
@@ -2402,7 +2411,8 @@ e_north_sea = {
 					is_ai = yes
 				}
 				OR = {
-					culture = culture:gaelic
+					culture = { has_cultural_pillar = heritage_brythonic }
+					culture = { has_cultural_pillar = heritage_goidelic }
 				}
 			}
 		}
@@ -2410,13 +2420,15 @@ e_north_sea = {
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture = culture:gaelic
+					culture = { has_cultural_pillar = heritage_brythonic }
+					culture = { has_cultural_pillar = heritage_goidelic }
 				}
 				add = @correct_culture_primary_score
 			}
 			if = {
 				limit = {
 					OR = {
+						culture = { has_cultural_pillar = heritage_brythonic }
 						culture = { has_cultural_pillar = heritage_goidelic }
 					}
 				}
@@ -2536,7 +2548,8 @@ e_north_sea = {
 					is_ai = yes
 				}
 				OR = {
-					culture = culture:irish
+					culture = { has_cultural_pillar = heritage_brythonic }
+					culture = { has_cultural_pillar = heritage_goidelic }
 				}
 			}
 		}
@@ -2544,13 +2557,15 @@ e_north_sea = {
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture = culture:irish
+					culture = { has_cultural_pillar = heritage_brythonic }
+					culture = { has_cultural_pillar = heritage_goidelic }
 				}
 				add = @correct_culture_primary_score
 			}
 			if = {
 				limit = {
 					OR = {
+						culture = { has_cultural_pillar = heritage_brythonic }
 						culture = { has_cultural_pillar = heritage_goidelic }
 					}
 				}

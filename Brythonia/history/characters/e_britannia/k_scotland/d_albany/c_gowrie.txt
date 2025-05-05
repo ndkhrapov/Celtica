@@ -1,0 +1,772 @@
+c_gowrie-80.1.1 = {
+	dynasty_house = taexalii
+	father = taexal
+	culture = pictish
+	religion = brythonic
+	80.1.1 = { birth = yes }
+	160.1.1 = { death = yes }
+}
+
+c_gowrie-96.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-80.1.1
+	culture = pictish
+	religion = brythonic
+	96.1.1 = { birth = yes }
+	176.1.1 = { death = yes }
+}
+
+c_gowrie-112.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-96.1.1
+	culture = pictish
+	religion = brythonic
+	112.1.1 = { birth = yes }
+	192.1.1 = { death = yes }
+}
+
+c_gowrie-128.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-112.1.1
+	culture = pictish
+	religion = brythonic
+	128.1.1 = { birth = yes }
+	208.1.1 = { death = yes }
+}
+
+c_gowrie-144.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-128.1.1
+	culture = pictish
+	religion = brythonic
+	144.1.1 = { birth = yes }
+	224.1.1 = { death = yes }
+}
+
+c_gowrie-160.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-144.1.1
+	culture = pictish
+	religion = brythonic
+	160.1.1 = { birth = yes }
+	240.1.1 = { death = yes }
+}
+
+c_gowrie-176.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-160.1.1
+	culture = pictish
+	religion = brythonic
+	176.1.1 = { birth = yes }
+	256.1.1 = { death = yes }
+}
+
+c_gowrie-192.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-176.1.1
+	culture = pictish
+	religion = brythonic
+	192.1.1 = { birth = yes }
+	272.1.1 = { death = yes }
+}
+
+c_gowrie-208.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-192.1.1
+	culture = pictish
+	religion = brythonic
+	208.1.1 = { birth = yes }
+	288.1.1 = { death = yes }
+}
+
+c_gowrie-224.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-208.1.1
+	culture = pictish
+	religion = brythonic
+	224.1.1 = { birth = yes }
+	304.1.1 = { death = yes }
+}
+
+c_gowrie-240.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-224.1.1
+	culture = pictish
+	religion = brythonic
+	240.1.1 = { birth = yes }
+	320.1.1 = { death = yes }
+}
+
+c_gowrie-256.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-240.1.1
+	culture = pictish
+	religion = brythonic
+	256.1.1 = { birth = yes }
+	336.1.1 = { death = yes }
+}
+
+c_gowrie-272.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-256.1.1
+	culture = pictish
+	religion = brythonic
+	272.1.1 = { birth = yes }
+	352.1.1 = { death = yes }
+}
+
+c_gowrie-288.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-272.1.1
+	culture = pictish
+	religion = brythonic
+	288.1.1 = { birth = yes }
+	368.1.1 = { death = yes }
+}
+
+c_gowrie-304.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-288.1.1
+	culture = pictish
+	religion = brythonic
+	304.1.1 = { birth = yes }
+	384.1.1 = { death = yes }
+}
+
+c_gowrie-320.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-304.1.1
+	culture = pictish
+	religion = brythonic
+	320.1.1 = { birth = yes }
+	400.1.1 = { death = yes }
+}
+
+c_gowrie-336.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-320.1.1
+	culture = pictish
+	religion = brythonic
+	336.1.1 = { birth = yes }
+	416.1.1 = { death = yes }
+}
+
+c_gowrie-352.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-336.1.1
+	culture = pictish
+	religion = brythonic
+	352.1.1 = { birth = yes }
+	432.1.1 = { death = yes }
+}
+
+c_gowrie-368.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-352.1.1
+	culture = pictish
+	religion = brythonic
+	368.1.1 = { birth = yes }
+	448.1.1 = { death = yes }
+}
+
+c_gowrie-384.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-368.1.1
+	culture = pictish
+	religion = brythonic
+	384.1.1 = { birth = yes }
+	464.1.1 = { death = yes }
+}
+
+c_gowrie-400.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-384.1.1
+	culture = pictish
+	religion = brythonic
+	400.1.1 = { birth = yes }
+	480.1.1 = { death = yes }
+}
+
+c_gowrie-416.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-400.1.1
+	culture = pictish
+	religion = brythonic
+	416.1.1 = { birth = yes }
+	496.1.1 = { death = yes }
+}
+
+c_gowrie-432.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-416.1.1
+	culture = pictish
+	religion = brythonic
+	432.1.1 = { birth = yes }
+	512.1.1 = { death = yes }
+}
+
+c_gowrie-448.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-432.1.1
+	culture = pictish
+	religion = brythonic
+	448.1.1 = { birth = yes }
+	528.1.1 = { death = yes }
+}
+
+c_gowrie-464.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-448.1.1
+	culture = pictish
+	religion = brythonic
+	464.1.1 = { birth = yes }
+	544.1.1 = { death = yes }
+}
+
+c_gowrie-480.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-464.1.1
+	culture = pictish
+	religion = brythonic
+	480.1.1 = { birth = yes }
+	560.1.1 = { death = yes }
+}
+
+c_gowrie-496.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-480.1.1
+	culture = pictish
+	religion = brythonic
+	496.1.1 = { birth = yes }
+	576.1.1 = { death = yes }
+}
+
+c_gowrie-512.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-496.1.1
+	culture = pictish
+	religion = brythonic
+	512.1.1 = { birth = yes }
+	592.1.1 = { death = yes }
+}
+
+c_gowrie-528.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-512.1.1
+	culture = pictish
+	religion = brythonic
+	528.1.1 = { birth = yes }
+	608.1.1 = { death = yes }
+}
+
+c_gowrie-544.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-528.1.1
+	culture = pictish
+	religion = brythonic
+	544.1.1 = { birth = yes }
+	624.1.1 = { death = yes }
+}
+
+c_gowrie-560.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-544.1.1
+	culture = pictish
+	religion = brythonic
+	560.1.1 = { birth = yes }
+	640.1.1 = { death = yes }
+}
+
+c_gowrie-576.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-560.1.1
+	culture = pictish
+	religion = brythonic
+	576.1.1 = { birth = yes }
+	656.1.1 = { death = yes }
+}
+
+c_gowrie-592.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-576.1.1
+	culture = pictish
+	religion = brythonic
+	592.1.1 = { birth = yes }
+	672.1.1 = { death = yes }
+}
+
+c_gowrie-608.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-592.1.1
+	culture = pictish
+	religion = brythonic
+	608.1.1 = { birth = yes }
+	688.1.1 = { death = yes }
+}
+
+c_gowrie-624.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-608.1.1
+	culture = pictish
+	religion = brythonic
+	624.1.1 = { birth = yes }
+	704.1.1 = { death = yes }
+}
+
+c_gowrie-640.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-624.1.1
+	culture = pictish
+	religion = brythonic
+	640.1.1 = { birth = yes }
+	720.1.1 = { death = yes }
+}
+
+c_gowrie-656.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-640.1.1
+	culture = pictish
+	religion = brythonic
+	656.1.1 = { birth = yes }
+	736.1.1 = { death = yes }
+}
+
+c_gowrie-672.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-656.1.1
+	culture = pictish
+	religion = brythonic
+	672.1.1 = { birth = yes }
+	752.1.1 = { death = yes }
+}
+
+c_gowrie-688.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-672.1.1
+	culture = pictish
+	religion = brythonic
+	688.1.1 = { birth = yes }
+	768.1.1 = { death = yes }
+}
+
+c_gowrie-704.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-688.1.1
+	culture = pictish
+	religion = brythonic
+	704.1.1 = { birth = yes }
+	784.1.1 = { death = yes }
+}
+
+c_gowrie-720.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-704.1.1
+	culture = pictish
+	religion = brythonic
+	720.1.1 = { birth = yes }
+	800.1.1 = { death = yes }
+}
+
+c_gowrie-736.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-720.1.1
+	culture = pictish
+	religion = brythonic
+	736.1.1 = { birth = yes }
+	816.1.1 = { death = yes }
+}
+
+c_gowrie-752.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-736.1.1
+	culture = pictish
+	religion = brythonic
+	752.1.1 = { birth = yes }
+	832.1.1 = { death = yes }
+}
+
+c_gowrie-768.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-752.1.1
+	culture = pictish
+	religion = brythonic
+	768.1.1 = { birth = yes }
+	848.1.1 = { death = yes }
+}
+
+c_gowrie-784.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-768.1.1
+	culture = pictish
+	religion = brythonic
+	784.1.1 = { birth = yes }
+	864.1.1 = { death = yes }
+}
+
+c_gowrie-800.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-784.1.1
+	culture = pictish
+	religion = brythonic
+	800.1.1 = { birth = yes }
+	880.1.1 = { death = yes }
+}
+
+c_gowrie-816.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-800.1.1
+	culture = pictish
+	religion = brythonic
+	816.1.1 = { birth = yes }
+	896.1.1 = { death = yes }
+}
+
+c_gowrie-832.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-816.1.1
+	culture = pictish
+	religion = brythonic
+	832.1.1 = { birth = yes }
+	912.1.1 = { death = yes }
+}
+
+c_gowrie-848.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-832.1.1
+	culture = pictish
+	religion = brythonic
+	848.1.1 = { birth = yes }
+	928.1.1 = { death = yes }
+}
+
+c_gowrie-864.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-848.1.1
+	culture = pictish
+	religion = brythonic
+	864.1.1 = { birth = yes }
+	944.1.1 = { death = yes }
+}
+
+c_gowrie-880.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-864.1.1
+	culture = pictish
+	religion = brythonic
+	880.1.1 = { birth = yes }
+	960.1.1 = { death = yes }
+}
+
+c_gowrie-896.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-880.1.1
+	culture = pictish
+	religion = brythonic
+	896.1.1 = { birth = yes }
+	976.1.1 = { death = yes }
+}
+
+c_gowrie-912.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-896.1.1
+	culture = pictish
+	religion = brythonic
+	912.1.1 = { birth = yes }
+	992.1.1 = { death = yes }
+}
+c_gowrie-928.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-912.1.1
+	culture = pictish
+	religion = brythonic
+	928.1.1 = { birth = yes }
+	1008.1.1 = { death = yes }
+}
+
+c_gowrie-944.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-928.1.1
+	culture = pictish
+	religion = brythonic
+	944.1.1 = { birth = yes }
+	1024.1.1 = { death = yes }
+}
+
+c_gowrie-960.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-944.1.1
+	culture = pictish
+	religion = brythonic
+	960.1.1 = { birth = yes }
+	1040.1.1 = { death = yes }
+}
+
+c_gowrie-976.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-960.1.1
+	culture = pictish
+	religion = brythonic
+	976.1.1 = { birth = yes }
+	1056.1.1 = { death = yes }
+}
+
+c_gowrie-992.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-976.1.1
+	culture = pictish
+	religion = brythonic
+	992.1.1 = { birth = yes }
+	1072.1.1 = { death = yes }
+}
+
+c_gowrie-1008.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-992.1.1
+	culture = pictish
+	religion = brythonic
+	1008.1.1 = { birth = yes }
+	1088.1.1 = { death = yes }
+}
+
+c_gowrie-1024.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1008.1.1
+	culture = pictish
+	religion = brythonic
+	1024.1.1 = { birth = yes }
+	1104.1.1 = { death = yes }
+}
+
+c_gowrie-1040.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1024.1.1
+	culture = pictish
+	religion = brythonic
+	1040.1.1 = { birth = yes }
+	1120.1.1 = { death = yes }
+}
+
+c_gowrie-1056.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1040.1.1
+	culture = pictish
+	religion = brythonic
+	1056.1.1 = { birth = yes }
+	1136.1.1 = { death = yes }
+}
+
+c_gowrie-1072.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1056.1.1
+	culture = pictish
+	religion = brythonic
+	1072.1.1 = { birth = yes }
+	1152.1.1 = { death = yes }
+}
+
+c_gowrie-1088.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1072.1.1
+	culture = pictish
+	religion = brythonic
+	1088.1.1 = { birth = yes }
+	1168.1.1 = { death = yes }
+}
+
+c_gowrie-1104.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1088.1.1
+	culture = pictish
+	religion = brythonic
+	1104.1.1 = { birth = yes }
+	1184.1.1 = { death = yes }
+}
+
+c_gowrie-1120.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1104.1.1
+	culture = pictish
+	religion = brythonic
+	1120.1.1 = { birth = yes }
+	1200.1.1 = { death = yes }
+}
+
+c_gowrie-1136.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1120.1.1
+	culture = pictish
+	religion = brythonic
+	1136.1.1 = { birth = yes }
+	1216.1.1 = { death = yes }
+}
+
+c_gowrie-1152.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1136.1.1
+	culture = pictish
+	religion = brythonic
+	1152.1.1 = { birth = yes }
+	1232.1.1 = { death = yes }
+}
+
+c_gowrie-1168.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1152.1.1
+	culture = pictish
+	religion = brythonic
+	1168.1.1 = { birth = yes }
+	1248.1.1 = { death = yes }
+}
+
+c_gowrie-1184.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1168.1.1
+	culture = pictish
+	religion = brythonic
+	1184.1.1 = { birth = yes }
+	1264.1.1 = { death = yes }
+}
+
+c_gowrie-1200.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1184.1.1
+	culture = pictish
+	religion = brythonic
+	1200.1.1 = { birth = yes }
+	1280.1.1 = { death = yes }
+}
+
+c_gowrie-1216.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1200.1.1
+	culture = pictish
+	religion = brythonic
+	1216.1.1 = { birth = yes }
+	1296.1.1 = { death = yes }
+}
+
+c_gowrie-1232.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1216.1.1
+	culture = pictish
+	religion = brythonic
+	1232.1.1 = { birth = yes }
+	1312.1.1 = { death = yes }
+}
+
+c_gowrie-1248.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1232.1.1
+	culture = pictish
+	religion = brythonic
+	1248.1.1 = { birth = yes }
+	1328.1.1 = { death = yes }
+}
+
+c_gowrie-1264.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1248.1.1
+	culture = pictish
+	religion = brythonic
+	1264.1.1 = { birth = yes }
+	1344.1.1 = { death = yes }
+}
+
+c_gowrie-1280.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1264.1.1
+	culture = pictish
+	religion = brythonic
+	1280.1.1 = { birth = yes }
+	1360.1.1 = { death = yes }
+}
+
+c_gowrie-1296.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1280.1.1
+	culture = pictish
+	religion = brythonic
+	1296.1.1 = { birth = yes }
+	1376.1.1 = { death = yes }
+}
+
+c_gowrie-1312.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1296.1.1
+	culture = pictish
+	religion = brythonic
+	1312.1.1 = { birth = yes }
+	1392.1.1 = { death = yes }
+}
+
+c_gowrie-1328.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1312.1.1
+	culture = pictish
+	religion = brythonic
+	1328.1.1 = { birth = yes }
+	1408.1.1 = { death = yes }
+}
+
+c_gowrie-1344.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1328.1.1
+	culture = pictish
+	religion = brythonic
+	1344.1.1 = { birth = yes }
+	1424.1.1 = { death = yes }
+}
+
+c_gowrie-1360.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1344.1.1
+	culture = pictish
+	religion = brythonic
+	1360.1.1 = { birth = yes }
+	1440.1.1 = { death = yes }
+}
+
+c_gowrie-1376.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1360.1.1
+	culture = pictish
+	religion = brythonic
+	1376.1.1 = { birth = yes }
+	1456.1.1 = { death = yes }
+}
+
+c_gowrie-1392.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1376.1.1
+	culture = pictish
+	religion = brythonic
+	1392.1.1 = { birth = yes }
+	1472.1.1 = { death = yes }
+}
+
+c_gowrie-1408.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1392.1.1
+	culture = pictish
+	religion = brythonic
+	1408.1.1 = { birth = yes }
+	1488.1.1 = { death = yes }
+}
+
+c_gowrie-1424.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1408.1.1
+	culture = pictish
+	religion = brythonic
+	1424.1.1 = { birth = yes }
+	1504.1.1 = { death = yes }
+}
+
+c_gowrie-1440.1.1 = {
+	dynasty_house = taexalii
+	father = c_gowrie-1424.1.1
+	culture = pictish
+	religion = brythonic
+	1440.1.1 = { birth = yes }
+	1520.1.1 = { death = yes }
+}

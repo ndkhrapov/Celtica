@@ -2,34 +2,518 @@ k_cornwall = {
 	867.1.1 = {
 		change_development_level = 10
 	}
-	1066.1.1 = {
-		change_development_level = 14
+	1066.9.15 = {
+		change_development_level = 12
+		government = feudal_government
+		holder = c_devon-992.1.1
 	}
 	1178.1.1 = {
-		change_development_level = 28
+		change_development_level = 24
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+		liege = e_britannia
+    }
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = kernow
+	}
+	112.1.1 = {
+		holder = 0
+	}
+	1072.1.1 = {
+		holder = c_devon-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_devon-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_devon-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_devon-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_devon-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_devon-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_devon-1104.1.1
+	}
+	1184.1.1 = {
+		holder = c_devon-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_devon-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_devon-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_devon-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_devon-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_devon-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_devon-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_devon-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_devon-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_devon-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_devon-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_devon-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_devon-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_devon-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_devon-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_devon-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_devon-1376.1.1
 	}
 }
 
 d_cornwall = {
 	867.1.1 = {
 		change_development_level = 12
+		government = tribal_government
 	}
-	1066.1.1 = {
-		change_development_level = 20
+	1066.9.15 = {
+		change_development_level = 15
 	}
 	1178.1.1 = {
-		change_development_level = 32
+		change_development_level = 24
+    }
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = kernow
+	}
+	112.1.1 = {
+		holder = dumnon
+	}
+	144.1.1 = {
+		holder = 0
+	}
+	864.1.1 = {
+		holder = c_devon-800.1.1
+	}
+	880.1.1 = {
+		holder = c_devon-816.1.1
+	}
+	896.1.1 = {
+		holder = c_devon-832.1.1
+	}
+	912.1.1 = {
+		holder = c_devon-848.1.1
+	}
+	928.1.1 = {
+		holder = c_devon-864.1.1
+	}
+	944.1.1 = {
+		holder = c_devon-880.1.1
+	}
+	960.1.1 = {
+		holder = c_devon-896.1.1
+	}
+	976.1.1 = {
+		holder = c_devon-912.1.1
+	}
+	992.1.1 = {
+		holder = c_devon-928.1.1
+	}
+	1008.1.1 = {
+		holder = c_devon-944.1.1
+	}
+	1024.1.1 = {
+		holder = c_devon-960.1.1
+	}
+	1040.1.1 = {
+		holder = c_devon-976.1.1
+	}
+	1056.1.1 = {
+		holder = c_devon-992.1.1
+	}
+	1072.1.1 = {
+		holder = c_devon-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_devon-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_devon-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_devon-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_devon-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_devon-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_devon-1104.1.1
+	}
+	1184.1.1 = {
+		holder = c_devon-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_devon-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_devon-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_devon-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_devon-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_devon-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_devon-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_devon-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_devon-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_devon-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_devon-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_devon-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_devon-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_devon-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_devon-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_devon-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_devon-1376.1.1
 	}
 }
 
 c_devon = {
 	867.1.1 = {
+		change_development_level = 15
+	}
+	1066.9.15 = {
 		change_development_level = 18
 	}
-	1066.1.1 = {
-		change_development_level = 25
-	}
 	1178.1.1 = {
-		change_development_level = 48
+		change_development_level = 39
+    }
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = kernow
+	}
+	112.1.1 = {
+		holder = dumnon
+	}
+	144.1.1 = {
+		holder = c_devon-80.1.1
+	}
+	160.1.1 = {
+		holder = c_devon-96.1.1
+	}
+	176.1.1 = {
+		holder = c_devon-112.1.1
+	}
+	192.1.1 = {
+		holder = c_devon-128.1.1
+	}
+	208.1.1 = {
+		holder = c_devon-144.1.1
+	}
+	224.1.1 = {
+		holder = c_devon-160.1.1
+	}
+	240.1.1 = {
+		holder = c_devon-176.1.1
+	}
+	256.1.1 = {
+		holder = c_devon-192.1.1
+	}
+	272.1.1 = {
+		holder = c_devon-208.1.1
+	}
+	288.1.1 = {
+		holder = c_devon-224.1.1
+	}
+	304.1.1 = {
+		holder = c_devon-240.1.1
+	}
+	320.1.1 = {
+		holder = c_devon-256.1.1
+	}
+	336.1.1 = {
+		holder = c_devon-272.1.1
+	}
+	352.1.1 = {
+		holder = c_devon-288.1.1
+	}
+	368.1.1 = {
+		holder = c_devon-304.1.1
+	}
+	384.1.1 = {
+		holder = c_devon-320.1.1
+	}
+	400.1.1 = {
+		holder = c_devon-336.1.1
+	}
+	416.1.1 = {
+		holder = c_devon-352.1.1
+	}
+	432.1.1 = {
+		holder = c_devon-368.1.1
+	}
+	448.1.1 = {
+		holder = c_devon-384.1.1
+	}
+	464.1.1 = {
+		holder = c_devon-400.1.1
+	}
+	480.1.1 = {
+		holder = c_devon-416.1.1
+	}
+	496.1.1 = {
+		holder = c_devon-432.1.1
+	}
+	512.1.1 = {
+		holder = c_devon-448.1.1
+	}
+	528.1.1 = {
+		holder = c_devon-464.1.1
+	}
+	544.1.1 = {
+		holder = c_devon-480.1.1
+	}
+	560.1.1 = {
+		holder = c_devon-496.1.1
+	}
+	576.1.1 = {
+		holder = c_devon-512.1.1
+	}
+	592.1.1 = {
+		holder = c_devon-528.1.1
+	}
+	608.1.1 = {
+		holder = c_devon-544.1.1
+	}
+	624.1.1 = {
+		holder = c_devon-560.1.1
+	}
+	640.1.1 = {
+		holder = c_devon-576.1.1
+	}
+	656.1.1 = {
+		holder = c_devon-592.1.1
+	}
+	672.1.1 = {
+		holder = c_devon-608.1.1
+	}
+	688.1.1 = {
+		holder = c_devon-624.1.1
+	}
+	704.1.1 = {
+		holder = c_devon-640.1.1
+	}
+	720.1.1 = {
+		holder = c_devon-656.1.1
+	}
+	736.1.1 = {
+		holder = c_devon-672.1.1
+	}
+	752.1.1 = {
+		holder = c_devon-688.1.1
+	}
+	768.1.1 = {
+		holder = c_devon-704.1.1
+	}
+	784.1.1 = {
+		holder = c_devon-720.1.1
+	}
+	800.1.1 = {
+		holder = c_devon-736.1.1
+	}
+	816.1.1 = {
+		holder = c_devon-752.1.1
+	}
+	832.1.1 = {
+		holder = c_devon-768.1.1
+	}
+	848.1.1 = {
+		holder = c_devon-784.1.1
+	}
+	864.1.1 = {
+		holder = c_devon-800.1.1
+	}
+	880.1.1 = {
+		holder = c_devon-816.1.1
+	}
+	896.1.1 = {
+		holder = c_devon-832.1.1
+	}
+	912.1.1 = {
+		holder = c_devon-848.1.1
+	}
+	928.1.1 = {
+		holder = c_devon-864.1.1
+	}
+	944.1.1 = {
+		holder = c_devon-880.1.1
+	}
+	960.1.1 = {
+		holder = c_devon-896.1.1
+	}
+	976.1.1 = {
+		holder = c_devon-912.1.1
+	}
+	992.1.1 = {
+		holder = c_devon-928.1.1
+	}
+	1008.1.1 = {
+		holder = c_devon-944.1.1
+	}
+	1024.1.1 = {
+		holder = c_devon-960.1.1
+	}
+	1040.1.1 = {
+		holder = c_devon-976.1.1
+	}
+	1056.1.1 = {
+		holder = c_devon-992.1.1
+	}
+	1072.1.1 = {
+		holder = c_devon-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_devon-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_devon-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_devon-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_devon-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_devon-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_devon-1104.1.1
+	}
+	1184.1.1 = {
+		holder = c_devon-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_devon-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_devon-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_devon-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_devon-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_devon-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_devon-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_devon-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_devon-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_devon-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_devon-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_devon-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_devon-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_devon-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_devon-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_devon-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_devon-1376.1.1
 	}
 }

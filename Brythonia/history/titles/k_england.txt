@@ -1,46 +1,14 @@
 k_england = {
-	0.1.1 = {
-		holder = celt
-	}
-	64.1.1 = {
-		holder = prydain
-	}
-	96.1.1 = {
-		holder = lloegr
-	}
-	112.1.1 = {
-		holder = 0
-	}
 	867.1.1 = {
 		change_development_level = 12
 	}
-	1066.1.1 = {
+	1066.9.15 = {
 		change_development_level = 18
-		holder = c_middlesex-992.1.1
-	}
-	1072.1.1 = {
-		holder = c_middlesex-1008.1.1
-	}
-	1088.1.1 = {
-		holder = c_middlesex-1024.1.1
-	}
-	1104.1.1 = {
-		holder = c_middlesex-1040.1.1
-	}
-	1120.1.1 = {
-		holder = c_middlesex-1056.1.1
-	}
-	1136.1.1 = {
-		holder = c_middlesex-1072.1.1
-	}
-	1152.1.1 = {
-		holder = c_middlesex-1088.1.1
-	}
-	1168.1.1 = {
-		holder = c_middlesex-1104.1.1
+		government = feudal_government
+		holder = c_essex-992.1.1
 	}
 	1178.1.1 = {
-		change_development_level = 35
+		change_development_level = 24
 		government = administrative_government
 		effect = {
 			if = {
@@ -53,61 +21,106 @@ k_england = {
 				}
 			}
 		}
+		liege = e_britannia
     }
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = lloegr
+	}
+	112.1.1 = {
+		holder = 0
+	}
+	1072.1.1 = {
+		holder = c_essex-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_essex-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_essex-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_essex-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_essex-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_essex-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_essex-1104.1.1
+	}
 	1184.1.1 = {
-		holder = c_middlesex-1120.1.1
+		holder = c_essex-1120.1.1
 	}
 	1200.1.1 = {
-		holder = c_middlesex-1136.1.1
+		holder = c_essex-1136.1.1
 	}
 	1216.1.1 = {
-		holder = c_middlesex-1152.1.1
+		holder = c_essex-1152.1.1
 	}
 	1232.1.1 = {
-		holder = c_middlesex-1168.1.1
+		holder = c_essex-1168.1.1
 	}
 	1248.1.1 = {
-		holder = c_middlesex-1184.1.1
+		holder = c_essex-1184.1.1
 	}
 	1264.1.1 = {
-		holder = c_middlesex-1200.1.1
+		holder = c_essex-1200.1.1
 	}
 	1280.1.1 = {
-		holder = c_middlesex-1216.1.1
+		holder = c_essex-1216.1.1
 	}
 	1296.1.1 = {
-		holder = c_middlesex-1232.1.1
+		holder = c_essex-1232.1.1
 	}
 	1312.1.1 = {
-		holder = c_middlesex-1248.1.1
+		holder = c_essex-1248.1.1
 	}
 	1328.1.1 = {
-		holder = c_middlesex-1264.1.1
+		holder = c_essex-1264.1.1
 	}
 	1344.1.1 = {
-		holder = c_middlesex-1280.1.1
+		holder = c_essex-1280.1.1
 	}
 	1360.1.1 = {
-		holder = c_middlesex-1296.1.1
+		holder = c_essex-1296.1.1
 	}
 	1376.1.1 = {
-		holder = c_middlesex-1312.1.1
+		holder = c_essex-1312.1.1
 	}
 	1392.1.1 = {
-		holder = c_middlesex-1328.1.1
+		holder = c_essex-1328.1.1
 	}
 	1408.1.1 = {
-		holder = c_middlesex-1344.1.1
+		holder = c_essex-1344.1.1
 	}
 	1424.1.1 = {
-		holder = c_middlesex-1360.1.1
+		holder = c_essex-1360.1.1
 	}
 	1440.1.1 = {
-		holder = c_middlesex-1376.1.1
+		holder = c_essex-1376.1.1
 	}
 }
 
 d_bedford = {
+	867.1.1 = {
+		change_development_level = 12
+		government = tribal_government
+		holder = c_essex-800.1.1
+	}
+	1066.9.15 = {
+		change_development_level = 18
+	}
+	1178.1.1 = {
+		change_development_level = 24
+    }
 	0.1.1 = {
 		holder = celt
 	}
@@ -123,141 +136,126 @@ d_bedford = {
 	144.1.1 = {
 		holder = 0
 	}
-	864.1.1 = {
-		holder = c_middlesex-800.1.1
-	}
-	867.1.1 = {
-		change_development_level = 18
-	}
 	880.1.1 = {
-		holder = c_middlesex-816.1.1
+		holder = c_essex-816.1.1
 	}
 	896.1.1 = {
-		holder = c_middlesex-832.1.1
+		holder = c_essex-832.1.1
 	}
 	912.1.1 = {
-		holder = c_middlesex-848.1.1
+		holder = c_essex-848.1.1
 	}
 	928.1.1 = {
-		holder = c_middlesex-864.1.1
+		holder = c_essex-864.1.1
 	}
 	944.1.1 = {
-		holder = c_middlesex-880.1.1
+		holder = c_essex-880.1.1
 	}
 	960.1.1 = {
-		holder = c_middlesex-896.1.1
+		holder = c_essex-896.1.1
 	}
 	976.1.1 = {
-		holder = c_middlesex-912.1.1
+		holder = c_essex-912.1.1
 	}
 	992.1.1 = {
-		holder = c_middlesex-928.1.1
+		holder = c_essex-928.1.1
 	}
 	1008.1.1 = {
-		holder = c_middlesex-944.1.1
+		holder = c_essex-944.1.1
 	}
 	1024.1.1 = {
-		holder = c_middlesex-960.1.1
+		holder = c_essex-960.1.1
 	}
 	1040.1.1 = {
-		holder = c_middlesex-976.1.1
+		holder = c_essex-976.1.1
 	}
 	1056.1.1 = {
-		holder = c_middlesex-992.1.1
-	}
-	1066.1.1 = {
-		change_development_level = 25
+		holder = c_essex-992.1.1
 	}
 	1072.1.1 = {
-		holder = c_middlesex-1008.1.1
+		holder = c_essex-1008.1.1
 	}
 	1088.1.1 = {
-		holder = c_middlesex-1024.1.1
+		holder = c_essex-1024.1.1
 	}
 	1104.1.1 = {
-		holder = c_middlesex-1040.1.1
+		holder = c_essex-1040.1.1
 	}
 	1120.1.1 = {
-		holder = c_middlesex-1056.1.1
+		holder = c_essex-1056.1.1
 	}
 	1136.1.1 = {
-		holder = c_middlesex-1072.1.1
+		holder = c_essex-1072.1.1
 	}
 	1152.1.1 = {
-		holder = c_middlesex-1088.1.1
+		holder = c_essex-1088.1.1
 	}
 	1168.1.1 = {
-		holder = c_middlesex-1104.1.1
+		holder = c_essex-1104.1.1
 	}
-	1178.1.1 = {
-		change_development_level = 44
-		government = administrative_government
-		effect = {
-			if = {
-				limit = {
-					exists = holder
-					NOT = { has_dlc_feature = roads_to_power }
-				}
-				holder = {
-					change_government = feudal_government
-				}
-			}
-		}
-    }
 	1184.1.1 = {
-		holder = c_middlesex-1120.1.1
+		holder = c_essex-1120.1.1
 	}
 	1200.1.1 = {
-		holder = c_middlesex-1136.1.1
+		holder = c_essex-1136.1.1
 	}
 	1216.1.1 = {
-		holder = c_middlesex-1152.1.1
+		holder = c_essex-1152.1.1
 	}
 	1232.1.1 = {
-		holder = c_middlesex-1168.1.1
+		holder = c_essex-1168.1.1
 	}
 	1248.1.1 = {
-		holder = c_middlesex-1184.1.1
+		holder = c_essex-1184.1.1
 	}
 	1264.1.1 = {
-		holder = c_middlesex-1200.1.1
+		holder = c_essex-1200.1.1
 	}
 	1280.1.1 = {
-		holder = c_middlesex-1216.1.1
+		holder = c_essex-1216.1.1
 	}
 	1296.1.1 = {
-		holder = c_middlesex-1232.1.1
+		holder = c_essex-1232.1.1
 	}
 	1312.1.1 = {
-		holder = c_middlesex-1248.1.1
+		holder = c_essex-1248.1.1
 	}
 	1328.1.1 = {
-		holder = c_middlesex-1264.1.1
+		holder = c_essex-1264.1.1
 	}
 	1344.1.1 = {
-		holder = c_middlesex-1280.1.1
+		holder = c_essex-1280.1.1
 	}
 	1360.1.1 = {
-		holder = c_middlesex-1296.1.1
+		holder = c_essex-1296.1.1
 	}
 	1376.1.1 = {
-		holder = c_middlesex-1312.1.1
+		holder = c_essex-1312.1.1
 	}
 	1392.1.1 = {
-		holder = c_middlesex-1328.1.1
+		holder = c_essex-1328.1.1
 	}
 	1408.1.1 = {
-		holder = c_middlesex-1344.1.1
+		holder = c_essex-1344.1.1
 	}
 	1424.1.1 = {
-		holder = c_middlesex-1360.1.1
+		holder = c_essex-1360.1.1
 	}
 	1440.1.1 = {
-		holder = c_middlesex-1376.1.1
+		holder = c_essex-1376.1.1
 	}
 }
 
-c_middlesex = {
+c_essex = {
+	867.1.1 = {
+		change_development_level = 15
+	}
+	1066.9.15 = {
+		change_development_level = 20
+	}
+	1178.1.1 = {
+		change_development_level = 39
+    }
 	0.1.1 = {
 		holder = celt
 	}
@@ -271,208 +269,266 @@ c_middlesex = {
 		holder = trinovant
 	}
 	144.1.1 = {
-		holder = c_middlesex-80.1.1
+		holder = c_essex-80.1.1
 	}
 	160.1.1 = {
-		holder = c_middlesex-96.1.1
+		holder = c_essex-96.1.1
 	}
 	176.1.1 = {
-		holder = c_middlesex-112.1.1
+		holder = c_essex-112.1.1
 	}
 	192.1.1 = {
-		holder = c_middlesex-128.1.1
+		holder = c_essex-128.1.1
 	}
 	208.1.1 = {
-		holder = c_middlesex-144.1.1
+		holder = c_essex-144.1.1
 	}
 	224.1.1 = {
-		holder = c_middlesex-160.1.1
+		holder = c_essex-160.1.1
 	}
 	240.1.1 = {
-		holder = c_middlesex-176.1.1
+		holder = c_essex-176.1.1
 	}
 	256.1.1 = {
-		holder = c_middlesex-192.1.1
+		holder = c_essex-192.1.1
 	}
 	272.1.1 = {
-		holder = c_middlesex-208.1.1
+		holder = c_essex-208.1.1
 	}
 	288.1.1 = {
-		holder = c_middlesex-224.1.1
+		holder = c_essex-224.1.1
 	}
 	304.1.1 = {
-		holder = c_middlesex-240.1.1
+		holder = c_essex-240.1.1
 	}
 	320.1.1 = {
-		holder = c_middlesex-256.1.1
+		holder = c_essex-256.1.1
 	}
 	336.1.1 = {
-		holder = c_middlesex-272.1.1
+		holder = c_essex-272.1.1
 	}
 	352.1.1 = {
-		holder = c_middlesex-288.1.1
+		holder = c_essex-288.1.1
 	}
 	368.1.1 = {
-		holder = c_middlesex-304.1.1
+		holder = c_essex-304.1.1
 	}
 	384.1.1 = {
-		holder = c_middlesex-320.1.1
+		holder = c_essex-320.1.1
 	}
 	400.1.1 = {
-		holder = c_middlesex-336.1.1
+		holder = c_essex-336.1.1
 	}
 	416.1.1 = {
-		holder = c_middlesex-352.1.1
+		holder = c_essex-352.1.1
 	}
 	432.1.1 = {
-		holder = c_middlesex-368.1.1
+		holder = c_essex-368.1.1
 	}
 	448.1.1 = {
-		holder = c_middlesex-384.1.1
+		holder = c_essex-384.1.1
 	}
 	464.1.1 = {
-		holder = c_middlesex-400.1.1
+		holder = c_essex-400.1.1
 	}
 	480.1.1 = {
-		holder = c_middlesex-416.1.1
+		holder = c_essex-416.1.1
 	}
 	496.1.1 = {
-		holder = c_middlesex-432.1.1
+		holder = c_essex-432.1.1
 	}
 	512.1.1 = {
-		holder = c_middlesex-448.1.1
+		holder = c_essex-448.1.1
 	}
 	528.1.1 = {
-		holder = c_middlesex-464.1.1
+		holder = c_essex-464.1.1
 	}
 	544.1.1 = {
-		holder = c_middlesex-480.1.1
+		holder = c_essex-480.1.1
 	}
 	560.1.1 = {
-		holder = c_middlesex-496.1.1
+		holder = c_essex-496.1.1
 	}
 	576.1.1 = {
-		holder = c_middlesex-512.1.1
+		holder = c_essex-512.1.1
 	}
 	592.1.1 = {
-		holder = c_middlesex-528.1.1
+		holder = c_essex-528.1.1
 	}
 	608.1.1 = {
-		holder = c_middlesex-544.1.1
+		holder = c_essex-544.1.1
 	}
 	624.1.1 = {
-		holder = c_middlesex-560.1.1
+		holder = c_essex-560.1.1
 	}
 	640.1.1 = {
-		holder = c_middlesex-576.1.1
+		holder = c_essex-576.1.1
 	}
 	656.1.1 = {
-		holder = c_middlesex-592.1.1
+		holder = c_essex-592.1.1
 	}
 	672.1.1 = {
-		holder = c_middlesex-608.1.1
+		holder = c_essex-608.1.1
 	}
 	688.1.1 = {
-		holder = c_middlesex-624.1.1
+		holder = c_essex-624.1.1
 	}
 	704.1.1 = {
-		holder = c_middlesex-640.1.1
+		holder = c_essex-640.1.1
 	}
 	720.1.1 = {
-		holder = c_middlesex-656.1.1
+		holder = c_essex-656.1.1
 	}
 	736.1.1 = {
-		holder = c_middlesex-672.1.1
+		holder = c_essex-672.1.1
 	}
 	752.1.1 = {
-		holder = c_middlesex-688.1.1
+		holder = c_essex-688.1.1
 	}
 	768.1.1 = {
-		holder = c_middlesex-704.1.1
+		holder = c_essex-704.1.1
 	}
 	784.1.1 = {
-		holder = c_middlesex-720.1.1
+		holder = c_essex-720.1.1
 	}
 	800.1.1 = {
-		holder = c_middlesex-736.1.1
+		holder = c_essex-736.1.1
 	}
 	816.1.1 = {
-		holder = c_middlesex-752.1.1
+		holder = c_essex-752.1.1
 	}
 	832.1.1 = {
-		holder = c_middlesex-768.1.1
+		holder = c_essex-768.1.1
 	}
 	848.1.1 = {
-		holder = c_middlesex-784.1.1
+		holder = c_essex-784.1.1
 	}
 	864.1.1 = {
-		holder = c_middlesex-800.1.1
-	}
-	867.1.1 = {
-		change_development_level = 25
+		holder = c_essex-800.1.1
 	}
 	880.1.1 = {
-		holder = c_middlesex-816.1.1
+		holder = c_essex-816.1.1
 	}
 	896.1.1 = {
-		holder = c_middlesex-832.1.1
+		holder = c_essex-832.1.1
 	}
 	912.1.1 = {
-		holder = c_middlesex-848.1.1
+		holder = c_essex-848.1.1
 	}
 	928.1.1 = {
-		holder = c_middlesex-864.1.1
+		holder = c_essex-864.1.1
 	}
 	944.1.1 = {
-		holder = c_middlesex-880.1.1
+		holder = c_essex-880.1.1
 	}
 	960.1.1 = {
-		holder = c_middlesex-896.1.1
+		holder = c_essex-896.1.1
 	}
 	976.1.1 = {
-		holder = c_middlesex-912.1.1
+		holder = c_essex-912.1.1
 	}
 	992.1.1 = {
-		holder = c_middlesex-928.1.1
+		holder = c_essex-928.1.1
 	}
 	1008.1.1 = {
-		holder = c_middlesex-944.1.1
+		holder = c_essex-944.1.1
 	}
 	1024.1.1 = {
-		holder = c_middlesex-960.1.1
+		holder = c_essex-960.1.1
 	}
 	1040.1.1 = {
-		holder = c_middlesex-976.1.1
+		holder = c_essex-976.1.1
 	}
 	1056.1.1 = {
-		holder = c_middlesex-992.1.1
-	}
-	1066.1.1 = {
-		change_development_level = 44
+		holder = c_essex-992.1.1
 	}
 	1072.1.1 = {
-		holder = c_middlesex-1008.1.1
+		holder = c_essex-1008.1.1
 	}
 	1088.1.1 = {
-		holder = c_middlesex-1024.1.1
+		holder = c_essex-1024.1.1
 	}
 	1104.1.1 = {
-		holder = c_middlesex-1040.1.1
+		holder = c_essex-1040.1.1
 	}
 	1120.1.1 = {
-		holder = c_middlesex-1056.1.1
+		holder = c_essex-1056.1.1
 	}
 	1136.1.1 = {
-		holder = c_middlesex-1072.1.1
+		holder = c_essex-1072.1.1
 	}
 	1152.1.1 = {
-		holder = c_middlesex-1088.1.1
+		holder = c_essex-1088.1.1
 	}
 	1168.1.1 = {
-		holder = c_middlesex-1104.1.1
+		holder = c_essex-1104.1.1
+	}
+	1184.1.1 = {
+		holder = c_essex-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_essex-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_essex-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_essex-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_essex-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_essex-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_essex-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_essex-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_essex-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_essex-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_essex-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_essex-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_essex-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_essex-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_essex-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_essex-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_essex-1376.1.1
+	}
+}
+
+d_norfolk = {
+	867.1.1 = {
+		change_development_level = 12
+		government = tribal_government
+		holder = c_norfolk-800.1.1
+	}
+	1066.9.15 = {
+		change_development_level = 18
+		government = feudal_government
+		liege = k_england
 	}
 	1178.1.1 = {
-		change_development_level = 76
+		change_development_level = 24
 		government = administrative_government
 		effect = {
 			if = {
@@ -485,61 +541,8 @@ c_middlesex = {
 				}
 			}
 		}
-    }
-	1184.1.1 = {
-		holder = c_middlesex-1120.1.1
+		liege = k_england
 	}
-	1200.1.1 = {
-		holder = c_middlesex-1136.1.1
-	}
-	1216.1.1 = {
-		holder = c_middlesex-1152.1.1
-	}
-	1232.1.1 = {
-		holder = c_middlesex-1168.1.1
-	}
-	1248.1.1 = {
-		holder = c_middlesex-1184.1.1
-	}
-	1264.1.1 = {
-		holder = c_middlesex-1200.1.1
-	}
-	1280.1.1 = {
-		holder = c_middlesex-1216.1.1
-	}
-	1296.1.1 = {
-		holder = c_middlesex-1232.1.1
-	}
-	1312.1.1 = {
-		holder = c_middlesex-1248.1.1
-	}
-	1328.1.1 = {
-		holder = c_middlesex-1264.1.1
-	}
-	1344.1.1 = {
-		holder = c_middlesex-1280.1.1
-	}
-	1360.1.1 = {
-		holder = c_middlesex-1296.1.1
-	}
-	1376.1.1 = {
-		holder = c_middlesex-1312.1.1
-	}
-	1392.1.1 = {
-		holder = c_middlesex-1328.1.1
-	}
-	1408.1.1 = {
-		holder = c_middlesex-1344.1.1
-	}
-	1424.1.1 = {
-		holder = c_middlesex-1360.1.1
-	}
-	1440.1.1 = {
-		holder = c_middlesex-1376.1.1
-	}
-}
-
-d_norfolk = {
 	0.1.1 = {
 		holder = celt
 	}
@@ -554,9 +557,6 @@ d_norfolk = {
 	}
 	144.1.1 = {
 		holder = 0
-	}
-	864.1.1 = {
-		holder = c_norfolk-800.1.1
 	}
 	880.1.1 = {
 		holder = c_norfolk-816.1.1
@@ -666,12 +666,18 @@ d_norfolk = {
 	1440.1.1 = {
 		holder = c_norfolk-1376.1.1
 	}
-	1066.1.1 = {
-		liege = k_england
-	}
 }
 
 c_norfolk = {
+	867.1.1 = {
+		change_development_level = 15
+	}
+	1066.9.15 = {
+		change_development_level = 20
+	}
+	1178.1.1 = {
+		change_development_level = 39
+	}
 	0.1.1 = {
 		holder = celt
 	}
@@ -930,18 +936,35 @@ c_norfolk = {
 	1440.1.1 = {
 		holder = c_norfolk-1376.1.1
 	}
-	867.1.1 = {
-		change_development_level = 20
-	}
-	1066.1.1 = {
-		change_development_level = 30
-	}
-	1178.1.1 = {
-		change_development_level = 53
-	}
 }
 
 d_canterbury = {
+	867.1.1 = {
+		change_development_level = 12
+		government = tribal_government
+		holder = c_kent-800.1.1
+	}
+	1066.9.15 = {
+		change_development_level = 18
+		government = feudal_government
+		liege = k_england
+	}
+	1178.1.1 = {
+		change_development_level = 24
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+		liege = k_england
+	}
 	0.1.1 = {
 		holder = celt
 	}
@@ -956,9 +979,6 @@ d_canterbury = {
 	}
 	144.1.1 = {
 		holder = 0
-	}
-	864.1.1 = {
-		holder = c_kent-800.1.1
 	}
 	880.1.1 = {
 		holder = c_kent-816.1.1
@@ -1068,12 +1088,18 @@ d_canterbury = {
 	1440.1.1 = {
 		holder = c_kent-1376.1.1
 	}
-	1066.1.1 = {
-		liege = k_england
-	}
 }
 
 c_kent = {
+	867.1.1 = {
+		change_development_level = 15
+	}
+	1066.9.15 = {
+		change_development_level = 20
+	}
+	1178.1.1 = {
+		change_development_level = 39
+	}
 	0.1.1 = {
 		holder = celt
 	}
@@ -1332,18 +1358,35 @@ c_kent = {
 	1440.1.1 = {
 		holder = c_kent-1376.1.1
 	}
-	867.1.1 = {
-		change_development_level = 20
-	}
-	1066.1.1 = {
-		change_development_level = 30
-	}
-	1178.1.1 = {
-		change_development_level = 53
-	}
 }
 
 d_somerset = {
+	867.1.1 = {
+		change_development_level = 12
+		government = tribal_government
+		holder = c_hampton-800.1.1
+	}
+	1066.9.15 = {
+		change_development_level = 18
+		government = feudal_government
+		liege = k_england
+	}
+	1178.1.1 = {
+		change_development_level = 24
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+		liege = k_england
+	}
 	0.1.1 = {
 		holder = celt
 	}
@@ -1358,9 +1401,6 @@ d_somerset = {
 	}
 	144.1.1 = {
 		holder = 0
-	}
-	864.1.1 = {
-		holder = c_hampton-800.1.1
 	}
 	880.1.1 = {
 		holder = c_hampton-816.1.1
@@ -1470,12 +1510,18 @@ d_somerset = {
 	1440.1.1 = {
 		holder = c_hampton-1376.1.1
 	}
-	1066.1.1 = {
-		liege = k_england
-	}
 }
 
 c_hampton = {
+	867.1.1 = {
+		change_development_level = 15
+	}
+	1066.9.15 = {
+		change_development_level = 20
+	}
+	1178.1.1 = {
+		change_development_level = 39
+	}
 	0.1.1 = {
 		holder = celt
 	}
@@ -1734,18 +1780,35 @@ c_hampton = {
 	1440.1.1 = {
 		holder = c_hampton-1376.1.1
 	}
-	867.1.1 = {
-		change_development_level = 20
-	}
-	1066.1.1 = {
-		change_development_level = 30
-	}
-	1178.1.1 = {
-		change_development_level = 53
-	}
 }
 
 d_gloucester = {
+	867.1.1 = {
+		change_development_level = 12
+		government = tribal_government
+		holder = c_gloucestershire-800.1.1
+	}
+	1066.9.15 = {
+		change_development_level = 18
+		government = feudal_government
+		liege = k_england
+	}
+	1178.1.1 = {
+		change_development_level = 24
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+		liege = k_england
+	}
 	0.1.1 = {
 		holder = celt
 	}
@@ -1760,9 +1823,6 @@ d_gloucester = {
 	}
 	144.1.1 = {
 		holder = 0
-	}
-	864.1.1 = {
-		holder = c_gloucestershire-800.1.1
 	}
 	880.1.1 = {
 		holder = c_gloucestershire-816.1.1
@@ -1872,12 +1932,18 @@ d_gloucester = {
 	1440.1.1 = {
 		holder = c_gloucestershire-1376.1.1
 	}
-	1066.1.1 = {
-		liege = k_england
-	}
 }
 
 c_gloucestershire = {
+	867.1.1 = {
+		change_development_level = 15
+	}
+	1066.9.15 = {
+		change_development_level = 20
+	}
+	1178.1.1 = {
+		change_development_level = 39
+	}
 	0.1.1 = {
 		holder = celt
 	}
@@ -2136,18 +2202,35 @@ c_gloucestershire = {
 	1440.1.1 = {
 		holder = c_gloucestershire-1376.1.1
 	}
-	867.1.1 = {
-		change_development_level = 20
-	}
-	1066.1.1 = {
-		change_development_level = 30
-	}
-	1178.1.1 = {
-		change_development_level = 53
-	}
 }
 
 d_hereford = {
+	867.1.1 = {
+		change_development_level = 12
+		government = tribal_government
+		holder = c_warwickshire-800.1.1
+	}
+	1066.9.15 = {
+		change_development_level = 18
+		government = feudal_government
+		liege = k_england
+	}
+	1178.1.1 = {
+		change_development_level = 24
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+		liege = k_england
+	}
 	0.1.1 = {
 		holder = celt
 	}
@@ -2162,9 +2245,6 @@ d_hereford = {
 	}
 	144.1.1 = {
 		holder = 0
-	}
-	864.1.1 = {
-		holder = c_warwickshire-800.1.1
 	}
 	880.1.1 = {
 		holder = c_warwickshire-816.1.1
@@ -2274,12 +2354,18 @@ d_hereford = {
 	1440.1.1 = {
 		holder = c_warwickshire-1376.1.1
 	}
-	1066.1.1 = {
-		liege = k_england
-	}
 }
 
 c_warwickshire = {
+	867.1.1 = {
+		change_development_level = 15
+	}
+	1066.9.15 = {
+		change_development_level = 20
+	}
+	1178.1.1 = {
+		change_development_level = 39
+	}
 	0.1.1 = {
 		holder = celt
 	}
@@ -2537,14 +2623,5 @@ c_warwickshire = {
 	}
 	1440.1.1 = {
 		holder = c_warwickshire-1376.1.1
-	}
-	867.1.1 = {
-		change_development_level = 20
-	}
-	1066.1.1 = {
-		change_development_level = 30
-	}
-	1178.1.1 = {
-		change_development_level = 53
 	}
 }

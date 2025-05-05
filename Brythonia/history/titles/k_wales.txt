@@ -2,52 +2,1366 @@ k_wales = {
 	867.1.1 = {
 		change_development_level = 8
 	}
-	1066.1.1 = {
-		change_development_level = 11
+	1066.9.15 = {
+		change_development_level = 10
+		government = feudal_government
+		holder = c_cardiganshire-992.1.1
 	}
 	1178.1.1 = {
-		change_development_level = 32
+		change_development_level = 24
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+		liege = e_britannia
+    }
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = cymru
+	}
+	112.1.1 = {
+		holder = 0
+	}
+	1072.1.1 = {
+		holder = c_cardiganshire-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_cardiganshire-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_cardiganshire-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_cardiganshire-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_cardiganshire-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_cardiganshire-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_cardiganshire-1104.1.1
+	}
+	1184.1.1 = {
+		holder = c_cardiganshire-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_cardiganshire-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_cardiganshire-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_cardiganshire-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_cardiganshire-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_cardiganshire-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_cardiganshire-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_cardiganshire-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_cardiganshire-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_cardiganshire-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_cardiganshire-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_cardiganshire-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_cardiganshire-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_cardiganshire-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_cardiganshire-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_cardiganshire-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_cardiganshire-1376.1.1
 	}
 }
 
 d_gwynedd = {
 	867.1.1 = {
 		change_development_level = 10
+		government = tribal_government
 	}
-	1066.1.1 = {
-		change_development_level = 18
+	1066.9.15 = {
+		change_development_level = 12
 	}
 	1178.1.1 = {
-		change_development_level = 36
+		change_development_level = 24
+    }
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = cymru
+	}
+	112.1.1 = {
+		holder = ordovic
+	}
+	144.1.1 = {
+		holder = 0
+	}
+	864.1.1 = {
+		holder = c_cardiganshire-800.1.1
+	}
+	880.1.1 = {
+		holder = c_cardiganshire-816.1.1
+	}
+	896.1.1 = {
+		holder = c_cardiganshire-832.1.1
+	}
+	912.1.1 = {
+		holder = c_cardiganshire-848.1.1
+	}
+	928.1.1 = {
+		holder = c_cardiganshire-864.1.1
+	}
+	944.1.1 = {
+		holder = c_cardiganshire-880.1.1
+	}
+	960.1.1 = {
+		holder = c_cardiganshire-896.1.1
+	}
+	976.1.1 = {
+		holder = c_cardiganshire-912.1.1
+	}
+	992.1.1 = {
+		holder = c_cardiganshire-928.1.1
+	}
+	1008.1.1 = {
+		holder = c_cardiganshire-944.1.1
+	}
+	1024.1.1 = {
+		holder = c_cardiganshire-960.1.1
+	}
+	1040.1.1 = {
+		holder = c_cardiganshire-976.1.1
+	}
+	1056.1.1 = {
+		holder = c_cardiganshire-992.1.1
+	}
+	1072.1.1 = {
+		holder = c_cardiganshire-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_cardiganshire-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_cardiganshire-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_cardiganshire-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_cardiganshire-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_cardiganshire-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_cardiganshire-1104.1.1
+	}
+	1184.1.1 = {
+		holder = c_cardiganshire-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_cardiganshire-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_cardiganshire-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_cardiganshire-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_cardiganshire-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_cardiganshire-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_cardiganshire-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_cardiganshire-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_cardiganshire-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_cardiganshire-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_cardiganshire-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_cardiganshire-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_cardiganshire-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_cardiganshire-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_cardiganshire-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_cardiganshire-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_cardiganshire-1376.1.1
 	}
 }
 
 c_cardiganshire = {
 	867.1.1 = {
+		change_development_level = 12
+	}
+	1066.9.15 = {
 		change_development_level = 15
 	}
-	1066.1.1 = {
-		change_development_level = 20
-	}
 	1178.1.1 = {
-		change_development_level = 39
+		change_development_level = 36
+    }
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = cymru
+	}
+	112.1.1 = {
+		holder = ordovic
+	}
+	144.1.1 = {
+		holder = c_cardiganshire-80.1.1
+	}
+	160.1.1 = {
+		holder = c_cardiganshire-96.1.1
+	}
+	176.1.1 = {
+		holder = c_cardiganshire-112.1.1
+	}
+	192.1.1 = {
+		holder = c_cardiganshire-128.1.1
+	}
+	208.1.1 = {
+		holder = c_cardiganshire-144.1.1
+	}
+	224.1.1 = {
+		holder = c_cardiganshire-160.1.1
+	}
+	240.1.1 = {
+		holder = c_cardiganshire-176.1.1
+	}
+	256.1.1 = {
+		holder = c_cardiganshire-192.1.1
+	}
+	272.1.1 = {
+		holder = c_cardiganshire-208.1.1
+	}
+	288.1.1 = {
+		holder = c_cardiganshire-224.1.1
+	}
+	304.1.1 = {
+		holder = c_cardiganshire-240.1.1
+	}
+	320.1.1 = {
+		holder = c_cardiganshire-256.1.1
+	}
+	336.1.1 = {
+		holder = c_cardiganshire-272.1.1
+	}
+	352.1.1 = {
+		holder = c_cardiganshire-288.1.1
+	}
+	368.1.1 = {
+		holder = c_cardiganshire-304.1.1
+	}
+	384.1.1 = {
+		holder = c_cardiganshire-320.1.1
+	}
+	400.1.1 = {
+		holder = c_cardiganshire-336.1.1
+	}
+	416.1.1 = {
+		holder = c_cardiganshire-352.1.1
+	}
+	432.1.1 = {
+		holder = c_cardiganshire-368.1.1
+	}
+	448.1.1 = {
+		holder = c_cardiganshire-384.1.1
+	}
+	464.1.1 = {
+		holder = c_cardiganshire-400.1.1
+	}
+	480.1.1 = {
+		holder = c_cardiganshire-416.1.1
+	}
+	496.1.1 = {
+		holder = c_cardiganshire-432.1.1
+	}
+	512.1.1 = {
+		holder = c_cardiganshire-448.1.1
+	}
+	528.1.1 = {
+		holder = c_cardiganshire-464.1.1
+	}
+	544.1.1 = {
+		holder = c_cardiganshire-480.1.1
+	}
+	560.1.1 = {
+		holder = c_cardiganshire-496.1.1
+	}
+	576.1.1 = {
+		holder = c_cardiganshire-512.1.1
+	}
+	592.1.1 = {
+		holder = c_cardiganshire-528.1.1
+	}
+	608.1.1 = {
+		holder = c_cardiganshire-544.1.1
+	}
+	624.1.1 = {
+		holder = c_cardiganshire-560.1.1
+	}
+	640.1.1 = {
+		holder = c_cardiganshire-576.1.1
+	}
+	656.1.1 = {
+		holder = c_cardiganshire-592.1.1
+	}
+	672.1.1 = {
+		holder = c_cardiganshire-608.1.1
+	}
+	688.1.1 = {
+		holder = c_cardiganshire-624.1.1
+	}
+	704.1.1 = {
+		holder = c_cardiganshire-640.1.1
+	}
+	720.1.1 = {
+		holder = c_cardiganshire-656.1.1
+	}
+	736.1.1 = {
+		holder = c_cardiganshire-672.1.1
+	}
+	752.1.1 = {
+		holder = c_cardiganshire-688.1.1
+	}
+	768.1.1 = {
+		holder = c_cardiganshire-704.1.1
+	}
+	784.1.1 = {
+		holder = c_cardiganshire-720.1.1
+	}
+	800.1.1 = {
+		holder = c_cardiganshire-736.1.1
+	}
+	816.1.1 = {
+		holder = c_cardiganshire-752.1.1
+	}
+	832.1.1 = {
+		holder = c_cardiganshire-768.1.1
+	}
+	848.1.1 = {
+		holder = c_cardiganshire-784.1.1
+	}
+	864.1.1 = {
+		holder = c_cardiganshire-800.1.1
+	}
+	880.1.1 = {
+		holder = c_cardiganshire-816.1.1
+	}
+	896.1.1 = {
+		holder = c_cardiganshire-832.1.1
+	}
+	912.1.1 = {
+		holder = c_cardiganshire-848.1.1
+	}
+	928.1.1 = {
+		holder = c_cardiganshire-864.1.1
+	}
+	944.1.1 = {
+		holder = c_cardiganshire-880.1.1
+	}
+	960.1.1 = {
+		holder = c_cardiganshire-896.1.1
+	}
+	976.1.1 = {
+		holder = c_cardiganshire-912.1.1
+	}
+	992.1.1 = {
+		holder = c_cardiganshire-928.1.1
+	}
+	1008.1.1 = {
+		holder = c_cardiganshire-944.1.1
+	}
+	1024.1.1 = {
+		holder = c_cardiganshire-960.1.1
+	}
+	1040.1.1 = {
+		holder = c_cardiganshire-976.1.1
+	}
+	1056.1.1 = {
+		holder = c_cardiganshire-992.1.1
+	}
+	1072.1.1 = {
+		holder = c_cardiganshire-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_cardiganshire-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_cardiganshire-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_cardiganshire-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_cardiganshire-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_cardiganshire-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_cardiganshire-1104.1.1
+	}
+	1184.1.1 = {
+		holder = c_cardiganshire-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_cardiganshire-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_cardiganshire-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_cardiganshire-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_cardiganshire-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_cardiganshire-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_cardiganshire-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_cardiganshire-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_cardiganshire-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_cardiganshire-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_cardiganshire-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_cardiganshire-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_cardiganshire-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_cardiganshire-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_cardiganshire-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_cardiganshire-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_cardiganshire-1376.1.1
 	}
 }
 
 d_deheubarth = {
+	867.1.1 = {
+		change_development_level = 8
+		government = tribal_government
+	}
+	1066.9.15 = {
+		change_development_level = 10
+		government = feudal_government
+		liege = k_wales
+	}
+	1178.1.1 = {
+		change_development_level = 24
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+		liege = k_wales
+	}
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = cymru
+	}
+	112.1.1 = {
+		holder = demet
+	}
+	144.1.1 = {
+		holder = 0
+	}
+	864.1.1 = {
+		holder = c_carmarthenshire-800.1.1
+	}
+	880.1.1 = {
+		holder = c_carmarthenshire-816.1.1
+	}
+	896.1.1 = {
+		holder = c_carmarthenshire-832.1.1
+	}
+	912.1.1 = {
+		holder = c_carmarthenshire-848.1.1
+	}
+	928.1.1 = {
+		holder = c_carmarthenshire-864.1.1
+	}
+	944.1.1 = {
+		holder = c_carmarthenshire-880.1.1
+	}
+	960.1.1 = {
+		holder = c_carmarthenshire-896.1.1
+	}
+	976.1.1 = {
+		holder = c_carmarthenshire-912.1.1
+	}
+	992.1.1 = {
+		holder = c_carmarthenshire-928.1.1
+	}
+	1008.1.1 = {
+		holder = c_carmarthenshire-944.1.1
+	}
+	1024.1.1 = {
+		holder = c_carmarthenshire-960.1.1
+	}
+	1040.1.1 = {
+		holder = c_carmarthenshire-976.1.1
+	}
+	1056.1.1 = {
+		holder = c_carmarthenshire-992.1.1
+	}
+	1072.1.1 = {
+		holder = c_carmarthenshire-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_carmarthenshire-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_carmarthenshire-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_carmarthenshire-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_carmarthenshire-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_carmarthenshire-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_carmarthenshire-1104.1.1
+	}
+	1184.1.1 = {
+		holder = c_carmarthenshire-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_carmarthenshire-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_carmarthenshire-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_carmarthenshire-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_carmarthenshire-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_carmarthenshire-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_carmarthenshire-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_carmarthenshire-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_carmarthenshire-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_carmarthenshire-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_carmarthenshire-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_carmarthenshire-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_carmarthenshire-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_carmarthenshire-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_carmarthenshire-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_carmarthenshire-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_carmarthenshire-1376.1.1
+	}
 }
 
 c_carmarthenshire = {
-    867.1.1 = {
+	867.1.1 = {
+		change_development_level = 10
+	}
+	1066.9.15 = {
 		change_development_level = 12
+	}
+	1178.1.1 = {
+		change_development_level = 31
+	}
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = cymru
+	}
+	112.1.1 = {
+		holder = demet
+	}
+	144.1.1 = {
+		holder = c_carmarthenshire-80.1.1
+	}
+	160.1.1 = {
+		holder = c_carmarthenshire-96.1.1
+	}
+	176.1.1 = {
+		holder = c_carmarthenshire-112.1.1
+	}
+	192.1.1 = {
+		holder = c_carmarthenshire-128.1.1
+	}
+	208.1.1 = {
+		holder = c_carmarthenshire-144.1.1
+	}
+	224.1.1 = {
+		holder = c_carmarthenshire-160.1.1
+	}
+	240.1.1 = {
+		holder = c_carmarthenshire-176.1.1
+	}
+	256.1.1 = {
+		holder = c_carmarthenshire-192.1.1
+	}
+	272.1.1 = {
+		holder = c_carmarthenshire-208.1.1
+	}
+	288.1.1 = {
+		holder = c_carmarthenshire-224.1.1
+	}
+	304.1.1 = {
+		holder = c_carmarthenshire-240.1.1
+	}
+	320.1.1 = {
+		holder = c_carmarthenshire-256.1.1
+	}
+	336.1.1 = {
+		holder = c_carmarthenshire-272.1.1
+	}
+	352.1.1 = {
+		holder = c_carmarthenshire-288.1.1
+	}
+	368.1.1 = {
+		holder = c_carmarthenshire-304.1.1
+	}
+	384.1.1 = {
+		holder = c_carmarthenshire-320.1.1
+	}
+	400.1.1 = {
+		holder = c_carmarthenshire-336.1.1
+	}
+	416.1.1 = {
+		holder = c_carmarthenshire-352.1.1
+	}
+	432.1.1 = {
+		holder = c_carmarthenshire-368.1.1
+	}
+	448.1.1 = {
+		holder = c_carmarthenshire-384.1.1
+	}
+	464.1.1 = {
+		holder = c_carmarthenshire-400.1.1
+	}
+	480.1.1 = {
+		holder = c_carmarthenshire-416.1.1
+	}
+	496.1.1 = {
+		holder = c_carmarthenshire-432.1.1
+	}
+	512.1.1 = {
+		holder = c_carmarthenshire-448.1.1
+	}
+	528.1.1 = {
+		holder = c_carmarthenshire-464.1.1
+	}
+	544.1.1 = {
+		holder = c_carmarthenshire-480.1.1
+	}
+	560.1.1 = {
+		holder = c_carmarthenshire-496.1.1
+	}
+	576.1.1 = {
+		holder = c_carmarthenshire-512.1.1
+	}
+	592.1.1 = {
+		holder = c_carmarthenshire-528.1.1
+	}
+	608.1.1 = {
+		holder = c_carmarthenshire-544.1.1
+	}
+	624.1.1 = {
+		holder = c_carmarthenshire-560.1.1
+	}
+	640.1.1 = {
+		holder = c_carmarthenshire-576.1.1
+	}
+	656.1.1 = {
+		holder = c_carmarthenshire-592.1.1
+	}
+	672.1.1 = {
+		holder = c_carmarthenshire-608.1.1
+	}
+	688.1.1 = {
+		holder = c_carmarthenshire-624.1.1
+	}
+	704.1.1 = {
+		holder = c_carmarthenshire-640.1.1
+	}
+	720.1.1 = {
+		holder = c_carmarthenshire-656.1.1
+	}
+	736.1.1 = {
+		holder = c_carmarthenshire-672.1.1
+	}
+	752.1.1 = {
+		holder = c_carmarthenshire-688.1.1
+	}
+	768.1.1 = {
+		holder = c_carmarthenshire-704.1.1
+	}
+	784.1.1 = {
+		holder = c_carmarthenshire-720.1.1
+	}
+	800.1.1 = {
+		holder = c_carmarthenshire-736.1.1
+	}
+	816.1.1 = {
+		holder = c_carmarthenshire-752.1.1
+	}
+	832.1.1 = {
+		holder = c_carmarthenshire-768.1.1
+	}
+	848.1.1 = {
+		holder = c_carmarthenshire-784.1.1
+	}
+	864.1.1 = {
+		holder = c_carmarthenshire-800.1.1
+	}
+	880.1.1 = {
+		holder = c_carmarthenshire-816.1.1
+	}
+	896.1.1 = {
+		holder = c_carmarthenshire-832.1.1
+	}
+	912.1.1 = {
+		holder = c_carmarthenshire-848.1.1
+	}
+	928.1.1 = {
+		holder = c_carmarthenshire-864.1.1
+	}
+	944.1.1 = {
+		holder = c_carmarthenshire-880.1.1
+	}
+	960.1.1 = {
+		holder = c_carmarthenshire-896.1.1
+	}
+	976.1.1 = {
+		holder = c_carmarthenshire-912.1.1
+	}
+	992.1.1 = {
+		holder = c_carmarthenshire-928.1.1
+	}
+	1008.1.1 = {
+		holder = c_carmarthenshire-944.1.1
+	}
+	1024.1.1 = {
+		holder = c_carmarthenshire-960.1.1
+	}
+	1040.1.1 = {
+		holder = c_carmarthenshire-976.1.1
+	}
+	1056.1.1 = {
+		holder = c_carmarthenshire-992.1.1
+	}
+	1072.1.1 = {
+		holder = c_carmarthenshire-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_carmarthenshire-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_carmarthenshire-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_carmarthenshire-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_carmarthenshire-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_carmarthenshire-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_carmarthenshire-1104.1.1
+	}
+	1184.1.1 = {
+		holder = c_carmarthenshire-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_carmarthenshire-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_carmarthenshire-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_carmarthenshire-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_carmarthenshire-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_carmarthenshire-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_carmarthenshire-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_carmarthenshire-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_carmarthenshire-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_carmarthenshire-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_carmarthenshire-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_carmarthenshire-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_carmarthenshire-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_carmarthenshire-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_carmarthenshire-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_carmarthenshire-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_carmarthenshire-1376.1.1
 	}
 }
 
 d_powys = {
+	867.1.1 = {
+		change_development_level = 8
+		government = tribal_government
+	}
+	1066.9.15 = {
+		change_development_level = 10
+		government = feudal_government
+		liege = k_wales
+	}
+	1178.1.1 = {
+		change_development_level = 24
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+		liege = k_wales
+	}
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = cymru
+	}
+	112.1.1 = {
+		holder = silur
+	}
+	144.1.1 = {
+		holder = 0
+	}
+	864.1.1 = {
+		holder = c_maldwyn-800.1.1
+	}
+	880.1.1 = {
+		holder = c_maldwyn-816.1.1
+	}
+	896.1.1 = {
+		holder = c_maldwyn-832.1.1
+	}
+	912.1.1 = {
+		holder = c_maldwyn-848.1.1
+	}
+	928.1.1 = {
+		holder = c_maldwyn-864.1.1
+	}
+	944.1.1 = {
+		holder = c_maldwyn-880.1.1
+	}
+	960.1.1 = {
+		holder = c_maldwyn-896.1.1
+	}
+	976.1.1 = {
+		holder = c_maldwyn-912.1.1
+	}
+	992.1.1 = {
+		holder = c_maldwyn-928.1.1
+	}
+	1008.1.1 = {
+		holder = c_maldwyn-944.1.1
+	}
+	1024.1.1 = {
+		holder = c_maldwyn-960.1.1
+	}
+	1040.1.1 = {
+		holder = c_maldwyn-976.1.1
+	}
+	1056.1.1 = {
+		holder = c_maldwyn-992.1.1
+	}
+	1072.1.1 = {
+		holder = c_maldwyn-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_maldwyn-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_maldwyn-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_maldwyn-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_maldwyn-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_maldwyn-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_maldwyn-1104.1.1
+	}
+	1184.1.1 = {
+		holder = c_maldwyn-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_maldwyn-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_maldwyn-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_maldwyn-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_maldwyn-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_maldwyn-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_maldwyn-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_maldwyn-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_maldwyn-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_maldwyn-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_maldwyn-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_maldwyn-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_maldwyn-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_maldwyn-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_maldwyn-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_maldwyn-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_maldwyn-1376.1.1
+	}
 }
 
 c_maldwyn = {
-    867.1.1 = {
+	867.1.1 = {
 		change_development_level = 12
+	}
+	1066.9.15 = {
+		change_development_level = 12
+	}
+	1178.1.1 = {
+		change_development_level = 31
+	}
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = prydain
+	}
+	96.1.1 = {
+		holder = cymru
+	}
+	112.1.1 = {
+		holder = silur
+	}
+	144.1.1 = {
+		holder = c_maldwyn-80.1.1
+	}
+	160.1.1 = {
+		holder = c_maldwyn-96.1.1
+	}
+	176.1.1 = {
+		holder = c_maldwyn-112.1.1
+	}
+	192.1.1 = {
+		holder = c_maldwyn-128.1.1
+	}
+	208.1.1 = {
+		holder = c_maldwyn-144.1.1
+	}
+	224.1.1 = {
+		holder = c_maldwyn-160.1.1
+	}
+	240.1.1 = {
+		holder = c_maldwyn-176.1.1
+	}
+	256.1.1 = {
+		holder = c_maldwyn-192.1.1
+	}
+	272.1.1 = {
+		holder = c_maldwyn-208.1.1
+	}
+	288.1.1 = {
+		holder = c_maldwyn-224.1.1
+	}
+	304.1.1 = {
+		holder = c_maldwyn-240.1.1
+	}
+	320.1.1 = {
+		holder = c_maldwyn-256.1.1
+	}
+	336.1.1 = {
+		holder = c_maldwyn-272.1.1
+	}
+	352.1.1 = {
+		holder = c_maldwyn-288.1.1
+	}
+	368.1.1 = {
+		holder = c_maldwyn-304.1.1
+	}
+	384.1.1 = {
+		holder = c_maldwyn-320.1.1
+	}
+	400.1.1 = {
+		holder = c_maldwyn-336.1.1
+	}
+	416.1.1 = {
+		holder = c_maldwyn-352.1.1
+	}
+	432.1.1 = {
+		holder = c_maldwyn-368.1.1
+	}
+	448.1.1 = {
+		holder = c_maldwyn-384.1.1
+	}
+	464.1.1 = {
+		holder = c_maldwyn-400.1.1
+	}
+	480.1.1 = {
+		holder = c_maldwyn-416.1.1
+	}
+	496.1.1 = {
+		holder = c_maldwyn-432.1.1
+	}
+	512.1.1 = {
+		holder = c_maldwyn-448.1.1
+	}
+	528.1.1 = {
+		holder = c_maldwyn-464.1.1
+	}
+	544.1.1 = {
+		holder = c_maldwyn-480.1.1
+	}
+	560.1.1 = {
+		holder = c_maldwyn-496.1.1
+	}
+	576.1.1 = {
+		holder = c_maldwyn-512.1.1
+	}
+	592.1.1 = {
+		holder = c_maldwyn-528.1.1
+	}
+	608.1.1 = {
+		holder = c_maldwyn-544.1.1
+	}
+	624.1.1 = {
+		holder = c_maldwyn-560.1.1
+	}
+	640.1.1 = {
+		holder = c_maldwyn-576.1.1
+	}
+	656.1.1 = {
+		holder = c_maldwyn-592.1.1
+	}
+	672.1.1 = {
+		holder = c_maldwyn-608.1.1
+	}
+	688.1.1 = {
+		holder = c_maldwyn-624.1.1
+	}
+	704.1.1 = {
+		holder = c_maldwyn-640.1.1
+	}
+	720.1.1 = {
+		holder = c_maldwyn-656.1.1
+	}
+	736.1.1 = {
+		holder = c_maldwyn-672.1.1
+	}
+	752.1.1 = {
+		holder = c_maldwyn-688.1.1
+	}
+	768.1.1 = {
+		holder = c_maldwyn-704.1.1
+	}
+	784.1.1 = {
+		holder = c_maldwyn-720.1.1
+	}
+	800.1.1 = {
+		holder = c_maldwyn-736.1.1
+	}
+	816.1.1 = {
+		holder = c_maldwyn-752.1.1
+	}
+	832.1.1 = {
+		holder = c_maldwyn-768.1.1
+	}
+	848.1.1 = {
+		holder = c_maldwyn-784.1.1
+	}
+	864.1.1 = {
+		holder = c_maldwyn-800.1.1
+	}
+	880.1.1 = {
+		holder = c_maldwyn-816.1.1
+	}
+	896.1.1 = {
+		holder = c_maldwyn-832.1.1
+	}
+	912.1.1 = {
+		holder = c_maldwyn-848.1.1
+	}
+	928.1.1 = {
+		holder = c_maldwyn-864.1.1
+	}
+	944.1.1 = {
+		holder = c_maldwyn-880.1.1
+	}
+	960.1.1 = {
+		holder = c_maldwyn-896.1.1
+	}
+	976.1.1 = {
+		holder = c_maldwyn-912.1.1
+	}
+	992.1.1 = {
+		holder = c_maldwyn-928.1.1
+	}
+	1008.1.1 = {
+		holder = c_maldwyn-944.1.1
+	}
+	1024.1.1 = {
+		holder = c_maldwyn-960.1.1
+	}
+	1040.1.1 = {
+		holder = c_maldwyn-976.1.1
+	}
+	1056.1.1 = {
+		holder = c_maldwyn-992.1.1
+	}
+	1072.1.1 = {
+		holder = c_maldwyn-1008.1.1
+	}
+	1088.1.1 = {
+		holder = c_maldwyn-1024.1.1
+	}
+	1104.1.1 = {
+		holder = c_maldwyn-1040.1.1
+	}
+	1120.1.1 = {
+		holder = c_maldwyn-1056.1.1
+	}
+	1136.1.1 = {
+		holder = c_maldwyn-1072.1.1
+	}
+	1152.1.1 = {
+		holder = c_maldwyn-1088.1.1
+	}
+	1168.1.1 = {
+		holder = c_maldwyn-1104.1.1
+	}
+	1184.1.1 = {
+		holder = c_maldwyn-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_maldwyn-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_maldwyn-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_maldwyn-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_maldwyn-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_maldwyn-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_maldwyn-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_maldwyn-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_maldwyn-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_maldwyn-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_maldwyn-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_maldwyn-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_maldwyn-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_maldwyn-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_maldwyn-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_maldwyn-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_maldwyn-1376.1.1
 	}
 }

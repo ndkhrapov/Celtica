@@ -1,6 +1,6 @@
 ﻿irish = {
 	color = irish
-	created = 96.1.1
+	created = 48.1.1
 	parents = { goidelic }
 	
 	ethos = ethos_egalitarian
@@ -32,7 +32,7 @@
 
 gaelic = {
 	color = gaelic
-	created = 96.1.1
+	created = 48.1.1
 	parents = { goidelic }
 	
 	ethos = ethos_egalitarian
@@ -64,7 +64,7 @@ gaelic = {
 
 icelandic = {
 	color = icelandic
-	created = 96.1.1
+	created = 48.1.1
 	parents = { goidelic }
 	
 	ethos = ethos_egalitarian

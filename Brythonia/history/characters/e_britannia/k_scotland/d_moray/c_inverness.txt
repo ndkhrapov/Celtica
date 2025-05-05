@@ -1,0 +1,772 @@
+c_inverness-80.1.1 = {
+	dynasty_house = caledonii
+	father = caledon
+	culture = pictish
+	religion = brythonic
+	80.1.1 = { birth = yes }
+	160.1.1 = { death = yes }
+}
+
+c_inverness-96.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-80.1.1
+	culture = pictish
+	religion = brythonic
+	96.1.1 = { birth = yes }
+	176.1.1 = { death = yes }
+}
+
+c_inverness-112.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-96.1.1
+	culture = pictish
+	religion = brythonic
+	112.1.1 = { birth = yes }
+	192.1.1 = { death = yes }
+}
+
+c_inverness-128.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-112.1.1
+	culture = pictish
+	religion = brythonic
+	128.1.1 = { birth = yes }
+	208.1.1 = { death = yes }
+}
+
+c_inverness-144.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-128.1.1
+	culture = pictish
+	religion = brythonic
+	144.1.1 = { birth = yes }
+	224.1.1 = { death = yes }
+}
+
+c_inverness-160.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-144.1.1
+	culture = pictish
+	religion = brythonic
+	160.1.1 = { birth = yes }
+	240.1.1 = { death = yes }
+}
+
+c_inverness-176.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-160.1.1
+	culture = pictish
+	religion = brythonic
+	176.1.1 = { birth = yes }
+	256.1.1 = { death = yes }
+}
+
+c_inverness-192.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-176.1.1
+	culture = pictish
+	religion = brythonic
+	192.1.1 = { birth = yes }
+	272.1.1 = { death = yes }
+}
+
+c_inverness-208.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-192.1.1
+	culture = pictish
+	religion = brythonic
+	208.1.1 = { birth = yes }
+	288.1.1 = { death = yes }
+}
+
+c_inverness-224.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-208.1.1
+	culture = pictish
+	religion = brythonic
+	224.1.1 = { birth = yes }
+	304.1.1 = { death = yes }
+}
+
+c_inverness-240.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-224.1.1
+	culture = pictish
+	religion = brythonic
+	240.1.1 = { birth = yes }
+	320.1.1 = { death = yes }
+}
+
+c_inverness-256.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-240.1.1
+	culture = pictish
+	religion = brythonic
+	256.1.1 = { birth = yes }
+	336.1.1 = { death = yes }
+}
+
+c_inverness-272.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-256.1.1
+	culture = pictish
+	religion = brythonic
+	272.1.1 = { birth = yes }
+	352.1.1 = { death = yes }
+}
+
+c_inverness-288.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-272.1.1
+	culture = pictish
+	religion = brythonic
+	288.1.1 = { birth = yes }
+	368.1.1 = { death = yes }
+}
+
+c_inverness-304.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-288.1.1
+	culture = pictish
+	religion = brythonic
+	304.1.1 = { birth = yes }
+	384.1.1 = { death = yes }
+}
+
+c_inverness-320.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-304.1.1
+	culture = pictish
+	religion = brythonic
+	320.1.1 = { birth = yes }
+	400.1.1 = { death = yes }
+}
+
+c_inverness-336.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-320.1.1
+	culture = pictish
+	religion = brythonic
+	336.1.1 = { birth = yes }
+	416.1.1 = { death = yes }
+}
+
+c_inverness-352.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-336.1.1
+	culture = pictish
+	religion = brythonic
+	352.1.1 = { birth = yes }
+	432.1.1 = { death = yes }
+}
+
+c_inverness-368.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-352.1.1
+	culture = pictish
+	religion = brythonic
+	368.1.1 = { birth = yes }
+	448.1.1 = { death = yes }
+}
+
+c_inverness-384.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-368.1.1
+	culture = pictish
+	religion = brythonic
+	384.1.1 = { birth = yes }
+	464.1.1 = { death = yes }
+}
+
+c_inverness-400.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-384.1.1
+	culture = pictish
+	religion = brythonic
+	400.1.1 = { birth = yes }
+	480.1.1 = { death = yes }
+}
+
+c_inverness-416.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-400.1.1
+	culture = pictish
+	religion = brythonic
+	416.1.1 = { birth = yes }
+	496.1.1 = { death = yes }
+}
+
+c_inverness-432.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-416.1.1
+	culture = pictish
+	religion = brythonic
+	432.1.1 = { birth = yes }
+	512.1.1 = { death = yes }
+}
+
+c_inverness-448.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-432.1.1
+	culture = pictish
+	religion = brythonic
+	448.1.1 = { birth = yes }
+	528.1.1 = { death = yes }
+}
+
+c_inverness-464.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-448.1.1
+	culture = pictish
+	religion = brythonic
+	464.1.1 = { birth = yes }
+	544.1.1 = { death = yes }
+}
+
+c_inverness-480.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-464.1.1
+	culture = pictish
+	religion = brythonic
+	480.1.1 = { birth = yes }
+	560.1.1 = { death = yes }
+}
+
+c_inverness-496.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-480.1.1
+	culture = pictish
+	religion = brythonic
+	496.1.1 = { birth = yes }
+	576.1.1 = { death = yes }
+}
+
+c_inverness-512.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-496.1.1
+	culture = pictish
+	religion = brythonic
+	512.1.1 = { birth = yes }
+	592.1.1 = { death = yes }
+}
+
+c_inverness-528.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-512.1.1
+	culture = pictish
+	religion = brythonic
+	528.1.1 = { birth = yes }
+	608.1.1 = { death = yes }
+}
+
+c_inverness-544.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-528.1.1
+	culture = pictish
+	religion = brythonic
+	544.1.1 = { birth = yes }
+	624.1.1 = { death = yes }
+}
+
+c_inverness-560.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-544.1.1
+	culture = pictish
+	religion = brythonic
+	560.1.1 = { birth = yes }
+	640.1.1 = { death = yes }
+}
+
+c_inverness-576.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-560.1.1
+	culture = pictish
+	religion = brythonic
+	576.1.1 = { birth = yes }
+	656.1.1 = { death = yes }
+}
+
+c_inverness-592.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-576.1.1
+	culture = pictish
+	religion = brythonic
+	592.1.1 = { birth = yes }
+	672.1.1 = { death = yes }
+}
+
+c_inverness-608.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-592.1.1
+	culture = pictish
+	religion = brythonic
+	608.1.1 = { birth = yes }
+	688.1.1 = { death = yes }
+}
+
+c_inverness-624.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-608.1.1
+	culture = pictish
+	religion = brythonic
+	624.1.1 = { birth = yes }
+	704.1.1 = { death = yes }
+}
+
+c_inverness-640.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-624.1.1
+	culture = pictish
+	religion = brythonic
+	640.1.1 = { birth = yes }
+	720.1.1 = { death = yes }
+}
+
+c_inverness-656.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-640.1.1
+	culture = pictish
+	religion = brythonic
+	656.1.1 = { birth = yes }
+	736.1.1 = { death = yes }
+}
+
+c_inverness-672.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-656.1.1
+	culture = pictish
+	religion = brythonic
+	672.1.1 = { birth = yes }
+	752.1.1 = { death = yes }
+}
+
+c_inverness-688.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-672.1.1
+	culture = pictish
+	religion = brythonic
+	688.1.1 = { birth = yes }
+	768.1.1 = { death = yes }
+}
+
+c_inverness-704.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-688.1.1
+	culture = pictish
+	religion = brythonic
+	704.1.1 = { birth = yes }
+	784.1.1 = { death = yes }
+}
+
+c_inverness-720.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-704.1.1
+	culture = pictish
+	religion = brythonic
+	720.1.1 = { birth = yes }
+	800.1.1 = { death = yes }
+}
+
+c_inverness-736.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-720.1.1
+	culture = pictish
+	religion = brythonic
+	736.1.1 = { birth = yes }
+	816.1.1 = { death = yes }
+}
+
+c_inverness-752.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-736.1.1
+	culture = pictish
+	religion = brythonic
+	752.1.1 = { birth = yes }
+	832.1.1 = { death = yes }
+}
+
+c_inverness-768.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-752.1.1
+	culture = pictish
+	religion = brythonic
+	768.1.1 = { birth = yes }
+	848.1.1 = { death = yes }
+}
+
+c_inverness-784.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-768.1.1
+	culture = pictish
+	religion = brythonic
+	784.1.1 = { birth = yes }
+	864.1.1 = { death = yes }
+}
+
+c_inverness-800.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-784.1.1
+	culture = pictish
+	religion = brythonic
+	800.1.1 = { birth = yes }
+	880.1.1 = { death = yes }
+}
+
+c_inverness-816.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-800.1.1
+	culture = pictish
+	religion = brythonic
+	816.1.1 = { birth = yes }
+	896.1.1 = { death = yes }
+}
+
+c_inverness-832.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-816.1.1
+	culture = pictish
+	religion = brythonic
+	832.1.1 = { birth = yes }
+	912.1.1 = { death = yes }
+}
+
+c_inverness-848.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-832.1.1
+	culture = pictish
+	religion = brythonic
+	848.1.1 = { birth = yes }
+	928.1.1 = { death = yes }
+}
+
+c_inverness-864.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-848.1.1
+	culture = pictish
+	religion = brythonic
+	864.1.1 = { birth = yes }
+	944.1.1 = { death = yes }
+}
+
+c_inverness-880.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-864.1.1
+	culture = pictish
+	religion = brythonic
+	880.1.1 = { birth = yes }
+	960.1.1 = { death = yes }
+}
+
+c_inverness-896.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-880.1.1
+	culture = pictish
+	religion = brythonic
+	896.1.1 = { birth = yes }
+	976.1.1 = { death = yes }
+}
+
+c_inverness-912.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-896.1.1
+	culture = pictish
+	religion = brythonic
+	912.1.1 = { birth = yes }
+	992.1.1 = { death = yes }
+}
+c_inverness-928.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-912.1.1
+	culture = pictish
+	religion = brythonic
+	928.1.1 = { birth = yes }
+	1008.1.1 = { death = yes }
+}
+
+c_inverness-944.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-928.1.1
+	culture = pictish
+	religion = brythonic
+	944.1.1 = { birth = yes }
+	1024.1.1 = { death = yes }
+}
+
+c_inverness-960.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-944.1.1
+	culture = pictish
+	religion = brythonic
+	960.1.1 = { birth = yes }
+	1040.1.1 = { death = yes }
+}
+
+c_inverness-976.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-960.1.1
+	culture = pictish
+	religion = brythonic
+	976.1.1 = { birth = yes }
+	1056.1.1 = { death = yes }
+}
+
+c_inverness-992.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-976.1.1
+	culture = pictish
+	religion = brythonic
+	992.1.1 = { birth = yes }
+	1072.1.1 = { death = yes }
+}
+
+c_inverness-1008.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-992.1.1
+	culture = pictish
+	religion = brythonic
+	1008.1.1 = { birth = yes }
+	1088.1.1 = { death = yes }
+}
+
+c_inverness-1024.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1008.1.1
+	culture = pictish
+	religion = brythonic
+	1024.1.1 = { birth = yes }
+	1104.1.1 = { death = yes }
+}
+
+c_inverness-1040.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1024.1.1
+	culture = pictish
+	religion = brythonic
+	1040.1.1 = { birth = yes }
+	1120.1.1 = { death = yes }
+}
+
+c_inverness-1056.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1040.1.1
+	culture = pictish
+	religion = brythonic
+	1056.1.1 = { birth = yes }
+	1136.1.1 = { death = yes }
+}
+
+c_inverness-1072.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1056.1.1
+	culture = pictish
+	religion = brythonic
+	1072.1.1 = { birth = yes }
+	1152.1.1 = { death = yes }
+}
+
+c_inverness-1088.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1072.1.1
+	culture = pictish
+	religion = brythonic
+	1088.1.1 = { birth = yes }
+	1168.1.1 = { death = yes }
+}
+
+c_inverness-1104.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1088.1.1
+	culture = pictish
+	religion = brythonic
+	1104.1.1 = { birth = yes }
+	1184.1.1 = { death = yes }
+}
+
+c_inverness-1120.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1104.1.1
+	culture = pictish
+	religion = brythonic
+	1120.1.1 = { birth = yes }
+	1200.1.1 = { death = yes }
+}
+
+c_inverness-1136.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1120.1.1
+	culture = pictish
+	religion = brythonic
+	1136.1.1 = { birth = yes }
+	1216.1.1 = { death = yes }
+}
+
+c_inverness-1152.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1136.1.1
+	culture = pictish
+	religion = brythonic
+	1152.1.1 = { birth = yes }
+	1232.1.1 = { death = yes }
+}
+
+c_inverness-1168.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1152.1.1
+	culture = pictish
+	religion = brythonic
+	1168.1.1 = { birth = yes }
+	1248.1.1 = { death = yes }
+}
+
+c_inverness-1184.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1168.1.1
+	culture = pictish
+	religion = brythonic
+	1184.1.1 = { birth = yes }
+	1264.1.1 = { death = yes }
+}
+
+c_inverness-1200.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1184.1.1
+	culture = pictish
+	religion = brythonic
+	1200.1.1 = { birth = yes }
+	1280.1.1 = { death = yes }
+}
+
+c_inverness-1216.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1200.1.1
+	culture = pictish
+	religion = brythonic
+	1216.1.1 = { birth = yes }
+	1296.1.1 = { death = yes }
+}
+
+c_inverness-1232.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1216.1.1
+	culture = pictish
+	religion = brythonic
+	1232.1.1 = { birth = yes }
+	1312.1.1 = { death = yes }
+}
+
+c_inverness-1248.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1232.1.1
+	culture = pictish
+	religion = brythonic
+	1248.1.1 = { birth = yes }
+	1328.1.1 = { death = yes }
+}
+
+c_inverness-1264.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1248.1.1
+	culture = pictish
+	religion = brythonic
+	1264.1.1 = { birth = yes }
+	1344.1.1 = { death = yes }
+}
+
+c_inverness-1280.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1264.1.1
+	culture = pictish
+	religion = brythonic
+	1280.1.1 = { birth = yes }
+	1360.1.1 = { death = yes }
+}
+
+c_inverness-1296.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1280.1.1
+	culture = pictish
+	religion = brythonic
+	1296.1.1 = { birth = yes }
+	1376.1.1 = { death = yes }
+}
+
+c_inverness-1312.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1296.1.1
+	culture = pictish
+	religion = brythonic
+	1312.1.1 = { birth = yes }
+	1392.1.1 = { death = yes }
+}
+
+c_inverness-1328.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1312.1.1
+	culture = pictish
+	religion = brythonic
+	1328.1.1 = { birth = yes }
+	1408.1.1 = { death = yes }
+}
+
+c_inverness-1344.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1328.1.1
+	culture = pictish
+	religion = brythonic
+	1344.1.1 = { birth = yes }
+	1424.1.1 = { death = yes }
+}
+
+c_inverness-1360.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1344.1.1
+	culture = pictish
+	religion = brythonic
+	1360.1.1 = { birth = yes }
+	1440.1.1 = { death = yes }
+}
+
+c_inverness-1376.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1360.1.1
+	culture = pictish
+	religion = brythonic
+	1376.1.1 = { birth = yes }
+	1456.1.1 = { death = yes }
+}
+
+c_inverness-1392.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1376.1.1
+	culture = pictish
+	religion = brythonic
+	1392.1.1 = { birth = yes }
+	1472.1.1 = { death = yes }
+}
+
+c_inverness-1408.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1392.1.1
+	culture = pictish
+	religion = brythonic
+	1408.1.1 = { birth = yes }
+	1488.1.1 = { death = yes }
+}
+
+c_inverness-1424.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1408.1.1
+	culture = pictish
+	religion = brythonic
+	1424.1.1 = { birth = yes }
+	1504.1.1 = { death = yes }
+}
+
+c_inverness-1440.1.1 = {
+	dynasty_house = caledonii
+	father = c_inverness-1424.1.1
+	culture = pictish
+	religion = brythonic
+	1440.1.1 = { birth = yes }
+	1520.1.1 = { death = yes }
+}

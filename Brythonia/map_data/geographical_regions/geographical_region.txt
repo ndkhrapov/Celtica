@@ -91,6 +91,8 @@
 
 world_europe_west_britannia = {
 	duchies = {
+		#Llundein
+		d_greater_london
 		# Lloegr
 		d_bedford d_norfolk d_hereford d_gloucester d_canterbury d_somerset
 		# Ogledd

@@ -1,0 +1,772 @@
+c_devon-80.1.1 = {
+	dynasty_house = dumnonii
+	father = dumnon
+	culture = cornish
+	religion = brythonic
+	80.1.1 = { birth = yes }
+	160.1.1 = { death = yes }
+}
+
+c_devon-96.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-80.1.1
+	culture = cornish
+	religion = brythonic
+	96.1.1 = { birth = yes }
+	176.1.1 = { death = yes }
+}
+
+c_devon-112.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-96.1.1
+	culture = cornish
+	religion = brythonic
+	112.1.1 = { birth = yes }
+	192.1.1 = { death = yes }
+}
+
+c_devon-128.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-112.1.1
+	culture = cornish
+	religion = brythonic
+	128.1.1 = { birth = yes }
+	208.1.1 = { death = yes }
+}
+
+c_devon-144.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-128.1.1
+	culture = cornish
+	religion = brythonic
+	144.1.1 = { birth = yes }
+	224.1.1 = { death = yes }
+}
+
+c_devon-160.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-144.1.1
+	culture = cornish
+	religion = brythonic
+	160.1.1 = { birth = yes }
+	240.1.1 = { death = yes }
+}
+
+c_devon-176.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-160.1.1
+	culture = cornish
+	religion = brythonic
+	176.1.1 = { birth = yes }
+	256.1.1 = { death = yes }
+}
+
+c_devon-192.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-176.1.1
+	culture = cornish
+	religion = brythonic
+	192.1.1 = { birth = yes }
+	272.1.1 = { death = yes }
+}
+
+c_devon-208.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-192.1.1
+	culture = cornish
+	religion = brythonic
+	208.1.1 = { birth = yes }
+	288.1.1 = { death = yes }
+}
+
+c_devon-224.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-208.1.1
+	culture = cornish
+	religion = brythonic
+	224.1.1 = { birth = yes }
+	304.1.1 = { death = yes }
+}
+
+c_devon-240.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-224.1.1
+	culture = cornish
+	religion = brythonic
+	240.1.1 = { birth = yes }
+	320.1.1 = { death = yes }
+}
+
+c_devon-256.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-240.1.1
+	culture = cornish
+	religion = brythonic
+	256.1.1 = { birth = yes }
+	336.1.1 = { death = yes }
+}
+
+c_devon-272.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-256.1.1
+	culture = cornish
+	religion = brythonic
+	272.1.1 = { birth = yes }
+	352.1.1 = { death = yes }
+}
+
+c_devon-288.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-272.1.1
+	culture = cornish
+	religion = brythonic
+	288.1.1 = { birth = yes }
+	368.1.1 = { death = yes }
+}
+
+c_devon-304.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-288.1.1
+	culture = cornish
+	religion = brythonic
+	304.1.1 = { birth = yes }
+	384.1.1 = { death = yes }
+}
+
+c_devon-320.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-304.1.1
+	culture = cornish
+	religion = brythonic
+	320.1.1 = { birth = yes }
+	400.1.1 = { death = yes }
+}
+
+c_devon-336.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-320.1.1
+	culture = cornish
+	religion = brythonic
+	336.1.1 = { birth = yes }
+	416.1.1 = { death = yes }
+}
+
+c_devon-352.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-336.1.1
+	culture = cornish
+	religion = brythonic
+	352.1.1 = { birth = yes }
+	432.1.1 = { death = yes }
+}
+
+c_devon-368.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-352.1.1
+	culture = cornish
+	religion = brythonic
+	368.1.1 = { birth = yes }
+	448.1.1 = { death = yes }
+}
+
+c_devon-384.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-368.1.1
+	culture = cornish
+	religion = brythonic
+	384.1.1 = { birth = yes }
+	464.1.1 = { death = yes }
+}
+
+c_devon-400.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-384.1.1
+	culture = cornish
+	religion = brythonic
+	400.1.1 = { birth = yes }
+	480.1.1 = { death = yes }
+}
+
+c_devon-416.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-400.1.1
+	culture = cornish
+	religion = brythonic
+	416.1.1 = { birth = yes }
+	496.1.1 = { death = yes }
+}
+
+c_devon-432.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-416.1.1
+	culture = cornish
+	religion = brythonic
+	432.1.1 = { birth = yes }
+	512.1.1 = { death = yes }
+}
+
+c_devon-448.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-432.1.1
+	culture = cornish
+	religion = brythonic
+	448.1.1 = { birth = yes }
+	528.1.1 = { death = yes }
+}
+
+c_devon-464.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-448.1.1
+	culture = cornish
+	religion = brythonic
+	464.1.1 = { birth = yes }
+	544.1.1 = { death = yes }
+}
+
+c_devon-480.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-464.1.1
+	culture = cornish
+	religion = brythonic
+	480.1.1 = { birth = yes }
+	560.1.1 = { death = yes }
+}
+
+c_devon-496.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-480.1.1
+	culture = cornish
+	religion = brythonic
+	496.1.1 = { birth = yes }
+	576.1.1 = { death = yes }
+}
+
+c_devon-512.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-496.1.1
+	culture = cornish
+	religion = brythonic
+	512.1.1 = { birth = yes }
+	592.1.1 = { death = yes }
+}
+
+c_devon-528.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-512.1.1
+	culture = cornish
+	religion = brythonic
+	528.1.1 = { birth = yes }
+	608.1.1 = { death = yes }
+}
+
+c_devon-544.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-528.1.1
+	culture = cornish
+	religion = brythonic
+	544.1.1 = { birth = yes }
+	624.1.1 = { death = yes }
+}
+
+c_devon-560.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-544.1.1
+	culture = cornish
+	religion = brythonic
+	560.1.1 = { birth = yes }
+	640.1.1 = { death = yes }
+}
+
+c_devon-576.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-560.1.1
+	culture = cornish
+	religion = brythonic
+	576.1.1 = { birth = yes }
+	656.1.1 = { death = yes }
+}
+
+c_devon-592.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-576.1.1
+	culture = cornish
+	religion = brythonic
+	592.1.1 = { birth = yes }
+	672.1.1 = { death = yes }
+}
+
+c_devon-608.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-592.1.1
+	culture = cornish
+	religion = brythonic
+	608.1.1 = { birth = yes }
+	688.1.1 = { death = yes }
+}
+
+c_devon-624.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-608.1.1
+	culture = cornish
+	religion = brythonic
+	624.1.1 = { birth = yes }
+	704.1.1 = { death = yes }
+}
+
+c_devon-640.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-624.1.1
+	culture = cornish
+	religion = brythonic
+	640.1.1 = { birth = yes }
+	720.1.1 = { death = yes }
+}
+
+c_devon-656.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-640.1.1
+	culture = cornish
+	religion = brythonic
+	656.1.1 = { birth = yes }
+	736.1.1 = { death = yes }
+}
+
+c_devon-672.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-656.1.1
+	culture = cornish
+	religion = brythonic
+	672.1.1 = { birth = yes }
+	752.1.1 = { death = yes }
+}
+
+c_devon-688.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-672.1.1
+	culture = cornish
+	religion = brythonic
+	688.1.1 = { birth = yes }
+	768.1.1 = { death = yes }
+}
+
+c_devon-704.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-688.1.1
+	culture = cornish
+	religion = brythonic
+	704.1.1 = { birth = yes }
+	784.1.1 = { death = yes }
+}
+
+c_devon-720.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-704.1.1
+	culture = cornish
+	religion = brythonic
+	720.1.1 = { birth = yes }
+	800.1.1 = { death = yes }
+}
+
+c_devon-736.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-720.1.1
+	culture = cornish
+	religion = brythonic
+	736.1.1 = { birth = yes }
+	816.1.1 = { death = yes }
+}
+
+c_devon-752.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-736.1.1
+	culture = cornish
+	religion = brythonic
+	752.1.1 = { birth = yes }
+	832.1.1 = { death = yes }
+}
+
+c_devon-768.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-752.1.1
+	culture = cornish
+	religion = brythonic
+	768.1.1 = { birth = yes }
+	848.1.1 = { death = yes }
+}
+
+c_devon-784.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-768.1.1
+	culture = cornish
+	religion = brythonic
+	784.1.1 = { birth = yes }
+	864.1.1 = { death = yes }
+}
+
+c_devon-800.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-784.1.1
+	culture = cornish
+	religion = brythonic
+	800.1.1 = { birth = yes }
+	880.1.1 = { death = yes }
+}
+
+c_devon-816.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-800.1.1
+	culture = cornish
+	religion = brythonic
+	816.1.1 = { birth = yes }
+	896.1.1 = { death = yes }
+}
+
+c_devon-832.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-816.1.1
+	culture = cornish
+	religion = brythonic
+	832.1.1 = { birth = yes }
+	912.1.1 = { death = yes }
+}
+
+c_devon-848.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-832.1.1
+	culture = cornish
+	religion = brythonic
+	848.1.1 = { birth = yes }
+	928.1.1 = { death = yes }
+}
+
+c_devon-864.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-848.1.1
+	culture = cornish
+	religion = brythonic
+	864.1.1 = { birth = yes }
+	944.1.1 = { death = yes }
+}
+
+c_devon-880.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-864.1.1
+	culture = cornish
+	religion = brythonic
+	880.1.1 = { birth = yes }
+	960.1.1 = { death = yes }
+}
+
+c_devon-896.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-880.1.1
+	culture = cornish
+	religion = brythonic
+	896.1.1 = { birth = yes }
+	976.1.1 = { death = yes }
+}
+
+c_devon-912.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-896.1.1
+	culture = cornish
+	religion = brythonic
+	912.1.1 = { birth = yes }
+	992.1.1 = { death = yes }
+}
+c_devon-928.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-912.1.1
+	culture = cornish
+	religion = brythonic
+	928.1.1 = { birth = yes }
+	1008.1.1 = { death = yes }
+}
+
+c_devon-944.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-928.1.1
+	culture = cornish
+	religion = brythonic
+	944.1.1 = { birth = yes }
+	1024.1.1 = { death = yes }
+}
+
+c_devon-960.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-944.1.1
+	culture = cornish
+	religion = brythonic
+	960.1.1 = { birth = yes }
+	1040.1.1 = { death = yes }
+}
+
+c_devon-976.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-960.1.1
+	culture = cornish
+	religion = brythonic
+	976.1.1 = { birth = yes }
+	1056.1.1 = { death = yes }
+}
+
+c_devon-992.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-976.1.1
+	culture = cornish
+	religion = brythonic
+	992.1.1 = { birth = yes }
+	1072.1.1 = { death = yes }
+}
+
+c_devon-1008.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-992.1.1
+	culture = cornish
+	religion = brythonic
+	1008.1.1 = { birth = yes }
+	1088.1.1 = { death = yes }
+}
+
+c_devon-1024.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1008.1.1
+	culture = cornish
+	religion = brythonic
+	1024.1.1 = { birth = yes }
+	1104.1.1 = { death = yes }
+}
+
+c_devon-1040.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1024.1.1
+	culture = cornish
+	religion = brythonic
+	1040.1.1 = { birth = yes }
+	1120.1.1 = { death = yes }
+}
+
+c_devon-1056.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1040.1.1
+	culture = cornish
+	religion = brythonic
+	1056.1.1 = { birth = yes }
+	1136.1.1 = { death = yes }
+}
+
+c_devon-1072.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1056.1.1
+	culture = cornish
+	religion = brythonic
+	1072.1.1 = { birth = yes }
+	1152.1.1 = { death = yes }
+}
+
+c_devon-1088.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1072.1.1
+	culture = cornish
+	religion = brythonic
+	1088.1.1 = { birth = yes }
+	1168.1.1 = { death = yes }
+}
+
+c_devon-1104.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1088.1.1
+	culture = cornish
+	religion = brythonic
+	1104.1.1 = { birth = yes }
+	1184.1.1 = { death = yes }
+}
+
+c_devon-1120.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1104.1.1
+	culture = cornish
+	religion = brythonic
+	1120.1.1 = { birth = yes }
+	1200.1.1 = { death = yes }
+}
+
+c_devon-1136.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1120.1.1
+	culture = cornish
+	religion = brythonic
+	1136.1.1 = { birth = yes }
+	1216.1.1 = { death = yes }
+}
+
+c_devon-1152.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1136.1.1
+	culture = cornish
+	religion = brythonic
+	1152.1.1 = { birth = yes }
+	1232.1.1 = { death = yes }
+}
+
+c_devon-1168.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1152.1.1
+	culture = cornish
+	religion = brythonic
+	1168.1.1 = { birth = yes }
+	1248.1.1 = { death = yes }
+}
+
+c_devon-1184.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1168.1.1
+	culture = cornish
+	religion = brythonic
+	1184.1.1 = { birth = yes }
+	1264.1.1 = { death = yes }
+}
+
+c_devon-1200.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1184.1.1
+	culture = cornish
+	religion = brythonic
+	1200.1.1 = { birth = yes }
+	1280.1.1 = { death = yes }
+}
+
+c_devon-1216.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1200.1.1
+	culture = cornish
+	religion = brythonic
+	1216.1.1 = { birth = yes }
+	1296.1.1 = { death = yes }
+}
+
+c_devon-1232.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1216.1.1
+	culture = cornish
+	religion = brythonic
+	1232.1.1 = { birth = yes }
+	1312.1.1 = { death = yes }
+}
+
+c_devon-1248.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1232.1.1
+	culture = cornish
+	religion = brythonic
+	1248.1.1 = { birth = yes }
+	1328.1.1 = { death = yes }
+}
+
+c_devon-1264.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1248.1.1
+	culture = cornish
+	religion = brythonic
+	1264.1.1 = { birth = yes }
+	1344.1.1 = { death = yes }
+}
+
+c_devon-1280.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1264.1.1
+	culture = cornish
+	religion = brythonic
+	1280.1.1 = { birth = yes }
+	1360.1.1 = { death = yes }
+}
+
+c_devon-1296.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1280.1.1
+	culture = cornish
+	religion = brythonic
+	1296.1.1 = { birth = yes }
+	1376.1.1 = { death = yes }
+}
+
+c_devon-1312.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1296.1.1
+	culture = cornish
+	religion = brythonic
+	1312.1.1 = { birth = yes }
+	1392.1.1 = { death = yes }
+}
+
+c_devon-1328.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1312.1.1
+	culture = cornish
+	religion = brythonic
+	1328.1.1 = { birth = yes }
+	1408.1.1 = { death = yes }
+}
+
+c_devon-1344.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1328.1.1
+	culture = cornish
+	religion = brythonic
+	1344.1.1 = { birth = yes }
+	1424.1.1 = { death = yes }
+}
+
+c_devon-1360.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1344.1.1
+	culture = cornish
+	religion = brythonic
+	1360.1.1 = { birth = yes }
+	1440.1.1 = { death = yes }
+}
+
+c_devon-1376.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1360.1.1
+	culture = cornish
+	religion = brythonic
+	1376.1.1 = { birth = yes }
+	1456.1.1 = { death = yes }
+}
+
+c_devon-1392.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1376.1.1
+	culture = cornish
+	religion = brythonic
+	1392.1.1 = { birth = yes }
+	1472.1.1 = { death = yes }
+}
+
+c_devon-1408.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1392.1.1
+	culture = cornish
+	religion = brythonic
+	1408.1.1 = { birth = yes }
+	1488.1.1 = { death = yes }
+}
+
+c_devon-1424.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1408.1.1
+	culture = cornish
+	religion = brythonic
+	1424.1.1 = { birth = yes }
+	1504.1.1 = { death = yes }
+}
+
+c_devon-1440.1.1 = {
+	dynasty_house = dumnonii
+	father = c_devon-1424.1.1
+	culture = cornish
+	religion = brythonic
+	1440.1.1 = { birth = yes }
+	1520.1.1 = { death = yes }
+}

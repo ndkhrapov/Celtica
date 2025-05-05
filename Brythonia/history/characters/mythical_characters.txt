@@ -1,0 +1,368 @@
+celt = {
+	name = Celt
+	dynasty = celt
+	culture = celtic
+	religion = celtic
+	0.1.1 = { birth = yes }
+	64.1.1 = { death = yes }
+}
+uther = {
+	name = Uther
+    dynasty = celt
+	father = celt
+	culture = brythonic
+	religion = brythonic
+	32.1.1 = { birth = yes }
+	96.1.1 = { death = yes }
+}
+arthwys = {
+	name = Arthwys
+    dynasty = celt
+	father = uther
+	culture = loegric
+	religion = brythonic
+	48.1.1 = { birth = yes }
+	112.1.1 = { death = yes }
+}
+llundein = {
+	name = Llundein
+    dynasty = celt
+	father = arthwys
+	culture = loegric
+	religion = brythonic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+prydain = {
+	name = Prydain
+    dynasty_house = prydain
+	father = celt
+	culture = brythonic
+	religion = brythonic
+	32.1.1 = { birth = yes }
+	96.1.1 = { death = yes }
+}
+lloegr = {
+	name = Lloegr
+	dynasty_house = lloegr
+	father = prydain
+	culture = loegric
+	religion = brythonic
+	48.1.1 = { birth = yes }
+	112.1.1 = { death = yes }
+}
+trinovant = {
+	name = Trinovant
+	dynasty_house = trinovantii
+	father = lloegr
+	culture = loegric
+	religion = brythonic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+icen = {
+	name = Icen
+	dynasty_house = icenii
+	father = lloegr
+	culture = loegric
+	religion = brythonic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+cantiac = {
+	name = Cantiac
+	dynasty_house = cantiacii
+	father = lloegr
+	culture = loegric
+	religion = brythonic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+durotrig = {
+	name = Durotrig
+	dynasty_house = durotrigii
+	father = lloegr
+	culture = loegric
+	religion = brythonic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+dobunn = {
+	name = Dobunn
+	dynasty_house = dobunnii
+	father = lloegr
+	culture = loegric
+	religion = brythonic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+coritan = {
+	name = Coritan
+	dynasty_house = coritanii
+	father = lloegr
+	culture = loegric
+	religion = brythonic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+
+ogledd = {
+	name = Ogledd
+	dynasty_house = ogledd
+	father = prydain
+	culture = cumbrian
+	religion = brythonic
+	48.1.1 = { birth = yes }
+	112.1.1 = { death = yes }
+}
+paris = {
+	name = Paris
+	dynasty_house = parisii
+	father = ogledd
+	culture = cumbrian
+	religion = brythonic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+cornov = {
+	name = Cornov
+	dynasty_house = cornovii
+	father = ogledd
+	culture = cumbrian
+	religion = brythonic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+brigant = {
+	name = Brigant
+	dynasty_house = brigantii
+	father = ogledd
+	culture = cumbrian
+	religion = brythonic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+
+kernow = {
+	name = Kernow
+	dynasty_house = kernow
+	father = prydain
+	culture = cornish
+	religion = brythonic
+	48.1.1 = { birth = yes }
+	112.1.1 = { death = yes }
+}
+dumnon = {
+	name = Dumnon
+	dynasty_house = dumnonii
+	father = kernow
+	culture = cornish
+	religion = brythonic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+
+cymru = {
+	name = Cymru
+	dynasty_house = cymru
+	father = prydain
+	culture = welsh
+	religion = brythonic
+	48.1.1 = { birth = yes }
+	112.1.1 = { death = yes }
+}
+ordovic = {
+	name = Ordovic
+	dynasty_house = ordovicii
+	father = cymru
+	culture = welsh
+	religion = brythonic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+demet = {
+	name = Demet
+	dynasty_house = demetii
+	father = cymru
+	culture = welsh
+	religion = brythonic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+silur = {
+	name = Silur
+	dynasty_house = silurii
+	father = cymru
+	culture = welsh
+	religion = brythonic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+
+fortriu = {
+	name = Fortriu
+	dynasty_house = fortriu
+	father = prydain
+	culture = pictish
+	religion = brythonic
+	48.1.1 = { birth = yes }
+	112.1.1 = { death = yes }
+}
+taexal = {
+	name = Taexal
+	dynasty_house = taexalii
+	father = fortriu
+	culture = pictish
+	religion = brythonic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+votadin = {
+	name = Votadin
+	dynasty_house = votadinii
+	father = fortriu
+	culture = pictish
+	religion = brythonic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+damnon = {
+	name = Damnon
+	dynasty_house = damnonii
+	father = fortriu
+	culture = pictish
+	religion = brythonic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+caledon = {
+	name = Caledon
+	dynasty_house = caledonii
+	father = fortriu
+	culture = pictish
+	religion = brythonic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+
+
+
+eislean = {
+	name = Eislean
+    dynasty_house = eislean
+	father = celt
+	culture = goidelic
+	religion = goidelic
+	32.1.1 = { birth = yes }
+	96.1.1 = { death = yes }
+}
+eire = {
+	name = Eire
+	dynasty_house = eire
+	father = eislean
+	culture = irish
+	religion = goidelic
+	48.1.1 = { birth = yes }
+	112.1.1 = { death = yes }
+}
+eblan = {
+	name = Eblan
+	dynasty_house = eblanii
+	father = eire
+	culture = irish
+	religion = goidelic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+volunt = {
+	name = Volunt
+	dynasty_house = voluntii
+	father = eire
+	culture = irish
+	religion = goidelic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+coriond = {
+	name = Coriond
+	dynasty_house = coriondii
+	father = eire
+	culture = irish
+	religion = goidelic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+ivern = {
+	name = Ivern
+	dynasty_house = ivernii
+	father = eire
+	culture = irish
+	religion = goidelic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+autein = {
+	name = Autein
+	dynasty_house = auteinii
+	father = eire
+	culture = irish
+	religion = goidelic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+
+gael = {
+	name = Gael
+	dynasty_house = gael
+	father = eislean
+	culture = gaelic
+	religion = goidelic
+	48.1.1 = { birth = yes }
+	112.1.1 = { death = yes }
+}
+monap = {
+	name = monap
+	dynasty_house = monapii
+	father = gael
+	culture = gaelic
+	religion = goidelic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+carnonac = {
+	name = carnonac
+	dynasty_house = carnonacii
+	father = gael
+	culture = gaelic
+	religion = goidelic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+cornav = {
+	name = cornav
+	dynasty_house = cornavii
+	father = gael
+	culture = gaelic
+	religion = goidelic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}
+
+isiltir = {
+	name = Isiltir
+	dynasty_house = isiltir
+	father = eislean
+	culture = icelandic
+	religion = goidelic
+	48.1.1 = { birth = yes }
+	112.1.1 = { death = yes }
+}
+carvet = {
+	name = Carvet
+	dynasty_house = carvetii
+	father = isiltir
+	culture = icelandic
+	religion = goidelic
+	64.1.1 = { birth = yes }
+	144.1.1 = { death = yes }
+}

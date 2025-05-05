@@ -1,0 +1,56 @@
+#k_greater_london
+##d_greater_london ###################################
+###c_middlesex
+1527 = {	#London
+	culture = celtic 
+	religion = druidic
+	holding = tribal_holding
+	64.1.1 = {
+		culture = brythonic
+		religion = brythonic
+	}
+	96.1.1 = {
+		culture = loegric
+	}
+	769.1.1 = {
+		special_building_slot = the_tower_of_london_01
+	}
+	867.1.1 = {
+		special_building = the_tower_of_london_01
+		duchy_capital_building = royal_forest_01
+	}
+	900.1.1 = {
+		holding = castle_holding
+	}
+	1178.1.1 = {
+		holding = city_holding
+	}
+}
+1526 = {	#Southwark
+	holding = none
+	769.1.1 = {
+		special_building_slot = london_bridge_01
+	}
+	867.1.1 = {
+		holding = city_holding
+		special_building = london_bridge_01
+	}
+}
+1528 = {	#Woxbrigge
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1529 = {	#Gore
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
+1530 = {	#Brentford
+	holding = none
+	867.1.1 = {
+		holding = city_holding
+	}
+}
