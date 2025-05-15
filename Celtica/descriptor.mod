@@ -1,9 +1,9 @@
-version="1.1"
+version="0.5"
 tags={
 	"Alternative History"
+	"Map"
 	"Religion"
 	"Culture"
-	"Map"
 }
-name="Brythonia"
+name="Celtica"
 supported_version="1.16.2"
