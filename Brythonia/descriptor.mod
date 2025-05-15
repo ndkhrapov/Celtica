@@ -1,4 +1,4 @@
-version="*"
+version="1.1"
 tags={
 	"Alternative History"
 	"Religion"
@@ -6,4 +6,4 @@ tags={
 	"Map"
 }
 name="Brythonia"
-supported_version="*"
+supported_version="1.16.2"

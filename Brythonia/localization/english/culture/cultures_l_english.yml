@@ -191,9 +191,9 @@
  vepsian:0 "Vepsian"
  vepsian_prefix:0 "Vepso"
  vepsian_collective_noun:1 "Vepsians"
- #Germanic group
- germanic_group:0 "Central Germanic"
- germanic_group_collective_noun:1 "Central Germanics"
+ #Central Germanic group
+ central_germanic_group:0 "Central Germanic"
+ central_germanic_group_collective_noun:1 "Central Germanics"
  german:0 "German"
  german_prefix:0 "Germano"
  german_collective_noun:1 "Germans"
