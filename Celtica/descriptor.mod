@@ -1,4 +1,4 @@
-version="0.5"
+version="0.5.2"
 tags={
 	"Alternative History"
 	"Map"
@@ -6,4 +6,4 @@ tags={
 	"Culture"
 }
 name="Celtica"
-supported_version="1.16.2"
+supported_version="1.16.2.1"

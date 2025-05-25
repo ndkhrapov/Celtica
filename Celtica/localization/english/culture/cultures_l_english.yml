@@ -1,12 +1,12 @@
 ﻿l_english:
 
- #Celtic group
+ # Celtic group
  celtic_group:0 "Celtic"
  celtic_group_collective_noun:0 "Celtics"
  celtic:0 "Celtic"
  celtic_prefix:0 "Celto"
  celtic_collective_noun:0 "Celtics"
- #Brythonic group
+ # Brythonic group
  brythonic_group:0 "Brythonic"
  brythonic_group_collective_noun:0 "Brythonics"
  brythonic:0 "Brythonic"
@@ -30,7 +30,7 @@
  breton:0 "Breton"
  breton_prefix:0 "Brythono"
  breton_collective_noun:1 "Bretons"
- #Goidelic group
+ # Goidelic group
  goidelic_group:0 "Goidelic"
  goidelic_group_collective_noun:0 "Goidelics"
  goidelic:0 "Goidelic"
@@ -45,25 +45,25 @@
  icelandic:0 "Icelandic"
  icelandic_prefix:0 "Icelando"
  icelandic_collective_noun:0 "Icelandics"
- #gaulic group
+ # Gaulic group
  gaulic_group:0 "Gaulic"
  gaulic_group_collective_noun:0 "Gaulics"
  gaulic:0 "Gaulic"
  gaulic_prefix:0 "Gaulo"
  gaulic_collective_noun:0 "Gauls"
- #iberic group
+ # Iberic group
  iberic_group:0 "Iberic"
  iberic_group_collective_noun:0 "Iberics"
  iberic:0 "Iberic"
  iberic_prefix:0 "Ibero"
  iberic_collective_noun:0 "Iberics"
- #alemanic group
+ # Alemanic group
  alemanic_group:0 "Alemanic"
  alemanic_group_collective_noun:0 "Alemanics"
  alemanic:0 "Alemanic"
  alemanic_prefix:0 "Alemano"
  alemanic_collective_noun:0 "Alemanics"
- #italic group
+ # Italic group
  italic_group:0 "Italic"
  italic_group_collective_noun:0 "Italics"
  italic:0 "Italic"

@@ -957,3 +957,15 @@ name_list_goidelic = {
 	mercenary_names = {
 	}
 }
+
+name_list_gaulic = {
+}
+
+name_list_iberic = {
+}
+
+name_list_alemanic = {
+}
+
+name_list_italic = {
+}

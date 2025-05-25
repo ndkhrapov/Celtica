@@ -1,4 +1,4 @@
-version="0.5"
+version="0.5.2"
 tags={
 	"Alternative History"
 	"Map"
@@ -6,5 +6,5 @@ tags={
 	"Culture"
 }
 name="Celtica"
-supported_version="1.16.2"
-path="C:/Users/ndkhr/Documents/Paradox Interactive/Crusader Kings III/mod/Celtica"
+supported_version="1.16.2.1"
+path="C:/Users/%USERNAME%/Documents/Paradox Interactive/Crusader Kings III/mod/Celtica"

@@ -1,74 +1,4 @@
-﻿heritage_celtic = {
-	type = heritage
-	is_shown = {
-		heritage_is_shown_trigger = {
-			HERITAGE = heritage_celtic
-		}
-	}
-	audio_parameter = european
-}
-
-heritage_brythonic = {
-	type = heritage
-	is_shown = {
-		heritage_is_shown_trigger = {
-			HERITAGE = heritage_brythonic
-		}
-	}
-	audio_parameter = european
-}
-
-heritage_goidelic = {
-	type = heritage
-	is_shown = {
-		heritage_is_shown_trigger = {
-			HERITAGE = heritage_goidelic
-		}
-	}
-	audio_parameter = european
-}
-
-heritage_iberic = {
-	type = heritage
-	is_shown = {
-		heritage_is_shown_trigger = {
-			HERITAGE = heritage_iberic
-		}
-	}
-	audio_parameter = european
-}
-
-heritage_gaulic = {
-	type = heritage
-	is_shown = {
-		heritage_is_shown_trigger = {
-			HERITAGE = heritage_gaulic
-		}
-	}
-	audio_parameter = european
-}
-
-heritage_alemanic = {
-	type = heritage
-	is_shown = {
-		heritage_is_shown_trigger = {
-			HERITAGE = heritage_alemanic
-		}
-	}
-	audio_parameter = european
-}
-
-heritage_italic = {
-	type = heritage
-	is_shown = {
-		heritage_is_shown_trigger = {
-			HERITAGE = heritage_italic
-		}
-	}
-	audio_parameter = european
-}
-
-heritage_akan = {
+﻿heritage_akan = {
 	type = heritage
 	is_shown = {
 		heritage_is_shown_trigger = {
@@ -519,6 +449,84 @@ heritage_albanian = {
 	is_shown = {
 		heritage_is_shown_trigger = {
 			HERITAGE = heritage_albanian
+		}
+	}
+	audio_parameter = european
+}
+
+
+
+#####
+Celts
+#####
+
+
+
+heritage_celtic = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_celtic
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_brythonic = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_brythonic
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_goidelic = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_goidelic
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_iberic = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_iberic
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_gaulic = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_gaulic
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_alemanic = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_alemanic
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_italic = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_italic
 		}
 	}
 	audio_parameter = european

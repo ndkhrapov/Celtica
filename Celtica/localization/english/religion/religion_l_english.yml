@@ -126,7 +126,7 @@
 
  faith_conversion_cost_event:0 "You have encountered this [faith|E] before"
 
- #Holy Sites: Druidic
+ #Holy Sites: Celticism
  holy_site_london_name:0 "London"
  holy_site_london_effect_name:0 "From [holy_site|E] #weak ($holy_site_london_name$)#!"
  holy_site_paris_name:0 "Paris"

@@ -1,10 +1,5 @@
 ﻿## These are really not in numeric order... sorry...
 
-celt = {
-	name = dynn_Celt
-	culture = celtic
-}
-
 2 = {
 	name = "dynn_Orsini"
 	culture = "italian"
@@ -21004,4 +20999,17 @@ durres_dynasty = {
 	prefix = "dynnp_i_"
 	name = dynn_DurrE_s
 	culture = albanian	
+}
+
+
+
+#####
+Celts
+#####
+
+
+
+celt = {
+	name = dynn_Celt
+	culture = celtic
 }

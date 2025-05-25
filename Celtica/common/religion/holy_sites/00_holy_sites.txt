@@ -1,5 +1,5 @@
 ﻿#############
-# Druidism #
+# Celticism #
 #############
 
 # Celtic
@@ -7,6 +7,14 @@
 london = {
 	county = c_middlesex
 	barony = b_london
+	
+	character_modifier = {
+	}
+}
+
+dublin = {
+	county = c_dublin
+	barony = b_dublin
 	
 	character_modifier = {
 	}
@@ -79,14 +87,6 @@ st_johnston = {
 }
 
 # Goidelic
-
-dublin = {
-	county = c_dublin
-	barony = b_dublin
-	
-	character_modifier = {
-	}
-}
 
 castletown = {
 	county = c_isle_of_man

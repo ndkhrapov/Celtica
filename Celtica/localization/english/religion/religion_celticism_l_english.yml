@@ -1,0 +1,143 @@
+﻿l_english:
+
+ #Generic Celtic/Common Celtic Localization
+ celticism_religion:0 "Celticism"
+ celticism_religion_adj:0 "Celtic"
+ celticism_religion_adherent:0 "Celt"
+ celticism_religion_adherent_plural:0 "Celts"
+ celticism_religion_desc:0 "Commonly defined by a reverence for nature, ancestor worship, and a belief in spirits, many native faiths are considered to be various forms of celticism."
+
+ celticism_high_god_name:0 "Mother Earth"
+ celticism_high_god_name_2:0 "$celticism_high_god_name$" # Optional translation alt
+ celticism_high_god_name_possessive:0 "Mother Earth's"
+ celticism_high_god_name_alternate:0 "Gaia"
+ celticism_high_god_name_alternate_possessive:0 "Gaia's"
+ celticism_good_god_father_sky:0 "$celticism_trickster_god_name$"
+ celticism_good_god_ancestors:0 "the ancestors"
+ celticism_devil_name:0 "corruption"
+ celticism_devil_name_possessive:0 "corruption's"
+ celticism_devil_shehe:0 "it"
+ celticism_devil_herselfhimself:0 "itself"
+ celticism_devil_herhis:0 "its"
+ celticism_evil_god_decay:0 "blight"
+ celticism_evil_god_decay_possessive:0 "blight's"
+ celticism_evil_god_drought:0 "drought"
+ celticism_death_deity_name:0 "death"
+ celticism_death_deity_name_possessive:0 "death's"
+ celticism_death_deity_herhis:0 "its"
+ celticism_mother_earth_father_sky:0 "Mother Earth and Father Sky"
+ celticism_mother_earth_father_sky_2:0 "$celticism_mother_earth_father_sky$" # Optional translation alt
+ celticism_mother_earth_father_sky_3:0 "$celticism_mother_earth_father_sky$" # Optional translation alt
+ 
+
+ celticism_creator_god_name:0 "$celticism_high_god_name$"
+ celticism_creator_god_name_possessive:0 "$celticism_high_god_name_possessive$"
+ celticism_health_god_name:0 "$celticism_high_god_name$"
+ celticism_health_god_name_possessive:0 "$celticism_high_god_name_possessive$"
+ celticism_fertility_god_name:0 "$celticism_high_god_name$"
+ celticism_fertility_god_name_possessive:0 "$celticism_high_god_name_possessive$"
+ celticism_wealth_god_name:0 "$celticism_high_god_name$"
+ celticism_wealth_god_name_possessive:0 "$celticism_high_god_name_possessive$"
+ celticism_household_god_name:0 "$celticism_high_god_name$"
+ celticism_household_god_name_possessive:0 "$celticism_high_god_name_possessive$"
+ celticism_fate_god_name:0 "fate"
+ celticism_fate_god_name_possessive:0 "fate's"
+ celticism_knowledge_god_name:0 "$celticism_high_god_name$"
+ celticism_knowledge_god_name_possessive:0 "$celticism_high_god_name_possessive$"
+ celticism_war_god_name:0 "$celticism_high_god_name$"
+ celticism_war_god_name_possessive:0 "$celticism_high_god_name_possessive$"
+ celticism_trickster_god_name:0 "Father Sky"
+ celticism_trickster_god_name_possessive:0 "Father Sky"
+ celticism_night_god_name:0 "$celticism_trickster_god_name$"
+ celticism_night_god_name_possessive:0 "$celticism_trickster_god_name_possessive$"
+ celticism_water_god_name:0 "$celticism_high_god_name$"
+ celticism_water_god_name_possessive:0 "$celticism_high_god_name_possessive$"
+
+ celticism_house_of_worship:0 "temple"
+ celticism_house_of_worship_2:0 "$celticism_house_of_worship$" # Optional translation alt
+ celticism_house_of_worship_3:0 "$celticism_house_of_worship$" # Optional translation alt
+ celticism_house_of_worship_plural:0 "temples"
+ celticism_religious_symbol:0 "triquetra"
+ celticism_religious_symbol_2:0 "$celticism_religious_symbol$" # Optional translation alt
+ celticism_religious_symbol_3:0 "$celticism_religious_symbol$" # Optional translation alt
+ celticism_religious_text:0 "sacred stories"
+ celticism_religious_text_2:0 "$celticism_religious_text$" # Optional translation alt
+ celticism_religious_text_3:0 "$celticism_religious_text$" # Optional translation alt
+ celticism_religious_head_title:0 "High Shaman"
+ celticism_religious_head_title_name:0 "High Council"
+ celticism_devotee:0 "devotee"
+ celticism_devoteeplural:0 "devotees"
+ celticism_priest:0 "shaman"
+ celticism_priest_plural:0 "shamans"
+ celticism_priest_alternate_plural:1 "elders"
+ celticism_divine_realm:0 "the Heavens"
+ celticism_divine_realm_2:0 "$celticism_divine_realm$" # Optional translation alt
+ celticism_divine_realm_3:0 "$celticism_divine_realm$" # Optional translation alt
+ celticism_afterlife:0 "the underworld"
+ celticism_afterlife_2:0 "$celticism_afterlife$" # Optional translation alt
+ celticism_afterlife_3:0 "$celticism_afterlife$" # Optional translation alt
+ witchgodname_celticism_the_shadow:0 "the Shadow"
+ witchgodname_celticism_the_shadow_possessive:0 "the Shadow's"
+
+ celtic:0 "Celticism"
+ celtic_adj:0 "Celtic"
+ celtic_adherent:0 "Celt"
+ celtic_adherent_plural:0 "Celts"
+ celtic_old:0 "Old Celticism"
+ celtic_old_adj:0 "Old Celtic"
+ celtic_old_adherent:0 "Old Celt"
+ celtic_old_adherent_plural:0 "Old Celts"
+
+ brythonic:0 "Brythonism"
+ brythonic_adj:0 "Brythonic"
+ brythonic_adherent:0 "Brython"
+ brythonic_adherent_plural:0 "Brythons"
+ brythonic_old:0 "Old Brythonism"
+ brythonic_adj_old:0 "Old Brythonic"
+ brythonic_adherent_old:0 "Old Brython"
+ brythonic_adherent_plural_old:0 "Old Brythons"
+
+ goidelic:0 "Goidelism"
+ goidelic_adj:0 "Goidelic"
+ goidelic_adherent:0 "Goidelic"
+ goidelic_adherent_plural:0 "Goidels"
+ goidelic_old:0 "Old Goidelism"
+ goidelic_adj_old:0 "Old Goidelic"
+ goidelic_adherent_old:0 "Old Goidelic"
+ goidelic_adherent_plural_old:0 "Old Goidels"
+
+ gaulic:0 "Gaulism"
+ gaulic_adj:0 "Gaulic"
+ gaulic_adherent:0 "Gaulic"
+ gaulic_adherent_plural:0 "Gaulics"
+ gaulic_old:0 "Old Gaulism"
+ gaulic_adj_old:0 "Old Gaulic"
+ gaulic_adherent_old:0 "Old Gaulic"
+ gaulic_adherent_plural_old:0 "Old Gaulics"
+
+ iberic:0 "Iberism"
+ iberic_adj:0 "Iberic"
+ iberic_adherent:0 "Iberic"
+ iberic_adherent_plural:0 "Iberics"
+ iberic_old:0 "Old Iberism"
+ iberic_adj_old:0 "Old Iberic"
+ iberic_adherent_old:0 "Old Iberic"
+ iberic_adherent_plural_old:0 "Old Iberics"
+
+ alemanic:0 "Alemanism"
+ alemanic_adj:0 "Alemanic"
+ alemanic_adherent:0 "Alemanic"
+ alemanic_adherent_plural:0 "Alemanics"
+ alemanic_old:0 "Old Alemanism"
+ alemanic_adj_old:0 "Old Alemanic"
+ alemanic_adherent_old:0 "Old Alemanic"
+ alemanic_adherent_plural_old:0 "Old Alemanics"
+
+ italic:0 "Italism"
+ italic_adj:0 "Italic"
+ italic_adherent:0 "Italic"
+ italic_adherent_plural:0 "Italics"
+ italic_old:0 "Old Italism"
+ italic_adj_old:0 "Old Italic"
+ italic_adherent_old:0 "Old Italic"
+ italic_adherent_plural_old:0 "Old Italics"

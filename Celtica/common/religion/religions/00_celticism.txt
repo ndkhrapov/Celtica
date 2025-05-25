@@ -1,4 +1,4 @@
-druidism_religion = {
+celticism_religion = {
 	family = rf_pagan
 
 	doctrine = pagan_hostility_doctrine
@@ -55,151 +55,151 @@ druidism_religion = {
 	holy_order_maa = { archers }
 
 	localization = {
-		HighGodName = druidism_high_god_name
-		HighGodName2 = druidism_high_god_name_2
-		HighGodNamePossessive = druidism_high_god_name_possessive
+		HighGodName = celticism_high_god_name
+		HighGodName2 = celticism_high_god_name_2
+		HighGodNamePossessive = celticism_high_god_name_possessive
 		HighGodNameSheHe = CHARACTER_SHEHE_SHE
 		HighGodHerselfHimself = CHARACTER_HERSELF
 		HighGodHerHis = CHARACTER_HERHIS_HER
-		HighGodNameAlternate = druidism_high_god_name_alternate
-		HighGodNameAlternatePossessive = druidism_high_god_name_alternate_possessive
+		HighGodNameAlternate = celticism_high_god_name_alternate
+		HighGodNameAlternatePossessive = celticism_high_god_name_alternate_possessive
 
 		#Creator
-		CreatorName = druidism_creator_god_name
-		CreatorNamePossessive = druidism_creator_god_name_possessive
+		CreatorName = celticism_creator_god_name
+		CreatorNamePossessive = celticism_creator_god_name_possessive
 		CreatorSheHe = CHARACTER_SHEHE_SHE
 		CreatorHerHis = CHARACTER_HERHIS_HER
 		CreatorHerHim = CHARACTER_HERHIM_HER
 
 		#HealthGod
-		HealthGodName = druidism_health_god_name
-		HealthGodNamePossessive = druidism_health_god_name_possessive
+		HealthGodName = celticism_health_god_name
+		HealthGodNamePossessive = celticism_health_god_name_possessive
 		HealthGodSheHe = CHARACTER_SHEHE_SHE
 		HealthGodHerHis = CHARACTER_HERHIS_HER
 		HealthGodHerHim = CHARACTER_HERHIM_HER
 		
 		#FertilityGod
-		FertilityGodName = druidism_fertility_god_name
-		FertilityGodNamePossessive = druidism_fertility_god_name_possessive
+		FertilityGodName = celticism_fertility_god_name
+		FertilityGodNamePossessive = celticism_fertility_god_name_possessive
 		FertilityGodSheHe = CHARACTER_SHEHE_SHE
 		FertilityGodHerHis = CHARACTER_HERHIS_HER
 		FertilityGodHerHim = CHARACTER_HERHIM_HER
 
 		#WealthGod
-		WealthGodName = druidism_wealth_god_name
-		WealthGodNamePossessive = druidism_wealth_god_name_possessive
+		WealthGodName = celticism_wealth_god_name
+		WealthGodNamePossessive = celticism_wealth_god_name_possessive
 		WealthGodSheHe = CHARACTER_SHEHE_SHE
 		WealthGodHerHis = CHARACTER_HERHIS_HER
 		WealthGodHerHim = CHARACTER_HERHIM_HER
 
 		#HouseholdGod
-		HouseholdGodName = druidism_household_god_name
-		HouseholdGodNamePossessive = druidism_household_god_name_possessive
+		HouseholdGodName = celticism_household_god_name
+		HouseholdGodNamePossessive = celticism_household_god_name_possessive
 		HouseholdGodSheHe = CHARACTER_SHEHE_SHE
 		HouseholdGodHerHis = CHARACTER_HERHIS_HER
 		HouseholdGodHerHim = CHARACTER_HERHIM_HER
 
 		#FateGod
-		FateGodName = druidism_fate_god_name
-		FateGodNamePossessive = druidism_fate_god_name_possessive
+		FateGodName = celticism_fate_god_name
+		FateGodNamePossessive = celticism_fate_god_name_possessive
 		FateGodSheHe = CHARACTER_SHEHE_IT
 		FateGodHerHis = CHARACTER_HERHIS_ITS
 		FateGodHerHim = CHARACTER_HERHIM_IT
 
 		#KnowledgeGod
-		KnowledgeGodName = druidism_knowledge_god_name
-		KnowledgeGodNamePossessive = druidism_knowledge_god_name_possessive
+		KnowledgeGodName = celticism_knowledge_god_name
+		KnowledgeGodNamePossessive = celticism_knowledge_god_name_possessive
 		KnowledgeGodSheHe = CHARACTER_SHEHE_SHE
 		KnowledgeGodHerHis = CHARACTER_HERHIS_HER
 		KnowledgeGodHerHim = CHARACTER_HERHIM_HER
 
 		#WarGod
-		WarGodName = druidism_war_god_name
-		WarGodNamePossessive = druidism_war_god_name_possessive
+		WarGodName = celticism_war_god_name
+		WarGodNamePossessive = celticism_war_god_name_possessive
 		WarGodSheHe = CHARACTER_SHEHE_SHE
 		WarGodHerHis = CHARACTER_HERHIS_HER
 		WarGodHerHim = CHARACTER_HERHIM_HER
 
 		#TricksterGod
-		TricksterGodName = druidism_trickster_god_name
-		TricksterGodNamePossessive = druidism_trickster_god_name_possessive
+		TricksterGodName = celticism_trickster_god_name
+		TricksterGodNamePossessive = celticism_trickster_god_name_possessive
 		TricksterGodSheHe = CHARACTER_SHEHE_HE
 		TricksterGodHerHis = CHARACTER_HERHIS_HIS
 		TricksterGodHerHim = CHARACTER_HERHIM_HIM
 
 		#NightGod
-		NightGodName = druidism_night_god_name
-		NightGodNamePossessive = druidism_night_god_name_possessive
+		NightGodName = celticism_night_god_name
+		NightGodNamePossessive = celticism_night_god_name_possessive
 		NightGodSheHe = CHARACTER_SHEHE_HE
 		NightGodHerHis = CHARACTER_HERHIS_HIS
 		NightGodHerHim = CHARACTER_HERHIM_HIM
 
 		#WaterGod
-		WaterGodName = druidism_water_god_name
-		WaterGodNamePossessive = druidism_water_god_name_possessive
+		WaterGodName = celticism_water_god_name
+		WaterGodNamePossessive = celticism_water_god_name_possessive
 		WaterGodSheHe = CHARACTER_SHEHE_SHE
 		WaterGodHerHis = CHARACTER_HERHIS_HER
 		WaterGodHerHim = CHARACTER_HERHIM_HER
 
 
-		PantheonTerm = druidism_mother_earth_father_sky
-		PantheonTerm2 = druidism_mother_earth_father_sky_2
-		PantheonTerm3 = druidism_mother_earth_father_sky_3
+		PantheonTerm = celticism_mother_earth_father_sky
+		PantheonTerm2 = celticism_mother_earth_father_sky_2
+		PantheonTerm3 = celticism_mother_earth_father_sky_3
 		PantheonTermHasHave = pantheon_term_have
-		GoodGodNames = { druidism_high_god_name druidism_good_god_father_sky druidism_good_god_ancestors }
-		DevilName = druidism_devil_name
-		DevilNamePossessive = druidism_devil_name_possessive
+		GoodGodNames = { celticism_high_god_name celticism_good_god_father_sky celticism_good_god_ancestors }
+		DevilName = celticism_devil_name
+		DevilNamePossessive = celticism_devil_name_possessive
 		DevilSheHe = CHARACTER_SHEHE_IT
 		DevilHerHis = CHARACTER_HERHIS_ITS
-		DevilHerselfHimself = druidism_devil_herselfhimself
-		EvilGodNames = { druidism_devil_name druidism_evil_god_decay }
-		HouseOfWorship = druidism_house_of_worship
-		HouseOfWorship2 = druidism_house_of_worship_2
-		HouseOfWorship3 = druidism_house_of_worship_3
-		HouseOfWorshipPlural = druidism_house_of_worship_plural
-		ReligiousSymbol = druidism_religious_symbol
-		ReligiousSymbol2 = druidism_religious_symbol_2
-		ReligiousSymbol3 = druidism_religious_symbol_3
-		ReligiousText = druidism_religious_text
-		ReligiousText2 = druidism_religious_text_2
-		ReligiousText3 = druidism_religious_text_3
-		ReligiousHeadName = druidism_religious_head_title
-		ReligiousHeadTitleName = druidism_religious_head_title_name
-		DevoteeMale = druidism_devotee
-		DevoteeMalePlural = druidism_devoteeplural
-		DevoteeFemale = druidism_devotee
-		DevoteeFemalePlural = druidism_devoteeplural
-		DevoteeNeuter = druidism_devotee
-		DevoteeNeuterPlural = druidism_devoteeplural
-		PriestMale = druidism_priest
-		PriestMalePlural = druidism_priest_plural
-		PriestFemale = druidism_priest
-		PriestFemalePlural = druidism_priest_plural
-		PriestNeuter = druidism_priest
-		PriestNeuterPlural = druidism_priest_plural
-		AltPriestTermPlural = druidism_priest_alternate_plural
-		BishopMale = druidism_priest
-		BishopMalePlural = druidism_priest_plural
-		BishopFemale = druidism_priest
-		BishopFemalePlural = druidism_priest_plural
-		BishopNeuter = druidism_priest
-		BishopNeuterPlural = druidism_priest_plural
-		DivineRealm = druidism_divine_realm
-		DivineRealm2 = druidism_divine_realm_2
-		DivineRealm3 = druidism_divine_realm_3
-		PositiveAfterLife = druidism_divine_realm
-		PositiveAfterLife2 = druidism_divine_realm_2
-		PositiveAfterLife3 = druidism_divine_realm_3
-		NegativeAfterLife = druidism_afterlife
-		NegativeAfterLife2 = druidism_afterlife_2
-		NegativeAfterLife3 = druidism_afterlife_3
-		DeathDeityName = druidism_death_deity_name
-		DeathDeityNamePossessive = druidism_death_deity_name_possessive
-		DeathDeitySheHe = druidism_devil_shehe
-		DeathDeityHerHis = druidism_death_deity_herhis
+		DevilHerselfHimself = celticism_devil_herselfhimself
+		EvilGodNames = { celticism_devil_name celticism_evil_god_decay }
+		HouseOfWorship = celticism_house_of_worship
+		HouseOfWorship2 = celticism_house_of_worship_2
+		HouseOfWorship3 = celticism_house_of_worship_3
+		HouseOfWorshipPlural = celticism_house_of_worship_plural
+		ReligiousSymbol = celticism_religious_symbol
+		ReligiousSymbol2 = celticism_religious_symbol_2
+		ReligiousSymbol3 = celticism_religious_symbol_3
+		ReligiousText = celticism_religious_text
+		ReligiousText2 = celticism_religious_text_2
+		ReligiousText3 = celticism_religious_text_3
+		ReligiousHeadName = celticism_religious_head_title
+		ReligiousHeadTitleName = celticism_religious_head_title_name
+		DevoteeMale = celticism_devotee
+		DevoteeMalePlural = celticism_devoteeplural
+		DevoteeFemale = celticism_devotee
+		DevoteeFemalePlural = celticism_devoteeplural
+		DevoteeNeuter = celticism_devotee
+		DevoteeNeuterPlural = celticism_devoteeplural
+		PriestMale = celticism_priest
+		PriestMalePlural = celticism_priest_plural
+		PriestFemale = celticism_priest
+		PriestFemalePlural = celticism_priest_plural
+		PriestNeuter = celticism_priest
+		PriestNeuterPlural = celticism_priest_plural
+		AltPriestTermPlural = celticism_priest_alternate_plural
+		BishopMale = celticism_priest
+		BishopMalePlural = celticism_priest_plural
+		BishopFemale = celticism_priest
+		BishopFemalePlural = celticism_priest_plural
+		BishopNeuter = celticism_priest
+		BishopNeuterPlural = celticism_priest_plural
+		DivineRealm = celticism_divine_realm
+		DivineRealm2 = celticism_divine_realm_2
+		DivineRealm3 = celticism_divine_realm_3
+		PositiveAfterLife = celticism_divine_realm
+		PositiveAfterLife2 = celticism_divine_realm_2
+		PositiveAfterLife3 = celticism_divine_realm_3
+		NegativeAfterLife = celticism_afterlife
+		NegativeAfterLife2 = celticism_afterlife_2
+		NegativeAfterLife3 = celticism_afterlife_3
+		DeathDeityName = celticism_death_deity_name
+		DeathDeityNamePossessive = celticism_death_deity_name_possessive
+		DeathDeitySheHe = celticism_devil_shehe
+		DeathDeityHerHis = celticism_death_deity_herhis
 		DeathDeityHerHim = CHARACTER_HERHIM_IT
-		WitchGodName = witchgodname_druidism_the_shadow
-		WitchGodNamePossessive = witchgodname_druidism_the_shadow_possessive
+		WitchGodName = witchgodname_celticism_the_shadow
+		WitchGodNamePossessive = witchgodname_celticism_the_shadow_possessive
 		WitchGodSheHe = CHARACTER_SHEHE_IT
 		WitchGodHerHis = CHARACTER_HERHIS_ITS
 		WitchGodHerHim = CHARACTER_HERHIM_IT
@@ -219,6 +219,7 @@ druidism_religion = {
 			doctrine = unreformed_faith_doctrine
 
 			holy_site = london
+			holy_site = dublin
 			holy_site = paris
 			holy_site = toledo
 			holy_site = frankfurt
@@ -232,6 +233,9 @@ druidism_religion = {
 		brythonic = {
 			color = { 0 123 207 }
             icon = brythonic
+			reformed_icon = brythonic_reformed
+
+			doctrine = unreformed_faith_doctrine
 
 			holy_site = london
 			holy_site = exeter
@@ -247,6 +251,9 @@ druidism_religion = {
 		goidelic = {
 			color = { 66 214 7 }
             icon = goidelic
+			reformed_icon = goidelic_reformed
+
+			doctrine = unreformed_faith_doctrine
 
 			holy_site = dublin
 			holy_site = castletown
@@ -262,6 +269,9 @@ druidism_religion = {
 		gaulic = {
 			color = { 255 255 255 }
             icon = gaulic
+			reformed_icon = gaulic_reformed
+
+			doctrine = unreformed_faith_doctrine
 
 			holy_site = paris
 			holy_site = brest
@@ -277,6 +287,9 @@ druidism_religion = {
 		iberic = {
 			color = { 255 255 255 }
             icon = iberic
+			reformed_icon = iberic_reformed
+
+			doctrine = unreformed_faith_doctrine
 
 			holy_site = toledo
 			holy_site = barcelona
@@ -292,6 +305,9 @@ druidism_religion = {
 		alemanic = {
 			color = { 255 255 255 }
             icon = alemanic
+			reformed_icon = alemanic_reformed
+
+			doctrine = unreformed_faith_doctrine
 
 			holy_site = frankfurt
 			holy_site = amsterdam
@@ -307,6 +323,9 @@ druidism_religion = {
 		italic = {
 			color = { 255 255 255 }
             icon = italic
+			reformed_icon = italic_reformed
+
+			doctrine = unreformed_faith_doctrine
 
 			holy_site = roma
 			holy_site = milano
