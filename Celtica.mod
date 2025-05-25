@@ -7,4 +7,4 @@ tags={
 }
 name="Celtica"
 supported_version="1.16.2.1"
-path="C:/Users/%USERNAME%/Documents/Paradox Interactive/Crusader Kings III/mod/Celtica"
+path="mod/Celtica"
