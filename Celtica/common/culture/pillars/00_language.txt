@@ -1,4 +1,138 @@
-﻿language_anglic = {
+﻿#####
+Celts
+#####
+
+
+
+language_celtic = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_celtic
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_celtic }
+			multiply = 10
+		}
+	}
+	
+	color = celtic
+}
+
+language_brythonic = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_brythonic
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_brythonic }
+			multiply = 10
+		}
+	}
+	
+	color = brythonic
+}
+
+language_goidelic = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_goidelic
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_goidelic }
+			multiply = 10
+		}
+	}
+	
+	color = goidelic
+}
+
+language_gaulic = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_gaulic
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_gaulic }
+			multiply = 10
+		}
+	}
+	
+	color = gaulic
+}
+
+language_iberic = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_iberic
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_iberic }
+			multiply = 10
+		}
+	}
+	
+	color = iberic
+}
+
+language_alemanic = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_alemanic
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_alemanic }
+			multiply = 10
+		}
+	}
+	
+	color = alemanic
+}
+
+language_italic = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_italic
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_italic }
+			multiply = 10
+		}
+	}
+	
+	color = italic
+}
+
+
+
+language_anglic = {
 	type = language
 	is_shown = {
 		language_is_shown_trigger = {
@@ -1383,138 +1517,4 @@ language_albanian = {
 	}
 	
 	color = albanian
-}
-
-
-
-#####
-Celts
-#####
-
-
-
-language_celtic = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_celtic
-		}
-	}
-	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_celtic }
-			multiply = 10
-		}
-	}
-	
-	color = celtic
-}
-
-language_brythonic = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_brythonic
-		}
-	}
-	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_brythonic }
-			multiply = 10
-		}
-	}
-	
-	color = brythonic
-}
-
-language_goidelic = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_goidelic
-		}
-	}
-	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_goidelic }
-			multiply = 10
-		}
-	}
-	
-	color = goidelic
-}
-
-language_gaulic = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_gaulic
-		}
-	}
-	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_gaulic }
-			multiply = 10
-		}
-	}
-	
-	color = gaulic
-}
-
-language_iberic = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_iberic
-		}
-	}
-	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_iberic }
-			multiply = 10
-		}
-	}
-	
-	color = iberic
-}
-
-language_alemanic = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_alemanic
-		}
-	}
-	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_alemanic }
-			multiply = 10
-		}
-	}
-	
-	color = alemanic
-}
-
-language_italic = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_italic
-		}
-	}
-	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_italic }
-			multiply = 10
-		}
-	}
-	
-	color = italic
 }

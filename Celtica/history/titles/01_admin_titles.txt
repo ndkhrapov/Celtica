@@ -1,4 +1,352 @@
-﻿# 867
+﻿######################################################################################################################################################################################
+########## Celts #####################################################################################################################################################################
+######################################################################################################################################################################################
+
+
+
+d_nf_celt = { # Celt (Celtic)
+	0.1.1 = {
+		liege = e_britannia
+		holder = celt # Celt Celt
+		government = administrative_government
+		succession_laws = { noble_family_succession_law }
+	}
+	867.1.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
+		}
+	}
+	1066.9.15 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
+		}
+	}
+	1178.10.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
+		}
+	}
+}
+
+d_nf_prydain = { # Prydain (Brythonic)
+	64.1.1 = {
+		liege = e_britannia
+		holder = prydain # Prydain Prydain
+		government = administrative_government
+		succession_laws = { noble_family_succession_law }
+	}
+	867.1.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
+		}
+	}
+	1066.9.15 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
+		}
+	}
+	1178.10.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
+		}
+	}
+}
+
+d_nf_eislean = { # Eislean (Goidelic)
+	64.1.1 = {
+		liege = e_north_sea
+		holder = eislean # Eislean Eislean
+		government = administrative_government
+		succession_laws = { noble_family_succession_law }
+	}
+	867.1.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
+		}
+	}
+	1066.9.15 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
+		}
+	}
+	1178.10.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
+		}
+	}
+}
+
+# Brythons
+
+d_nf_lloegr = { # Lloegr (Loegric)
+	96.1.1 = {
+		liege = k_england
+		holder = lloegr # Lloegr Lloegr
+		government = administrative_government
+		succession_laws = { noble_family_succession_law }
+	}
+	867.1.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
+		}
+	}
+	1066.9.15 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
+		}
+	}
+	1178.10.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
+		}
+	}
+}
+
+d_nf_ogledd = { # Ogledd (Cumbrian)
+	96.1.1 = {
+		liege = k_daneland
+		holder = ogledd # Ogledd Ogledd
+		government = administrative_government
+		succession_laws = { noble_family_succession_law }
+	}
+	867.1.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
+		}
+	}
+	1066.9.15 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
+		}
+	}
+	1178.10.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
+		}
+	}
+}
+
+d_nf_kernow = { # Kernow (Cornish)
+	96.1.1 = {
+		liege = k_cornwall
+		holder = kernow # Kernow Kernow
+		government = administrative_government
+		succession_laws = { noble_family_succession_law }
+	}
+	867.1.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
+		}
+	}
+	1066.9.15 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
+		}
+	}
+	1178.10.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
+		}
+	}
+}
+
+d_nf_cymru = { # Cymru (Welsh)
+	96.1.1 = {
+		liege = k_wales
+		holder = cymru # Cymru Cymru
+		government = administrative_government
+		succession_laws = { noble_family_succession_law }
+	}
+	867.1.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
+		}
+	}
+	1066.9.15 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
+		}
+	}
+	1178.10.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
+		}
+	}
+}
+
+d_nf_fortriu = { # Fortriu (Pictish)
+	96.1.1 = {
+		liege = k_scotland
+		holder = fortriu # Fortriu Fortriu
+		government = administrative_government
+		succession_laws = { noble_family_succession_law }
+	}
+	867.1.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
+		}
+	}
+	1066.9.15 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
+		}
+	}
+	1178.10.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
+		}
+	}
+}
+
+# Loegric
+
+d_nf_trinovantii = { # Trinovantii (Loegric)
+	112.1.1 = {
+		liege = d_bedford
+		holder = trinovant # Trinovant Trinovantii
+		government = administrative_government
+		succession_laws = { noble_family_succession_law }
+	}
+	867.1.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
+		}
+	}
+	1066.9.15 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
+		}
+	}
+	1178.10.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
+		}
+	}
+}
+
+d_nf_icenii = { # Icenii (Loegric)
+	112.1.1 = {
+		liege = d_norfolk
+		holder = icen # Icen Icenii
+		government = administrative_government
+		succession_laws = { noble_family_succession_law }
+	}
+	867.1.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
+		}
+	}
+	1066.9.15 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
+		}
+	}
+	1178.10.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
+		}
+	}
+}
+
+d_nf_cantiacii = { # Cantiacii (Loegric)
+	112.1.1 = {
+		liege = d_canterbury
+		holder = Cantiac # Cantiac Cantiacii
+		government = administrative_government
+		succession_laws = { noble_family_succession_law }
+	}
+	867.1.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
+		}
+	}
+	1066.9.15 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
+		}
+	}
+	1178.10.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
+		}
+	}
+}
+
+d_nf_durotrigii = { # Durotrigii (Loegric)
+	112.1.1 = {
+		liege = d_somerset
+		holder = durotrig # Durotrig Durotrigii
+		government = administrative_government
+		succession_laws = { noble_family_succession_law }
+	}
+	867.1.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
+		}
+	}
+	1066.9.15 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
+		}
+	}
+	1178.10.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
+		}
+	}
+}
+
+d_nf_dobunnii = { # Dobunnii (Loegric)
+	112.1.1 = {
+		liege = d_gloucester
+		holder = dobunn # Dobunn Dobunnii
+		government = administrative_government
+		succession_laws = { noble_family_succession_law }
+	}
+	867.1.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
+		}
+	}
+	1066.9.15 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
+		}
+	}
+	1178.10.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
+		}
+	}
+}
+
+d_nf_coritanii = { # Coritanii (Loegric)
+	112.1.1 = {
+		liege = d_hereford
+		holder = Coritan # Coritan Coritanii
+		government = administrative_government
+		succession_laws = { noble_family_succession_law }
+	}
+	867.1.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
+		}
+	}
+	1066.9.15 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
+		}
+	}
+	1178.10.1 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
+		}
+	}
+}
+
+
+
+# 867
 
 d_nf_ampelas = { # Ampelas (Khaldia)
 	844.1.1 = {
@@ -1234,354 +1582,6 @@ d_nf_rogerios = {
 		holder = 215010 # Andronikos Rogerios Dalassenos
 		government = administrative_government
 		succession_laws = { noble_family_succession_law }
-	}
-	1178.10.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
-		}
-	}
-}
-
-
-
-######################################################################################################################################################################################
-########## Celts #####################################################################################################################################################################
-######################################################################################################################################################################################
-
-
-
-d_nf_celt = { # Celt (Celtic)
-	0.1.1 = {
-		liege = e_britannia
-		holder = celt # Celt Celt
-		government = administrative_government
-		succession_laws = { noble_family_succession_law }
-	}
-	867.1.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
-		}
-	}
-	1066.9.15 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
-		}
-	}
-	1178.10.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
-		}
-	}
-}
-
-d_nf_prydain = { # Prydain (Brythonic)
-	64.1.1 = {
-		liege = e_britannia
-		holder = prydain # Prydain Prydain
-		government = administrative_government
-		succession_laws = { noble_family_succession_law }
-	}
-	867.1.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
-		}
-	}
-	1066.9.15 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
-		}
-	}
-	1178.10.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
-		}
-	}
-}
-
-d_nf_eislean = { # Eislean (Goidelic)
-	64.1.1 = {
-		liege = e_north_sea
-		holder = eislean # Eislean Eislean
-		government = administrative_government
-		succession_laws = { noble_family_succession_law }
-	}
-	867.1.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
-		}
-	}
-	1066.9.15 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
-		}
-	}
-	1178.10.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
-		}
-	}
-}
-
-# Brythons
-
-d_nf_lloegr = { # Lloegr (Loegric)
-	96.1.1 = {
-		liege = k_england
-		holder = lloegr # Lloegr Lloegr
-		government = administrative_government
-		succession_laws = { noble_family_succession_law }
-	}
-	867.1.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
-		}
-	}
-	1066.9.15 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
-		}
-	}
-	1178.10.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
-		}
-	}
-}
-
-d_nf_ogledd = { # Ogledd (Cumbrian)
-	96.1.1 = {
-		liege = k_daneland
-		holder = ogledd # Ogledd Ogledd
-		government = administrative_government
-		succession_laws = { noble_family_succession_law }
-	}
-	867.1.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
-		}
-	}
-	1066.9.15 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
-		}
-	}
-	1178.10.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
-		}
-	}
-}
-
-d_nf_kernow = { # Kernow (Cornish)
-	96.1.1 = {
-		liege = k_cornwall
-		holder = kernow # Kernow Kernow
-		government = administrative_government
-		succession_laws = { noble_family_succession_law }
-	}
-	867.1.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
-		}
-	}
-	1066.9.15 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
-		}
-	}
-	1178.10.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
-		}
-	}
-}
-
-d_nf_cymru = { # Cymru (Welsh)
-	96.1.1 = {
-		liege = k_wales
-		holder = cymru # Cymru Cymru
-		government = administrative_government
-		succession_laws = { noble_family_succession_law }
-	}
-	867.1.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
-		}
-	}
-	1066.9.15 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
-		}
-	}
-	1178.10.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
-		}
-	}
-}
-
-d_nf_fortriu = { # Fortriu (Pictish)
-	96.1.1 = {
-		liege = k_scotland
-		holder = fortriu # Fortriu Fortriu
-		government = administrative_government
-		succession_laws = { noble_family_succession_law }
-	}
-	867.1.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
-		}
-	}
-	1066.9.15 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
-		}
-	}
-	1178.10.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
-		}
-	}
-}
-
-# Loegric
-
-d_nf_trinovantii = { # Trinovantii (Loegric)
-	112.1.1 = {
-		liege = d_bedford
-		holder = trinovant # Trinovant Trinovantii
-		government = administrative_government
-		succession_laws = { noble_family_succession_law }
-	}
-	867.1.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
-		}
-	}
-	1066.9.15 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
-		}
-	}
-	1178.10.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
-		}
-	}
-}
-
-d_nf_icenii = { # Icenii (Loegric)
-	112.1.1 = {
-		liege = d_norfolk
-		holder = icen # Icen Icenii
-		government = administrative_government
-		succession_laws = { noble_family_succession_law }
-	}
-	867.1.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
-		}
-	}
-	1066.9.15 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
-		}
-	}
-	1178.10.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
-		}
-	}
-}
-
-d_nf_cantiacii = { # Cantiacii (Loegric)
-	112.1.1 = {
-		liege = d_canterbury
-		holder = Cantiac # Cantiac Cantiacii
-		government = administrative_government
-		succession_laws = { noble_family_succession_law }
-	}
-	867.1.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
-		}
-	}
-	1066.9.15 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
-		}
-	}
-	1178.10.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
-		}
-	}
-}
-
-d_nf_durotrigii = { # Durotrigii (Loegric)
-	112.1.1 = {
-		liege = d_somerset
-		holder = durotrig # Durotrig Durotrigii
-		government = administrative_government
-		succession_laws = { noble_family_succession_law }
-	}
-	867.1.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
-		}
-	}
-	1066.9.15 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
-		}
-	}
-	1178.10.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
-		}
-	}
-}
-
-d_nf_dobunnii = { # Dobunnii (Loegric)
-	112.1.1 = {
-		liege = d_gloucester
-		holder = dobunn # Dobunn Dobunnii
-		government = administrative_government
-		succession_laws = { noble_family_succession_law }
-	}
-	867.1.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
-		}
-	}
-	1066.9.15 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
-		}
-	}
-	1178.10.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1178.10.1 }
-		}
-	}
-}
-
-d_nf_coritanii = { # Coritanii (Loegric)
-	112.1.1 = {
-		liege = d_hereford
-		holder = Coritan # Coritan Coritanii
-		government = administrative_government
-		succession_laws = { noble_family_succession_law }
-	}
-	867.1.1 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 867.1.1 }
-		}
-	}
-	1066.9.15 = {
-		effect = {
-			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
-		}
 	}
 	1178.10.1 = {
 		effect = {
