@@ -21001,9 +21001,7 @@ durres_dynasty = {
 	culture = albanian	
 }
 
-
-
-
+# Celts
 
 celt = {
 	name = dynn_Celt

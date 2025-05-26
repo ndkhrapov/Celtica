@@ -48,16 +48,6 @@ heritage_berber = {
 	audio_parameter = mena
 }
 
-heritage_brythonic = {
-	type = heritage
-	is_shown = {
-		heritage_is_shown_trigger = {
-			HERITAGE = heritage_brythonic
-		}
-	}
-	audio_parameter = european
-}
-
 heritage_burman = {
 	type = heritage
 	is_shown = {
@@ -143,16 +133,6 @@ heritage_frankish = {
 	is_shown = {
 		heritage_is_shown_trigger = {
 			HERITAGE = heritage_frankish
-		}
-	}
-	audio_parameter = european
-}
-
-heritage_goidelic = {
-	type = heritage
-	is_shown = {
-		heritage_is_shown_trigger = {
-			HERITAGE = heritage_goidelic
 		}
 	}
 	audio_parameter = european
@@ -474,11 +454,33 @@ heritage_albanian = {
 	audio_parameter = european
 }
 
+# Celts
+
 heritage_celtic = {
 	type = heritage
 	is_shown = {
 		heritage_is_shown_trigger = {
 			HERITAGE = heritage_celtic
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_brythonic = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_brythonic
+		}
+	}
+	audio_parameter = european
+}
+
+heritage_goidelic = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_goidelic
 		}
 	}
 	audio_parameter = european

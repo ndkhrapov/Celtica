@@ -114,24 +114,6 @@ language_berber = {
 	color = baranis
 }
 
-language_brythonic = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_brythonic
-		}
-	}
-	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_brythonic }
-			multiply = 10
-		}
-	}
-	
-	color = brythonic
-}
-
 language_burmese = {
 	type = language
 	is_shown = {
@@ -350,23 +332,6 @@ language_french = {
 	}
 	
 	color = french
-}
-language_goidelic = {
-	type = language
-	is_shown = {
-		language_is_shown_trigger = {
-			LANGUAGE = language_goidelic
-		}
-	}
-	ai_will_do = {
-		value = 10
-		if = {
-			limit = { has_cultural_pillar = language_goidelic }
-			multiply = 10
-		}
-	}
-	
-	color = goidelic
 }
 
 language_gur = {
@@ -1420,6 +1385,8 @@ language_albanian = {
 	color = albanian
 }
 
+# Celts
+
 language_celtic = {
 	type = language
 	is_shown = {
@@ -1436,6 +1403,42 @@ language_celtic = {
 	}
 	
 	color = celtic
+}
+
+language_brythonic = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_brythonic
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_brythonic }
+			multiply = 10
+		}
+	}
+	
+	color = brythonic
+}
+
+language_goidelic = {
+	type = language
+	is_shown = {
+		language_is_shown_trigger = {
+			LANGUAGE = language_goidelic
+		}
+	}
+	ai_will_do = {
+		value = 10
+		if = {
+			limit = { has_cultural_pillar = language_goidelic }
+			multiply = 10
+		}
+	}
+	
+	color = goidelic
 }
 
 language_gaulic = {
