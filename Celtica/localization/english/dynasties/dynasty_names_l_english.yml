@@ -1,66 +1,6 @@
 ﻿l_english:
  FOUNDER_BASED_NAME_POSTFIX:0 "id"
  ############################################################
- # Modded 
- ############################################################
-
- dynnpat_pre_ap:0 "ap "
- dynnpat_pre_vow_ab:0 "ab "
- dynnpat_pre_ferch:0 "ferch "
- dynnpat_pre_vow_verch:0 "verch "
-
- dynnpat_suf_s:0 "s"
-
- dynn_Celt:0 "Celt"
- dynn_Prydain:0 "Prydain"
- dynn_Lloegr:0 "Lloegr"
- dynn_Trinovantii:0 "Trinovantii"
- dynn_Icenii:0 "Icenii"
- dynn_Cantiacii:0 "Cantiacii"
- dynn_Durotrigii:0 "Durotrigii"
- dynn_Dobunnii:0 "Dobunnii"
- dynn_Coritanii:0 "Coritanii"
-
- dynn_Ogledd:0 "Ogledd"
- dynn_Parisii:0 "Parisii"
- dynn_Cornovii:0 "Cornovii"
- dynn_Brigantii:0 "Brigantii"
-
- dynn_Kernow:0 "Kernow"
- dynn_Dumnonii:0 "Dumnonii"
-
- dynn_Cymru:0 "Cymru"
- dynn_Ordovicii:0 "Ordovicii"
- dynn_Demetii:0 "Demetii"
- dynn_Silurii:0 "Silurii"
- 
- dynn_Fortriu:0 "Fortriu"
- dynn_Taexalii:0 "Taexalii"
- dynn_Votadinii:0 "Votadinii"
- dynn_Damnonii:0 "Damnonii"
- dynn_Caledonii:0 "Caledonii"
- 
- dynn_Eislean:0 "Eislean"
- dynn_Eire:0 "Eire"
- dynn_Eblanii:0 "Eblanii"
- dynn_Voluntii:0 "Voluntii"
- dynn_Coriondii:0 "Coriondii"
- dynn_Ivernii:0 "Ivernii"
- dynn_Auteinii:0 "Auteinii"
-
- dynn_Gael:0 "Gael"
- dynn_Monapii:0 "Monapii"
- dynn_Carnonacii:0 "Carnonacii"
- dynn_Cornavii:0 "Cornavii"
-
- dynn_Isiltir:0 "Isiltir"
- dynn_Carvetii:0 "Carvetii"
-
- dynnp_a:0 "a "
-
- dynnp_gwrth:0 "Gwrth"
-
- ############################################################
  # Prefixes
  ############################################################
  dynnp__:0 "'"
@@ -10802,3 +10742,61 @@
  dynn_BoseH: "Bose Holmqvist"
  dynn_Kopparvall: "Kopparvall"
  dynn_freddi: "Freddi"
+
+ # Celts 
+ 
+ dynnpat_pre_ap:0 "ap "
+ dynnpat_pre_vow_ab:0 "ab "
+ dynnpat_pre_ferch:0 "ferch "
+ dynnpat_pre_vow_verch:0 "verch "
+
+ dynnpat_suf_s:0 "s"
+
+ dynn_Celt:0 "Celt"
+ dynn_Prydain:0 "Prydain"
+ dynn_Lloegr:0 "Lloegr"
+ dynn_Trinovantii:0 "Trinovantii"
+ dynn_Icenii:0 "Icenii"
+ dynn_Cantiacii:0 "Cantiacii"
+ dynn_Durotrigii:0 "Durotrigii"
+ dynn_Dobunnii:0 "Dobunnii"
+ dynn_Coritanii:0 "Coritanii"
+
+ dynn_Ogledd:0 "Ogledd"
+ dynn_Parisii:0 "Parisii"
+ dynn_Cornovii:0 "Cornovii"
+ dynn_Brigantii:0 "Brigantii"
+
+ dynn_Kernow:0 "Kernow"
+ dynn_Dumnonii:0 "Dumnonii"
+
+ dynn_Cymru:0 "Cymru"
+ dynn_Ordovicii:0 "Ordovicii"
+ dynn_Demetii:0 "Demetii"
+ dynn_Silurii:0 "Silurii"
+ 
+ dynn_Fortriu:0 "Fortriu"
+ dynn_Taexalii:0 "Taexalii"
+ dynn_Votadinii:0 "Votadinii"
+ dynn_Damnonii:0 "Damnonii"
+ dynn_Caledonii:0 "Caledonii"
+ 
+ dynn_Eislean:0 "Eislean"
+ dynn_Eire:0 "Eire"
+ dynn_Eblanii:0 "Eblanii"
+ dynn_Voluntii:0 "Voluntii"
+ dynn_Coriondii:0 "Coriondii"
+ dynn_Ivernii:0 "Ivernii"
+ dynn_Auteinii:0 "Auteinii"
+
+ dynn_Gael:0 "Gael"
+ dynn_Monapii:0 "Monapii"
+ dynn_Carnonacii:0 "Carnonacii"
+ dynn_Cornavii:0 "Cornavii"
+
+ dynn_Isiltir:0 "Isiltir"
+ dynn_Carvetii:0 "Carvetii"
+
+ dynnp_a:0 "a "
+
+ dynnp_gwrth:0 "Gwrth"

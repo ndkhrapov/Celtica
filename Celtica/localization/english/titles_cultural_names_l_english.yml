@@ -1,54 +1,4 @@
 ﻿l_english:
- cn_prydain:0 "Prydain"
-
- cn_greater_london:0 "Llundein"
-
- cn_lloegr:0 "Lloegr"
- cn_trinovantia:0 "Trinovantia"
- cn_icenia:0 "Icenia"
- cn_cantiacia:0 "Cantiacia"
- cn_durotrigia:0 "Durotrigia"
- cn_dobunnia:0 "Dobunnia"
- cn_coritania:0 "Coritania"
-
- cn_kernow:0 "Kernow"
- cn_dumnonia:0 "Dumnonia"
-
- cn_ogledd:0 "Ogledd"
- cn_parisia:0 "Parisia"
- cn_cornovia:0 "Cornovia"
- cn_brigantia:0 "Brigantia"
-
- cn_cymru:0 "Cymru"
- cn_ordovicia:0 "Ordovicia"
- cn_demetia:0 "Demetia"
- cn_siluria:0 "Siluria"
-
- cn_fortriu:0 "Fortriu"
- cn_taexalia:0 "Taexalia"
- cn_votadinia:0 "Votadinia"
- cn_damnonia:0 "Damnonia"
- cn_caledonia:0 "Caledonia"
- 
- cn_eislean:0 "Eislean"
-
- cn_eire:0 "Eire"
- cn_eblania:0 "Eblania"
- cn_voluntia:0 "Voluntia"
- cn_coriondia:0 "Coriondia"
- cn_ivernia:0 "Ivernia"
- cn_auteinia:0 "Auteinia"
-
- cn_gael:0 "Gael"
- cn_monapia:0 "Monapia"
- cn_carnonacia:0 "Carnonacia"
- cn_cornavia:0 "Cornavia"
-
- cn_isiltir:0 "Isiltir"
- cn_carvetia:0 "Carvetia"
-
-
-
  cn_konstantiniyye:0 "Konstantiniyye"
  cn_konstantiniyye_adj:0 "Konstantiniyyian"
  
@@ -2745,3 +2695,52 @@
  cn_bo_ro_: "Börö"
  cn_cumania: "Cumania"
  cn_black_cumania: "Black Cumania"
+
+ # Celts
+ cn_prydain:0 "Prydain"
+
+ cn_greater_london:0 "Llundein"
+
+ cn_lloegr:0 "Lloegr"
+ cn_trinovantia:0 "Trinovantia"
+ cn_icenia:0 "Icenia"
+ cn_cantiacia:0 "Cantiacia"
+ cn_durotrigia:0 "Durotrigia"
+ cn_dobunnia:0 "Dobunnia"
+ cn_coritania:0 "Coritania"
+
+ cn_kernow:0 "Kernow"
+ cn_dumnonia:0 "Dumnonia"
+
+ cn_ogledd:0 "Ogledd"
+ cn_parisia:0 "Parisia"
+ cn_cornovia:0 "Cornovia"
+ cn_brigantia:0 "Brigantia"
+
+ cn_cymru:0 "Cymru"
+ cn_ordovicia:0 "Ordovicia"
+ cn_demetia:0 "Demetia"
+ cn_siluria:0 "Siluria"
+
+ cn_fortriu:0 "Fortriu"
+ cn_taexalia:0 "Taexalia"
+ cn_votadinia:0 "Votadinia"
+ cn_damnonia:0 "Damnonia"
+ cn_caledonia:0 "Caledonia"
+ 
+ cn_eislean:0 "Eislean"
+
+ cn_eire:0 "Eire"
+ cn_eblania:0 "Eblania"
+ cn_voluntia:0 "Voluntia"
+ cn_coriondia:0 "Coriondia"
+ cn_ivernia:0 "Ivernia"
+ cn_auteinia:0 "Auteinia"
+
+ cn_gael:0 "Gael"
+ cn_monapia:0 "Monapia"
+ cn_carnonacia:0 "Carnonacia"
+ cn_cornavia:0 "Cornavia"
+
+ cn_isiltir:0 "Isiltir"
+ cn_carvetia:0 "Carvetia"

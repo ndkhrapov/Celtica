@@ -1,243 +1,4 @@
-﻿world_europe_west_britannia = {
-	duchies = {
-		# London
-		d_greater_london
-		# England
-		d_bedford d_norfolk d_hereford d_gloucester d_canterbury d_somerset
-		# Daneland
-		d_york d_lancaster d_northumberland
-		# Cornwall
-		d_cornwall
-		# Wales
-		d_gwynedd d_deheubarth d_powys
-		# Scotland
-		d_albany d_galloway d_lothian d_moray
-		# Ireland
-		d_meath d_ulster d_leinster d_munster d_connacht
-		# Man
-		d_the_isles d_western_isles d_northern_isles
-		# Iceland
-		d_iceland
-	}
-}
-
-custom_london = {
-	duchies = {
-		# London
-		d_greater_london
-	}
-}
-custom_england = {
-	duchies = {
-		# England
-		d_bedford d_norfolk d_hereford d_gloucester d_canterbury d_somerset
-	}
-}
-custom_daneland = {
-	duchies = {
-		# Daneland
-		d_york d_lancaster d_northumberland
-	}
-}
-custom_cornwall = {
-	duchies = {
-		# Cornwall
-		d_cornwall
-	}
-}
-custom_wales = {
-	duchies = {
-		# Wales
-		d_gwynedd d_deheubarth d_powys
-	}
-}
-custom_scotland = {
-	duchies = {
-		# Scotland
-		d_albany d_galloway d_lothian d_moray
-	}
-}
-custom_ireland = {
-	duchies = {
-		#Ireland
-		d_meath d_ulster d_leinster d_munster d_connacht
-	}
-}
-custom_man = {
-	duchies = {
-		# Man
-		d_the_isles d_western_isles d_northern_isles
-	}
-}
-custom_iceland = {
-	duchies = {
-		# Iceland
-		d_iceland 
-	}
-}
-
-custom_southern_england = {
-	duchies = {
-		# England
-		d_bedford d_norfolk d_hereford d_gloucester d_canterbury d_somerset
-	}
-}
-custom_northern_england = {
-	duchies = {
-		# Daneland
-		d_york d_lancaster d_northumberland
-	}
-}
-
-custom_roman_caledonia = {
-	duchies = {
-		# Scotland
-		d_albany d_galloway d_lothian d_moray
-	}
-}
-custom_roman_hibernia = {
-	duchies = {
-		#Ireland
-		d_meath d_ulster d_leinster d_munster d_connacht
-	}
-}
-
-ghw_region_england = {
-	duchies = {
-		# England
-		d_bedford d_norfolk d_hereford d_gloucester d_canterbury d_somerset
-	}
-}
-ghw_region_celtic = {
-	duchies = {
-		# London
-		d_greater_london
-		# England
-		d_bedford d_norfolk d_hereford d_gloucester d_canterbury d_somerset
-		# Daneland
-		d_york d_lancaster d_northumberland
-		# Cornwall
-		d_cornwall
-		# Wales
-		d_gwynedd d_deheubarth d_powys
-		# Scotland
-		d_albany d_galloway d_lothian d_moray
-		# Ireland
-		d_meath d_ulster d_leinster d_munster d_connacht
-		# Man
-		d_the_isles d_western_isles d_northern_isles
-		# Iceland
-		d_iceland
-	}
-}
-ghw_region_britannia = {
-	duchies = {
-		# London
-		d_greater_london
-		# England
-		d_bedford d_norfolk d_hereford d_gloucester d_canterbury d_somerset
-		# Daneland
-		d_york d_lancaster d_northumberland
-		# Cornwall
-		d_cornwall
-		# Wales
-		d_gwynedd d_deheubarth d_powys
-		# Scotland
-		d_albany d_galloway d_lothian d_moray
-		# Ireland
-		d_meath d_ulster d_leinster d_munster d_connacht
-		# Man
-		d_the_isles d_western_isles d_northern_isles
-		# Iceland
-		d_iceland
-	}
-}
-
-dlc_fp1_region_core_north_sea = {
-	duchies = {
-		#Ireland
-		d_meath d_ulster d_leinster d_munster d_connacht
-		# Man
-		d_the_isles d_western_isles d_northern_isles
-		# Iceland
-		d_iceland 
-	}
-}
-
-dlc_fp1_region_western_adventure_targets_iceland_isles = {
-	duchies = {
-		# Iceland
-		d_iceland 
-	}
-}
-dlc_fp1_region_western_adventure_targets_scotland_isles = {
-	duchies = {
-		# Man
-		d_the_isles d_western_isles d_northern_isles
-	}
-}
-dlc_fp1_region_western_adventure_targets_ireland = {
-	duchies = {
-		# Ireland
-		d_meath d_ulster d_leinster d_munster d_connacht
-	}
-}
-dlc_fp1_region_western_adventure_targets_northern_england = {
-	duchies = {
-		# Daneland
-		d_york d_lancaster d_northumberland
-	}
-}
-
-dlc_ep1_arthurian_heartlands_region = {
-	duchies = {
-		# London
-		d_greater_london
-		# England
-		d_bedford d_norfolk d_hereford d_gloucester d_canterbury d_somerset
-		# Daneland
-		d_york d_lancaster d_northumberland
-		# Cornwall
-		d_cornwall
-		# Wales
-		d_gwynedd d_deheubarth d_powys
-		# Scotland
-		d_albany d_galloway d_lothian d_moray
-		# Ireland
-		d_meath d_ulster d_leinster d_munster d_connacht
-		# Man
-		d_the_isles d_western_isles d_northern_isles
-		# Iceland
-		d_iceland
-	}
-}
-
-board_game_fidchell_region = {
-	duchies = {
-		# London
-		d_greater_london
-		# England
-		d_bedford d_norfolk d_hereford d_gloucester d_canterbury d_somerset
-		# Daneland
-		d_york d_lancaster d_northumberland
-		# Cornwall
-		d_cornwall
-		# Wales
-		d_gwynedd d_deheubarth d_powys
-		# Scotland
-		d_albany d_galloway d_lothian d_moray
-		# Ireland
-		d_meath d_ulster d_leinster d_munster d_connacht
-		# Man
-		d_the_isles d_western_isles d_northern_isles
-		# Iceland
-		d_iceland
-	}
-}
-
-
-
-# Geographical regions
+﻿# Geographical regions
 # Regions can be declared with one or more of the following fields:
 #	kingdoms = { }, takes de-jure kingdom title names declared in landed_titles.txts 
 #	duchies = { }, takes de-jure duchy title names declared in landed_titles.txt
@@ -4667,3 +4428,245 @@ river_valley_nomad_area = {
 		d_gyalrong d_chakla d_golog d_malho d_gainlho
 	}
 }
+
+# Celts
+
+world_europe_west_britannia = {
+	duchies = {
+		# London
+		d_greater_london
+		# England
+		d_bedford d_norfolk d_hereford d_gloucester d_canterbury d_somerset
+		# Daneland
+		d_york d_lancaster d_northumberland
+		# Cornwall
+		d_cornwall
+		# Wales
+		d_gwynedd d_deheubarth d_powys
+		# Scotland
+		d_albany d_galloway d_lothian d_moray
+		# Ireland
+		d_meath d_ulster d_leinster d_munster d_connacht
+		# Man
+		d_the_isles d_western_isles d_northern_isles
+		# Iceland
+		d_iceland
+	}
+}
+
+custom_london = {
+	duchies = {
+		# London
+		d_greater_london
+	}
+}
+custom_england = {
+	duchies = {
+		# England
+		d_bedford d_norfolk d_hereford d_gloucester d_canterbury d_somerset
+	}
+}
+custom_daneland = {
+	duchies = {
+		# Daneland
+		d_york d_lancaster d_northumberland
+	}
+}
+custom_cornwall = {
+	duchies = {
+		# Cornwall
+		d_cornwall
+	}
+}
+custom_wales = {
+	duchies = {
+		# Wales
+		d_gwynedd d_deheubarth d_powys
+	}
+}
+custom_scotland = {
+	duchies = {
+		# Scotland
+		d_albany d_galloway d_lothian d_moray
+	}
+}
+custom_ireland = {
+	duchies = {
+		#Ireland
+		d_meath d_ulster d_leinster d_munster d_connacht
+	}
+}
+custom_man = {
+	duchies = {
+		# Man
+		d_the_isles d_western_isles d_northern_isles
+	}
+}
+custom_iceland = {
+	duchies = {
+		# Iceland
+		d_iceland 
+	}
+}
+
+custom_southern_england = {
+	duchies = {
+		# England
+		d_bedford d_norfolk d_hereford d_gloucester d_canterbury d_somerset
+	}
+}
+custom_northern_england = {
+	duchies = {
+		# Daneland
+		d_york d_lancaster d_northumberland
+	}
+}
+
+custom_roman_caledonia = {
+	duchies = {
+		# Scotland
+		d_albany d_galloway d_lothian d_moray
+	}
+}
+custom_roman_hibernia = {
+	duchies = {
+		#Ireland
+		d_meath d_ulster d_leinster d_munster d_connacht
+	}
+}
+
+ghw_region_england = {
+	duchies = {
+		# England
+		d_bedford d_norfolk d_hereford d_gloucester d_canterbury d_somerset
+	}
+}
+ghw_region_celtic = {
+	duchies = {
+		# London
+		d_greater_london
+		# England
+		d_bedford d_norfolk d_hereford d_gloucester d_canterbury d_somerset
+		# Daneland
+		d_york d_lancaster d_northumberland
+		# Cornwall
+		d_cornwall
+		# Wales
+		d_gwynedd d_deheubarth d_powys
+		# Scotland
+		d_albany d_galloway d_lothian d_moray
+		# Ireland
+		d_meath d_ulster d_leinster d_munster d_connacht
+		# Man
+		d_the_isles d_western_isles d_northern_isles
+		# Iceland
+		d_iceland
+	}
+}
+ghw_region_britannia = {
+	duchies = {
+		# London
+		d_greater_london
+		# England
+		d_bedford d_norfolk d_hereford d_gloucester d_canterbury d_somerset
+		# Daneland
+		d_york d_lancaster d_northumberland
+		# Cornwall
+		d_cornwall
+		# Wales
+		d_gwynedd d_deheubarth d_powys
+		# Scotland
+		d_albany d_galloway d_lothian d_moray
+		# Ireland
+		d_meath d_ulster d_leinster d_munster d_connacht
+		# Man
+		d_the_isles d_western_isles d_northern_isles
+		# Iceland
+		d_iceland
+	}
+}
+
+dlc_fp1_region_core_north_sea = {
+	duchies = {
+		#Ireland
+		d_meath d_ulster d_leinster d_munster d_connacht
+		# Man
+		d_the_isles d_western_isles d_northern_isles
+		# Iceland
+		d_iceland 
+	}
+}
+
+dlc_fp1_region_western_adventure_targets_iceland_isles = {
+	duchies = {
+		# Iceland
+		d_iceland 
+	}
+}
+dlc_fp1_region_western_adventure_targets_scotland_isles = {
+	duchies = {
+		# Man
+		d_the_isles d_western_isles d_northern_isles
+	}
+}
+dlc_fp1_region_western_adventure_targets_ireland = {
+	duchies = {
+		# Ireland
+		d_meath d_ulster d_leinster d_munster d_connacht
+	}
+}
+dlc_fp1_region_western_adventure_targets_northern_england = {
+	duchies = {
+		# Daneland
+		d_york d_lancaster d_northumberland
+	}
+}
+
+dlc_ep1_arthurian_heartlands_region = {
+	duchies = {
+		# London
+		d_greater_london
+		# England
+		d_bedford d_norfolk d_hereford d_gloucester d_canterbury d_somerset
+		# Daneland
+		d_york d_lancaster d_northumberland
+		# Cornwall
+		d_cornwall
+		# Wales
+		d_gwynedd d_deheubarth d_powys
+		# Scotland
+		d_albany d_galloway d_lothian d_moray
+		# Ireland
+		d_meath d_ulster d_leinster d_munster d_connacht
+		# Man
+		d_the_isles d_western_isles d_northern_isles
+		# Iceland
+		d_iceland
+	}
+}
+
+board_game_fidchell_region = {
+	duchies = {
+		# London
+		d_greater_london
+		# England
+		d_bedford d_norfolk d_hereford d_gloucester d_canterbury d_somerset
+		# Daneland
+		d_york d_lancaster d_northumberland
+		# Cornwall
+		d_cornwall
+		# Wales
+		d_gwynedd d_deheubarth d_powys
+		# Scotland
+		d_albany d_galloway d_lothian d_moray
+		# Ireland
+		d_meath d_ulster d_leinster d_munster d_connacht
+		# Man
+		d_the_isles d_western_isles d_northern_isles
+		# Iceland
+		d_iceland
+	}
+}
+
+
+

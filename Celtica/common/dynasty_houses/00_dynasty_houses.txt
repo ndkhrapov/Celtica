@@ -1,166 +1,4 @@
-﻿#####
-Celts
-#####
-
-
-
-# Celts
-
-prydain = {
-	name = dynn_Prydain
-	dynasty = celt
-}
-lloegr = {
-	name = dynn_Lloegr
-	dynasty = celt
-}
-trinovantii = {
-	name = dynn_Trinovantii
-	dynasty = celt
-}
-icenii = {
-	name = dynn_Icenii
-	dynasty = celt
-}
-cantiacii = {
-	name = dynn_Cantiacii
-	dynasty = celt
-}
-durotrigii = {
-	name = dynn_Durotrigii
-	dynasty = celt
-}
-dobunnii = {
-	name = dynn_Dobunnii
-	dynasty = celt
-}
-coritanii = {
-	name = dynn_Coritanii
-	dynasty = celt
-}
-
-ogledd = {
-	name = dynn_Ogledd
-	dynasty = celt
-}
-parisii = {
-	name = dynn_Parisii
-	dynasty = celt
-}
-cornovii = {
-	name = dynn_Cornovii
-	dynasty = celt
-}
-brigantii = {
-	name = dynn_Brigantii
-	dynasty = celt
-}
-
-kernow = {
-	name = dynn_Kernow
-	dynasty = celt
-}
-dumnonii = {
-	name = dynn_Dumnonii
-	dynasty = celt
-}
-
-cymru = {
-	name = dynn_Cymru
-	dynasty = celt
-}
-ordovicii = {
-	name = dynn_Ordovicii
-	dynasty = celt
-}
-demetii = {
-	name = dynn_Demetii
-	dynasty = celt
-}
-silurii = {
-	name = dynn_Silurii
-	dynasty = celt
-}
-
-fortriu = {
-	name = dynn_Fortriu
-	dynasty = celt
-}
-taexalii = {
-	name = dynn_Taexalii
-	dynasty = celt
-}
-votadinii = {
-	name = dynn_Votadinii
-	dynasty = celt
-}
-damnonii = {
-	name = dynn_Damnonii
-	dynasty = celt
-}
-caledonii = {
-	name = dynn_Caledonii
-	dynasty = celt
-}
-
-eislean = {
-	name = dynn_Eislean
-	dynasty = celt
-}
-eire = {
-	name = dynn_Eire
-	dynasty = celt
-}
-eblanii = {
-	name = dynn_Eblanii
-	dynasty = celt
-}
-voluntii = {
-	name = dynn_Voluntii
-	dynasty = celt
-}
-coriondii = {
-	name = dynn_Coriondii
-	dynasty = celt
-}
-ivernii = {
-	name = dynn_Ivernii
-	dynasty = celt
-}
-auteinii = {
-	name = dynn_Auteinii
-	dynasty = celt
-}
-
-gael = {
-	name = dynn_Gael
-	dynasty = celt
-}
-monapii = {
-	name = dynn_Monapii
-	dynasty = celt
-}
-carnonacii = {
-	name = dynn_Carnonacii
-	dynasty = celt
-}
-cornavii = {
-	name = dynn_Cornavii
-	dynasty = celt
-}
-
-isiltir = {
-	name = dynn_Isiltir
-	dynasty = celt
-}
-carvetii = {
-	name = dynn_Carvetii
-	dynasty = celt
-}
-
-
-
-# Carolingians
+﻿# Carolingians
 house_jerome_karling = {
 	name = "dynn_Jerome-Karling"
 	dynasty = 25061 #(Karling)
@@ -2099,4 +1937,160 @@ house_vermandois = {
 	prefix = "dynnp_de"
 	name = dynn_Vermandois
 	dynasty = 743
+}
+
+
+
+
+
+prydain = {
+	name = dynn_Prydain
+	dynasty = celt
+}
+lloegr = {
+	name = dynn_Lloegr
+	dynasty = celt
+}
+trinovantii = {
+	name = dynn_Trinovantii
+	dynasty = celt
+}
+icenii = {
+	name = dynn_Icenii
+	dynasty = celt
+}
+cantiacii = {
+	name = dynn_Cantiacii
+	dynasty = celt
+}
+durotrigii = {
+	name = dynn_Durotrigii
+	dynasty = celt
+}
+dobunnii = {
+	name = dynn_Dobunnii
+	dynasty = celt
+}
+coritanii = {
+	name = dynn_Coritanii
+	dynasty = celt
+}
+
+ogledd = {
+	name = dynn_Ogledd
+	dynasty = celt
+}
+parisii = {
+	name = dynn_Parisii
+	dynasty = celt
+}
+cornovii = {
+	name = dynn_Cornovii
+	dynasty = celt
+}
+brigantii = {
+	name = dynn_Brigantii
+	dynasty = celt
+}
+
+kernow = {
+	name = dynn_Kernow
+	dynasty = celt
+}
+dumnonii = {
+	name = dynn_Dumnonii
+	dynasty = celt
+}
+
+cymru = {
+	name = dynn_Cymru
+	dynasty = celt
+}
+ordovicii = {
+	name = dynn_Ordovicii
+	dynasty = celt
+}
+demetii = {
+	name = dynn_Demetii
+	dynasty = celt
+}
+silurii = {
+	name = dynn_Silurii
+	dynasty = celt
+}
+
+fortriu = {
+	name = dynn_Fortriu
+	dynasty = celt
+}
+taexalii = {
+	name = dynn_Taexalii
+	dynasty = celt
+}
+votadinii = {
+	name = dynn_Votadinii
+	dynasty = celt
+}
+damnonii = {
+	name = dynn_Damnonii
+	dynasty = celt
+}
+caledonii = {
+	name = dynn_Caledonii
+	dynasty = celt
+}
+
+eislean = {
+	name = dynn_Eislean
+	dynasty = celt
+}
+eire = {
+	name = dynn_Eire
+	dynasty = celt
+}
+eblanii = {
+	name = dynn_Eblanii
+	dynasty = celt
+}
+voluntii = {
+	name = dynn_Voluntii
+	dynasty = celt
+}
+coriondii = {
+	name = dynn_Coriondii
+	dynasty = celt
+}
+ivernii = {
+	name = dynn_Ivernii
+	dynasty = celt
+}
+auteinii = {
+	name = dynn_Auteinii
+	dynasty = celt
+}
+
+gael = {
+	name = dynn_Gael
+	dynasty = celt
+}
+monapii = {
+	name = dynn_Monapii
+	dynasty = celt
+}
+carnonacii = {
+	name = dynn_Carnonacii
+	dynasty = celt
+}
+cornavii = {
+	name = dynn_Cornavii
+	dynasty = celt
+}
+
+isiltir = {
+	name = dynn_Isiltir
+	dynasty = celt
+}
+carvetii = {
+	name = dynn_Carvetii
+	dynasty = celt
 }

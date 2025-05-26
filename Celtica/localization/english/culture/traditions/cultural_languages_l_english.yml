@@ -1,13 +1,4 @@
 ﻿l_english:
-
- language_celtic_name:0 "Celtic"
- language_brythonic_name:0 "Brythonic"
- language_goidelic_name:0 "Goidelic"
- language_gaulic_name:0 "Gaulic"
- language_iberic_name:0 "Iberic"
- language_alemanic_name:0 "Alemanic"
- language_italic_name:0 "Italic"
-
  language_generic_label_desc:0 "A [culture_possessive|E] dominant [language|E] includes a broad selection of dialects, vernaculars, creoles, and related minor tongues which are often (though not necessarily) mutually intelligible or easier to learn."
  language_anglic_name:0 "Anglic"
  language_arabic_name:0 "Arabic"
@@ -105,3 +96,12 @@
  language_egyptian_name: "Egyptian"
  language_hunnic_name: "Hunnic"
  language_ancient_greek_name: "Hellenic"
+
+# Celts
+ language_celtic_name:0 "Celtic"
+ language_brythonic_name:0 "Brythonic"
+ language_goidelic_name:0 "Goidelic"
+ language_gaulic_name:0 "Gaulic"
+ language_iberic_name:0 "Iberic"
+ language_alemanic_name:0 "Alemanic"
+ language_italic_name:0 "Italic"
