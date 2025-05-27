@@ -1,260 +1,4 @@
-﻿#############
-# Celticism #
-#############
-
-# Celtic
-
-london = {
-	county = c_middlesex
-	barony = b_london
-	
-	character_modifier = {
-	}
-}
-
-dublin = {
-	county = c_dublin
-	barony = b_dublin
-	
-	character_modifier = {
-	}
-}
-
-paris = {
-	county = c_ile_de_france
-	barony = b_paris
-	
-	character_modifier = {
-	}
-}
-
-toledo = {
-	county = c_toledo
-	barony = b_toledo
-	
-	character_modifier = {
-	}
-}
-
-frankfurt = {
-	county = c_frankfurt
-	barony = b_frankfurt
-	
-	character_modifier = {
-	}
-}
-
-roma = {
-	county = c_roma
-	barony = b_roma
-	
-	character_modifier = {
-	}
-}
-
-# Brythonic
-
-york = {
-	county = c_north_riding
-	barony = b_york
-
-	character_modifier = {
-	}
-}
-
-exeter = {
-	county = c_devon
-	barony = b_exeter
-
-	character_modifier = {
-	}
-}
-
-cardigan = {
-	county = c_cardiganshire
-	barony = b_cardigan
-	
-	character_modifier = {
-	}
-}
-
-st_johnston = {
-	county = c_gowrie
-	barony = b_st_johnston
-	
-	character_modifier = {
-	}
-}
-
-# Goidelic
-
-castletown = {
-	county = c_isle_of_man
-	barony = b_castletown
-
-	character_modifier = {
-	}
-}
-
-islay = {
-	county = c_inner_hebrides
-	barony = b_islay
-
-	character_modifier = {
-	}
-}
-
-kirkwall = {
-	county = c_orkney
-	barony = b_kirkwall
-
-	character_modifier = {
-	}
-}
-
-reykjavik = {
-	county = c_vestisland
-	barony = b_reykjavik
-
-	character_modifier = {
-	}
-}
-
-# Gaulic 
-
-brest = {
-	county = c_french_leon
-	barony = b_brest
-	
-	character_modifier = {
-	}
-}
-
-bordeaux = {
-	county = c_bordeaux
-	barony = b_bordeaux
-	
-	character_modifier = {
-	}
-}
-
-arles = {
-	county = c_venaissin
-	barony = b_arles
-	
-	character_modifier = {
-	}
-}
-
-dijon = {
-	county = c_dijon
-	barony = b_dijon
-	
-	character_modifier = {
-	}
-}
-
-# Iberian
-
-barcelona = {
-	county = c_barcelona
-	barony = b_barcelona
-	
-	character_modifier = {
-	}
-}
-
-corunna = {
-	county = c_coruna
-	barony = b_corunna
-	
-	character_modifier = {
-	}
-}
-
-lisboa = {
-	county = c_lisboa
-	barony = b_lisboa
-	
-	character_modifier = {
-	}
-}
-
-cordoba = {
-	county = c_cordoba
-	barony = b_cordoba
-	
-	character_modifier = {
-	}
-}
-
-# Alemanic
-
-amsterdam = {
-	county = c_holland
-	barony = b_amsterdam
-	
-	character_modifier = {
-	}
-}
-
-leuven = {
-	county = c_brabant
-	barony = b_leuven
-	
-	character_modifier = {
-	}
-}
-
-roskilde = {
-	county = c_sjaelland
-	barony = b_roskilde
-	
-	character_modifier = {
-	}
-}
-
-praha = {
-	county = c_praha
-	barony = b_praha
-	
-	character_modifier = {
-	}
-}
-
-# Italic 
-
-milano = {
-	county = c_lombardia
-	barony = b_milano
-	
-	character_modifier = {
-	}
-}
-
-firenze = {
-	county = c_firenze
-	barony = b_firenze
-	
-	character_modifier = {
-	}
-}
-
-capua = {
-	county = c_capua
-	barony = b_capua
-	
-	character_modifier = {
-	}
-}
-
-palermo = {
-	county = c_palermo
-	barony = b_palermo
-	
-	character_modifier = {
-	}
-}
+﻿
 
 #############
 # Christian #
@@ -1525,6 +1269,7 @@ ranaheim = {
 
 jorvik = {
 	county = c_north_riding
+	barony = b_yarlestre
 
 	character_modifier = {
 		name = holy_site_jorvik_effect_name
@@ -2325,5 +2070,263 @@ suzhou = {
 		name = holy_site_suzhou_effect_name
 		diplomacy = 1
 		martial = 1
+	}
+}
+
+#############
+# Celticism #
+#############
+
+# Celtic
+
+london = {
+	county = c_middlesex
+	barony = b_london
+	
+	character_modifier = {
+	}
+}
+
+dublin = {
+	county = c_dublin
+	barony = b_dublin
+	
+	character_modifier = {
+	}
+}
+
+paris = {
+	county = c_ile_de_france
+	barony = b_paris
+	
+	character_modifier = {
+	}
+}
+
+toledo = {
+	county = c_toledo
+	barony = b_toledo
+	
+	character_modifier = {
+	}
+}
+
+frankfurt = {
+	county = c_frankfurt
+	barony = b_frankfurt
+	
+	character_modifier = {
+	}
+}
+
+roma = {
+	county = c_roma
+	barony = b_roma
+	
+	character_modifier = {
+	}
+}
+
+# Brythonic
+
+york = {
+	county = c_north_riding
+	barony = b_york
+
+	character_modifier = {
+	}
+}
+
+exeter = {
+	county = c_devon
+	barony = b_exeter
+
+	character_modifier = {
+	}
+}
+
+cardigan = {
+	county = c_cardiganshire
+	barony = b_cardigan
+	
+	character_modifier = {
+	}
+}
+
+st_johnston = {
+	county = c_gowrie
+	barony = b_st_johnston
+	
+	character_modifier = {
+	}
+}
+
+# Goidelic
+
+castletown = {
+	county = c_isle_of_man
+	barony = b_castletown
+
+	character_modifier = {
+	}
+}
+
+islay = {
+	county = c_inner_hebrides
+	barony = b_islay
+
+	character_modifier = {
+	}
+}
+
+kirkwall = {
+	county = c_orkney
+	barony = b_kirkwall
+
+	character_modifier = {
+	}
+}
+
+reykjavik = {
+	county = c_vestisland
+	barony = b_reykjavik
+
+	character_modifier = {
+	}
+}
+
+# Gaulic 
+
+brest = {
+	county = c_french_leon
+	barony = b_brest
+	
+	character_modifier = {
+	}
+}
+
+bordeaux = {
+	county = c_bordeaux
+	barony = b_bordeaux
+	
+	character_modifier = {
+	}
+}
+
+arles = {
+	county = c_venaissin
+	barony = b_arles
+	
+	character_modifier = {
+	}
+}
+
+dijon = {
+	county = c_dijon
+	barony = b_dijon
+	
+	character_modifier = {
+	}
+}
+
+# Iberian
+
+barcelona = {
+	county = c_barcelona
+	barony = b_barcelona
+	
+	character_modifier = {
+	}
+}
+
+corunna = {
+	county = c_coruna
+	barony = b_corunna
+	
+	character_modifier = {
+	}
+}
+
+lisboa = {
+	county = c_lisboa
+	barony = b_lisboa
+	
+	character_modifier = {
+	}
+}
+
+cordoba = {
+	county = c_cordoba
+	barony = b_cordoba
+	
+	character_modifier = {
+	}
+}
+
+# Alemanic
+
+amsterdam = {
+	county = c_holland
+	barony = b_amsterdam
+	
+	character_modifier = {
+	}
+}
+
+leuven = {
+	county = c_brabant
+	barony = b_leuven
+	
+	character_modifier = {
+	}
+}
+
+roskilde = {
+	county = c_sjaelland
+	barony = b_roskilde
+	
+	character_modifier = {
+	}
+}
+
+praha = {
+	county = c_praha
+	barony = b_praha
+	
+	character_modifier = {
+	}
+}
+
+# Italic 
+
+milano = {
+	county = c_lombardia
+	barony = b_milano
+	
+	character_modifier = {
+	}
+}
+
+firenze = {
+	county = c_firenze
+	barony = b_firenze
+	
+	character_modifier = {
+	}
+}
+
+capua = {
+	county = c_capua
+	barony = b_capua
+	
+	character_modifier = {
+	}
+}
+
+palermo = {
+	county = c_palermo
+	barony = b_palermo
+	
+	character_modifier = {
 	}
 }
