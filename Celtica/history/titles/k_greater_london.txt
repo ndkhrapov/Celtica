@@ -1,14 +1,14 @@
 k_greater_london = {
 	867.1.1 = {
-		change_development_level = 12
+		change_development_level = 25
 	}
 	1066.9.15 = {
-		change_development_level = 18
+		change_development_level = 35
 		government = feudal_government
 		holder = c_middlesex-992.1.1
 	}
 	1178.1.1 = {
-		change_development_level = 24
+		change_development_level = 58
     }
 	0.1.1 = {
 		holder = celt
@@ -101,15 +101,15 @@ k_greater_london = {
 
 d_greater_london = {
 	867.1.1 = {
-		change_development_level = 15
+		change_development_level = 25
 		government = tribal_government
 		holder = c_middlesex-800.1.1
 	}
 	1066.9.15 = {
-		change_development_level = 20
+		change_development_level = 35
 	}
 	1178.1.1 = {
-		change_development_level = 28
+		change_development_level = 58
     }
 	0.1.1 = {
 		holder = celt

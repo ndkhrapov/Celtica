@@ -1,29 +1,5 @@
 colors = {
 	# used by cultures and languages
-	
-	celtic = { 108 194 61 }
-
-	brythonic = { 0 123 207 }
-
-	loegric = { 219 13 65 }
-	cumbrian = { 36 47 219 }
-	cornish = { 199 178 3 }
-	welsh = { 227 57 12 }
-	pictish = { 0 96 247 }
-
-	goidelic = { 66 214 7 }
-
-	irish = { 0 237 66 }
-	gaelic = { 110 214 76 }
-	icelandic = { 43 194 166 }
-
-	gaulic = { 255 255 255 }
-	iberic = { 255 255 255 }
-	alemanic = { 255 255 255 }
-	italic = { 255 255 255 }
-	
-
-	
 	english = { 0.8 0.2 0.2 }
 	bedouin = { 0.1 0.75 0.1 }
 	swabian = { 0.7 0.7 0.7 }
@@ -99,4 +75,27 @@ colors = {
 	hunnic = { 0.3 0.21 0.13 }
 	trojan = { 0.83 0.55 0.95 }
 	albanian = { 0.8 0.75 0.83 }
+	
+	# Celts
+
+	celtic = { 0 96 0 }
+
+	brythonic = { 0 153 51 }
+
+	loegric = { 48 214 48 }
+	cumbrian = { 51 51 204 }
+	cornish = { 226 181 0 }
+	welsh = { 204 0 0 }
+	pictish = { 0 102 204 }
+
+	goidelic = { 0 153 51 }
+
+	irish = { 0 204 0 }
+	gaelic = { 88 176 54 }
+	icelandic = { 0 178 169 }
+
+	gaulic = { 102 153 0 }
+	iberic = { 153 76 0 }
+	alemanic = { 102 102 255 }
+	italic = { 153 0 0 }
 }

@@ -212,7 +212,7 @@ celticism_religion = {
 
 	faiths = {
 		celtic = {
-			color = { 108 194 61 }
+			color = { 0 96 0 }
             icon = celtic
 			reformed_icon = celtic_reformed
 
@@ -231,11 +231,8 @@ celticism_religion = {
 			doctrine = tenet_adaptive
 		}
 		brythonic = {
-			color = { 0 123 207 }
+			color = { 0 153 51 }
             icon = brythonic
-			reformed_icon = brythonic_reformed
-
-			doctrine = unreformed_faith_doctrine
 
 			holy_site = london
 			holy_site = exeter
@@ -249,11 +246,8 @@ celticism_religion = {
 			doctrine = tenet_adaptive
 		}
 		goidelic = {
-			color = { 66 214 7 }
+			color = { 0 153 51 }
             icon = goidelic
-			reformed_icon = goidelic_reformed
-
-			doctrine = unreformed_faith_doctrine
 
 			holy_site = dublin
 			holy_site = castletown
@@ -267,11 +261,8 @@ celticism_religion = {
 			doctrine = tenet_adaptive
 		}
 		gaulic = {
-			color = { 255 255 255 }
+			color = { 102 153 0 }
             icon = gaulic
-			reformed_icon = gaulic_reformed
-
-			doctrine = unreformed_faith_doctrine
 
 			holy_site = paris
 			holy_site = brest
@@ -285,11 +276,8 @@ celticism_religion = {
 			doctrine = tenet_adaptive
 		}
 		iberic = {
-			color = { 255 255 255 }
+			color = { 153 76 0 }
             icon = iberic
-			reformed_icon = iberic_reformed
-
-			doctrine = unreformed_faith_doctrine
 
 			holy_site = toledo
 			holy_site = barcelona
@@ -303,11 +291,8 @@ celticism_religion = {
 			doctrine = tenet_adaptive
 		}
 		alemanic = {
-			color = { 255 255 255 }
+			color = { 102 102 255 }
             icon = alemanic
-			reformed_icon = alemanic_reformed
-
-			doctrine = unreformed_faith_doctrine
 
 			holy_site = frankfurt
 			holy_site = amsterdam
@@ -321,11 +306,8 @@ celticism_religion = {
 			doctrine = tenet_adaptive
 		}
 		italic = {
-			color = { 255 255 255 }
+			color = { 153 0 0 }
             icon = italic
-			reformed_icon = italic_reformed
-
-			doctrine = unreformed_faith_doctrine
 
 			holy_site = roma
 			holy_site = milano

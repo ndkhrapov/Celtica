@@ -24652,6 +24652,10 @@
  d_nf_celt: "$dynn_Celt$ Family"
  d_nf_celt_article: "$DEFAULT_TITLE_NAME_ARTICLE$"
 
+ e_celtica: "Celtica"
+ e_celtica_adj: "Celtic"
+ e_celtica_pre: "Celto"
+
  e_britannia: "Prydain"
  e_britannia_adj: "Prydainic"
  e_britannia_pre: "Prydaino"

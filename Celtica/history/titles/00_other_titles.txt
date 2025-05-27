@@ -5604,6 +5604,117 @@ k_naiman = {
 
 
 
+e_celtica = {
+	867.1.1 = {
+		change_development_level = 25
+	}
+	1066.9.15 = {
+		change_development_level = 35
+	}
+	1178.1.1 = {
+		change_development_level = 58
+		government = administrative_government
+		succession_laws = {
+			acclamation_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					holder = { has_government = administrative_government }
+				}
+				set_state_faith = faith:celtic
+			}
+			if = {
+				limit = {
+					exists = holder
+					has_dlc_feature = royal_court
+				}
+				holder = {
+					set_court_type = court_diplomacy
+				}
+			}
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+		holder = c_middlesex-1104.1.1
+	}
+	0.1.1 = {
+		holder = celt
+	}
+	64.1.1 = {
+		holder = uther
+	}
+	96.1.1 = {
+		holder = arthwys
+	}
+	112.1.1 = {
+		holder = llundein
+	}
+	144.1.1 = {
+		holder = 0
+	}
+	1184.1.1 = {
+		holder = c_middlesex-1120.1.1
+	}
+	1200.1.1 = {
+		holder = c_middlesex-1136.1.1
+	}
+	1216.1.1 = {
+		holder = c_middlesex-1152.1.1
+	}
+	1232.1.1 = {
+		holder = c_middlesex-1168.1.1
+	}
+	1248.1.1 = {
+		holder = c_middlesex-1184.1.1
+	}
+	1264.1.1 = {
+		holder = c_middlesex-1200.1.1
+	}
+	1280.1.1 = {
+		holder = c_middlesex-1216.1.1
+	}
+	1296.1.1 = {
+		holder = c_middlesex-1232.1.1
+	}
+	1312.1.1 = {
+		holder = c_middlesex-1248.1.1
+	}
+	1328.1.1 = {
+		holder = c_middlesex-1264.1.1
+	}
+	1344.1.1 = {
+		holder = c_middlesex-1280.1.1
+	}
+	1360.1.1 = {
+		holder = c_middlesex-1296.1.1
+	}
+	1376.1.1 = {
+		holder = c_middlesex-1312.1.1
+	}
+	1392.1.1 = {
+		holder = c_middlesex-1328.1.1
+	}
+	1408.1.1 = {
+		holder = c_middlesex-1344.1.1
+	}
+	1424.1.1 = {
+		holder = c_middlesex-1360.1.1
+	}
+	1440.1.1 = {
+		holder = c_middlesex-1376.1.1
+	}
+}
+
 e_britannia = {
 	867.1.1 = {
 		change_development_level = 8
@@ -5623,7 +5734,7 @@ e_britannia = {
 					exists = holder
 					holder = { has_government = administrative_government }
 				}
-				set_state_faith = faith:brythonism
+				set_state_faith = faith:brythonic
 			}
 			if = {
 				limit = {
@@ -5734,7 +5845,7 @@ e_north_sea = {
 					exists = holder
 					holder = { has_government = administrative_government }
 				}
-				set_state_faith = faith:goidelism
+				set_state_faith = faith:goidelic
 			}
 			if = {
 				limit = {

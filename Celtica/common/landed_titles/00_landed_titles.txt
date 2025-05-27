@@ -69496,8 +69496,8 @@ k_winideheim = {
 
 # Celts
 
-e_britannia = {
-	color = { 172 22 22 }
+e_celtica = {
+	color = celtic
 
 	capital = c_middlesex
 
@@ -69512,19 +69512,10 @@ e_britannia = {
 			}
 			add = @correct_culture_primary_score
 		}
-		if = {
-			limit = {
-				OR = {
-					culture = { has_cultural_pillar = heritage_brythonic }
-					culture = { has_cultural_pillar = heritage_goidelic }
-				}
-			}
-			add = @better_than_the_alternatives_score
-		}
 	}
 	
 	k_greater_london = {
-		color = { 202 26 26 }
+		color = celtic
 
 		capital = c_middlesex
 
@@ -69534,8 +69525,7 @@ e_britannia = {
 					is_ai = yes
 				}
 				OR = {
-					culture = { has_cultural_pillar = heritage_brythonic }
-					culture = { has_cultural_pillar = heritage_goidelic }
+					culture = { has_cultural_pillar = heritage_celtic }
 				}
 			}
 		}
@@ -69543,19 +69533,9 @@ e_britannia = {
 		ai_primary_priority = {
 			if = {
 				limit = {
-					culture = { has_cultural_pillar = heritage_brythonic }
-					culture = { has_cultural_pillar = heritage_goidelic }
+					culture = { has_cultural_pillar = heritage_celtic }
 				}
 				add = @correct_culture_primary_score
-			}
-			if = {
-				limit = {
-					OR = {
-						culture = { has_cultural_pillar = heritage_brythonic }
-						culture = { has_cultural_pillar = heritage_goidelic }
-					}
-				}
-				add = @better_than_the_alternatives_score
 			}
 		}
 
@@ -69595,9 +69575,36 @@ e_britannia = {
 			}
 		}
 	}
+}
+
+e_britannia = {
+	color = brythonic
+
+	capital = c_middlesex
+
+	can_create = {
+		rule_title_creation_imperial_power_projection_title_creation_trigger = yes
+	}
+
+	ai_primary_priority = {
+		if = {
+			limit = {
+				culture = { has_cultural_pillar = heritage_brythonic }
+			}
+			add = @correct_culture_primary_score
+		}
+		if = {
+			limit = {
+				OR = {
+					culture = { has_cultural_pillar = heritage_celtic }
+				}
+			}
+			add = @better_than_the_alternatives_score
+		}
+	}
 	
 	k_england = {
-		color = { 202 26 26 }
+		color = loegric
 
 		capital = c_middlesex
 
@@ -70317,7 +70324,7 @@ e_britannia = {
 	}
 
 	k_daneland = {
-		color = { 200 40 15 }
+		color = cumbrian
 
 		capital = c_north_riding
 
@@ -70585,7 +70592,7 @@ e_britannia = {
 	}
 
 	k_cornwall = {
-		color = { 204 153 10 }
+		color = cornish
 
 		capital = c_devon
 
@@ -70682,7 +70689,7 @@ e_britannia = {
 	}
 
 	k_wales = {
-		color = { 135 25 3 }
+		color = welsh
 
 		capital = c_cardiganshire # Gwynedd
 
@@ -70948,7 +70955,7 @@ e_britannia = {
 	}
 
 	k_scotland = {
-		color = { 230 140 0 }
+		color = pictish
 
 		capital = c_gowrie #Gowrie
 
@@ -71462,7 +71469,7 @@ e_britannia = {
 }
 
 e_north_sea = {
-	color = { 0 0 60 }
+	color = goidelic
 
 	capital = c_dublin	#Dublihn
 
@@ -71473,15 +71480,14 @@ e_north_sea = {
 	ai_primary_priority = {
 		if = {
 			limit = {
-				culture = { has_cultural_pillar = heritage_celtic }
+				culture = { has_cultural_pillar = heritage_goidelic }
 			}
 			add = @correct_culture_primary_score
 		}
 		if = {
 			limit = {
 				OR = {
-					culture = { has_cultural_pillar = heritage_brythonic }
-					culture = { has_cultural_pillar = heritage_goidelic }
+					culture = { has_cultural_pillar = heritage_celtic }
 				}
 			}
 			add = @better_than_the_alternatives_score
@@ -71489,7 +71495,7 @@ e_north_sea = {
 	}
 
 	k_ireland = {
-		color = { 6 127 2 }
+		color = irish
 
 		capital = c_dublin # Dublin
 
@@ -71893,7 +71899,7 @@ e_north_sea = {
 	}
 
 	k_mann_the_isles = {
-		color = { 124 59 8 }
+		color = gaelic
 
 		capital = c_isle_of_man	#Man
 
@@ -72030,7 +72036,7 @@ e_north_sea = {
 	}
 
 	k_iceland = {
-		color = { 216 216 216 }
+		color = icelandic
 
 		capital = c_vestisland
 
