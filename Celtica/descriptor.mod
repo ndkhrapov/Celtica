@@ -6,4 +6,4 @@ tags={
 	"Culture"
 }
 name="Celtica"
-supported_version="1.16.2.1"
+supported_version="1.16.2.2"
